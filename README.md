@@ -18,8 +18,6 @@
 <img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
 <img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
 <img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
 </a>
 
 
