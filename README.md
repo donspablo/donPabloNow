@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm (don) Pablo</h1>
 <h3 align="center">A passionate Software Nomad and Digital Engineer.</h3>
-<image width="100%" src="background:url(https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
+<image width="100%" src="https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
 <br/>
 <hr />
-<br/><br/><br/>
+<br/>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a></p>
-<br/><br/><br/>
+<br/>
 <hr />
 <br/>
 <a align="right"  href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
