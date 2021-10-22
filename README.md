@@ -10,7 +10,12 @@
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 
 
-<a href="https://gitcoin.co/donpablonow" target="_blank">  <img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" /></a> <a href="https://gitcoin.co/donpablonow" target="_blank">  <img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" /></a> <a href="https://gitcoin.co/donpablonow" target="_blank">  <img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" /></a> <a href="https://gitcoin.co/donpablonow" target="_blank">  <img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" /></a>
+<a align="center" href="https://gitcoin.co/donpablonow" target="_blank">
+<img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
+<img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
+<img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
+<img width="200px"align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
+</a>
 
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
