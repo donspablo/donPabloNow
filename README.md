@@ -9,7 +9,10 @@
 <br/>
 <a align="right"  href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 <br/>
-<img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
+<div style="background:url(https://www.donpablonow.com/assets/img/banner/don.jpg)">
+<h1>(don) Pablo ൫</h1>
+<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
+<div>
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
@@ -36,6 +39,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="donpablonow" height="30" width="40" /></a>
