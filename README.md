@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm (don) Pablo</h1>
 <h3 align="center">A passionate Software Nomad and Digital Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a> <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a> </p>
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
@@ -54,7 +50,7 @@
 <a href="https://auth.geeksforgeeks.org/user/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://discord.gg/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="donpablonow" height="30" width="40" /></a>
-<a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.donpablonow.com/rss" height="30" width="40" /></a>
+<a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
