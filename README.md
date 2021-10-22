@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm (don) Pablo</h1>
 <h3 align="center">A passionate Software Nomad and Digital Engineer.</h3>
-<br/><br/><br/>
+<image width="100%" src="background:url(https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
+<br/>
 <hr />
 <br/><br/><br/>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a></p>
@@ -9,10 +10,8 @@
 <br/>
 <a align="right"  href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 <br/>
-<div style="background:url(https://www.donpablonow.com/assets/img/banner/don.jpg)">
 <h1>(don) Pablo ൫</h1>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
-<div>
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
