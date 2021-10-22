@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm (don) Pablo</h1>
 <h3 align="center">A passionate Software Nomad and Digital Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a> <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a> </p>
+<p><img src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a></p>
+
+<a href="https://twitter.com/donpablonow" target="blank">
+  
+<img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
