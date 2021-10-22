@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Software Nomad and Digital Engineer.</h3>
 <image width="100%" src="https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
 <br/>
-<hr />
-<br/>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a></p>
-<br/>
-<hr />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" /></p>
 <br/>
 <a align="right"  href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 <br/>
@@ -70,4 +66,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/donpablonow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a></p><br><br>
 </p><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donpablonow&show_icons=true&locale=en&layout=compact" alt="donpablonow" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donpablonow&show_icons=true&locale=en&layout=compact" alt="donpablonow" /></p>
