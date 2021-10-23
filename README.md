@@ -9,18 +9,6 @@
 <h1>(don) Pablo ൫</h1>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 
-
-<a align="center" href="https://gitcoin.co/donpablonow" target="_blank">
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-<img width="100px" align="center" src="https://s.gitcoin.co/static/landingpage/sponsors.e07ea4881856.png" />
-</a>
-
-
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
 - 🌱 I’m currently learning **Kubenetes**
@@ -40,10 +28,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
 - ⚡ Fun fact **I am a funny guy and love making music**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
