@@ -105,7 +105,6 @@
 <span align="center">
  
 <img src="./screenshot.png" width="100%" />
-<img align="left" width="150px" src="./assets/img/pablo-2.gif" />
 <br />
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
@@ -136,7 +135,7 @@
 <a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 </p>
 <br/>
- <img align="right" width="150px" src="./assets/img/pablo-15.gif" />
+ <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
  <br/>
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <br/><br/>
