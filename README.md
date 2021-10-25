@@ -10,6 +10,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
 - 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 
@@ -39,10 +42,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
 - ⚡ Fun fact **I am a funny guy and love making music**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3> />
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
