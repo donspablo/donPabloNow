@@ -37,6 +37,7 @@
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
+ <br />
  🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
 
 <img align="left" width="150px" src="./assets/img/pablo-21.gif" />
