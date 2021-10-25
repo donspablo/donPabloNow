@@ -42,7 +42,7 @@
  🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
  
  <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
-<br/>
+<br/><br/>
 <img align="left" width="150px" src="./assets/img/pablo-18.gif" />
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
@@ -84,10 +84,6 @@
  <h2> Blog posts </h2>
  <br/>
  <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
- <br/>
- <img align="left" width="150px" src="./assets/img/pablo-4.gif" />
- <img align="right" width="250px" src="./assets/img/pablo-16.gif" />
- <br/>
 
 <!-- BLOG-POST-LIST:START -->
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
