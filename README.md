@@ -61,7 +61,7 @@
 
  ⚡ Fun fact **I am a funny guy and love making music**
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-<img width="150px" src="./assets/img/pablo-18.gif" />
+<img width="150px" src="./assets/img/pablo-19.gif" />
 
 <br/>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
