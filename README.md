@@ -1,8 +1,8 @@
 <span align="center">
 
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+<img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <h1>Hi 👋, I'm (don) Pablo</h1>
-<img align="right" width="30px" src="./assets/img/pablo-28.gif" />
+<img align="right" width="25px" src="./assets/img/pablo-28.gif" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
@@ -14,20 +14,20 @@
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
-<img width="200px" src="./assets/img/pablo-26.gif" />
-<img align="left" width="50px" src="./assets/img/pablo-33.gif" />
-<img align="right" width="100px" src="./assets/img/pablo-42.gif" />
+<img width="150px" src="./assets/img/pablo-26.gif" />
+<img align="left" width="40px" src="./assets/img/pablo-33.gif" />
+<img align="right" width="80px" src="./assets/img/pablo-42.gif" />
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
  <br /><br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-<img align="left" width="150px" src="./assets/img/pablo-4.gif" />
+<img align="left" width="40px" src="./assets/img/pablo-34.gif" />
+<img align="left" width="100px" src="./assets/img/pablo-4.gif" />
 
-<img align="right" width="200px" src="./assets/img/pablo-16.gif" />
+<img align="right" width="150px" src="./assets/img/pablo-16.gif" />
 <br />
-<h1>Hello World, my name is (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
+<h1>Hello World, my name is (don) <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
 </span>
 <span align="center">
 <br />
@@ -41,15 +41,15 @@
  <br />
  🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
  
- <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
+ <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
 <br/><br/>
-<img align="left" width="150px" src="./assets/img/pablo-18.gif" />
+<img align="left" width="140px" src="./assets/img/pablo-18.gif" />
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
  
-<img align="left" width="50px" src="./assets/img/pablo-30.gif" />
+<img align="left" width="40px" src="./assets/img/pablo-30.gif" />
 
  🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
@@ -57,9 +57,9 @@
 
  📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
  
-<img align="left" width="45px" src="./assets/img/pablo-40.gif" />
+<img align="left" width="25px" src="./assets/img/pablo-40.gif" />
  
- <img align="right" width="150px" src="./assets/img/pablo-21.gif" />
+ <img align="right" width="130px" src="./assets/img/pablo-21.gif" />
 
  💬 Ask me about **anything**
 
@@ -73,7 +73,7 @@
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 <br/>
  
-<img align="left" width="30px" src="./assets/img/pablo-29.gif" />
+<img align="left" width="25px" src="./assets/img/pablo-29.gif" />
  
 </span><span align="center">
  
@@ -332,16 +332,22 @@
  <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
 <h3 align="left">Support:</h3>
  <br/>
-<a href="https://www.buymeacoffee.com/donpablonow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a></p><br/>
+ 
+<a href="https://www.buymeacoffee.com/donpablonow">
+ <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" />
+ </a>
+ 
+<br/>
+
 <br>
+
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
-<img align="right" width="150px" src="./assets/img/pablo-18.gif" />
+
 <span align="center">
- <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
+ 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<img align="right" width="150px" src="./assets/img/pablo-18.gif" />
-<img align="left" src="https://www.donpablonow.com/assets/img/banner/don.jpg" alt="donpablonow" /><
 
 <img width="100%" src="./assets/img/don (3).png" />
  
