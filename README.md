@@ -4,14 +4,8 @@
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <img align="right" width="30px" src="./assets/img/pablo-28.gif" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
-<img margin-left="100px" width="150px" src="./assets/img/pablo-41.gif" />
-<br/>
-<br/>
-
 </span>
 <span align="center">
- 
-<br/>
  
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
@@ -21,9 +15,8 @@
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
 <br/>
- 
 </span>
-
+<img margin-left="100px" width="150px" src="./assets/img/pablo-41.gif" />
 <span align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
