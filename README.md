@@ -24,9 +24,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <br/>
-</span><span align="center">
+</span>
+<img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 <img align="left" width="150px" src="./assets/img/pablo-22.gif" />
-<h1>heLLo wOrD_ (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1><img width="150px" src="./assets/img/pablo-18.gif" />
+<h1>Hello World, my name is (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
+<span align="center">
 <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 </span><span align="center">
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
