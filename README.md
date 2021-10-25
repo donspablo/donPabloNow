@@ -1,11 +1,10 @@
 <span align="center">
 
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-
+<img align="right" width="30px" src="./assets/img/pablo-28.gif" />
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
-<img width="150px" src="./assets/img/pablo-41.gif" />
-<img align="right" width="50px" src="./assets/img/pablo-28.gif" />
+<img margin-left="100px" width="150px" src="./assets/img/pablo-41.gif" />
 <br/>
 <br/>
 
