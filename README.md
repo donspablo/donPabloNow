@@ -21,9 +21,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
+ <br /><br/>
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <img align="left" width="150px" src="./assets/img/pablo-4.gif" />
-<br/>
+
 <img align="right" width="200px" src="./assets/img/pablo-16.gif" />
 <br />
 <h1>Hello World, my name is (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
@@ -41,7 +42,7 @@
  🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
  
  <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
-
+<br/>
 <img align="left" width="150px" src="./assets/img/pablo-18.gif" />
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
