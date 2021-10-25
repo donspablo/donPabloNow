@@ -61,7 +61,7 @@
  📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
  ⚡ Fun fact **I am a funny guy and love making music**
-<img width="150px" src="./assets/img/pablo-19.gif" />
+<img width="150px" src="./assets/img/pablo-17.gif" />
 
 <br/>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
