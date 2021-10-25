@@ -24,14 +24,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
 </span>
- 
+ <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
 <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
 <h1>(don) Pablo ൫</h1>
 <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
-
-<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 
@@ -45,15 +43,15 @@
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
-<img align="left" width="150px" src="./assets/img/pablo-2.gif" />
+<img align="right" width="150px" src="./assets/img/pablo-2.gif" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
 - 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
 
-<img width="150px" src="./assets/img/pablo-18.gif" />
-
 - 💬 Ask me about **anything**
+
+<img align="right" width="150px" src="./assets/img/pablo-2.gif" />
 
 - 📫 How to reach me **@donPabloNow**
 
@@ -66,26 +64,26 @@
 <br/>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 <br/>
-<img align="right" width="150px" src="./assets/img/pablo-18.gif" />
+
 <span align="center">
 <img   width="45%"  src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
 <span>
  <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
  <br/>
- 
+ <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 # Blog posts
  
  <br/>
- <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
+ 
 <!-- BLOG-POST-LIST:START -->
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
 - [Nvidia Geforce Rtx 3070 Ti Review](https://donpablonow.medium.com/nvidia-geforce-rtx-3070-ti-review-13608057a8ea?source=rss-73f028f71fcb------2)
 - [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
 - [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END -->
- 
+ <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 <br/>
- <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
+ 
 <br />
  
 <img src="./screenshot.png" width="100%" />
@@ -95,7 +93,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
  <br/>
- <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
+ 
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://twitter.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
@@ -119,7 +117,7 @@
 <a href="https://discord.gg/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 </p>
- <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
+ 
 <br/><br/>
  <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
