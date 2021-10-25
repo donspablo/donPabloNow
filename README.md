@@ -94,11 +94,11 @@
 <!-- BLOG-POST-LIST:END --> 
 </span>
 <br/><br/><br/>
-<span align="center">
-<img width="150px" src="./assets/img/pablo-20.gif" />
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-<img align="right" width="250px" src="./assets/img/pablo-1.gif" />
-
+<span align="center">
+ <br/><br/><br/>
+<img width="150px" src="./assets/img/pablo-20.gif" />
+<img width="250px" src="./assets/img/pablo-1.gif" />
 <img src="./screenshot.png" width="100%" />
 <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
 <br />
