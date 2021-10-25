@@ -1,21 +1,32 @@
-<h1 align="center">Hi 👋, I'm (don) Pablo</h1>
-<h3 align="center">A passionate Software Nomad and Digital Engineer.</h3>
+<span align="center">
+ 
+<h1>Hi 👋, I'm (don) Pablo</h1>
+<h3>A passionate Software Nomad and Digital Engineer.</h3>
 
-<image width="100%" src="https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
+<img width="100%" src="https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
+ 
+<br/><br/>
 
+██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
+██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
+██████████████████████████╔╝███████║██████╦╝██║░░░░░██║░░██║<br/>
+█▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
+██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
+▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
+ 
 <br/>
-
-
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
-<br/>
-<a align="right" href="https://twitter.com/donpablonow" target="blank"><img   src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
+</span>
+ 
 <br/>
 <h1>(don) Pablo ൫</h1>
+<a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 
@@ -24,15 +35,8 @@
 - 👯 I’m looking to collaborate on Various Projects, give me a holla! 
 
 - 💬 Talk to me about Anything, very interested in a wide range of topics :) 
-<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
-
-- 🌱 I’m currently learning **Kubenetes**
-
-- 👯 I’m looking to collaborate on [Various Projects](https://github.com/donPabloNow)
-
-- 🤝 I’m looking for help with [Various Projects](https://github.com/donPabloNow)
 
 - 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
@@ -46,15 +50,22 @@
 
 - ⚡ Fun fact **I am a funny guy and love making music**
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
-
+<br/>
+<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
+<br/>
+<span align="center">
+<img   width="45%"  src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
+<span>
+ <br/>
 # Blog posts
+ <br/>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<br/>
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
+ <br/>
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://twitter.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
@@ -78,8 +89,9 @@
 <a href="https://discord.gg/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 </p>
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<br/><br/>
+<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ <br/><br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -270,10 +282,20 @@
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=zapier&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/zapier.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
+<<<<<<< HEAD
 
 <img src="./screenshot.png" width="100%" />
 
+=======
+<br/>
+>>>>>>> 7726d6f6beb5968c4f86b2a210feb2f1a59036cd
 <h3 align="left">Support:</h3>
- <p><a href="https://www.buymeacoffee.com/donpablonow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a></p><br><br>
-</p><br><br>
+ <br/>
+ <p><a href="https://www.buymeacoffee.com/donpablonow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a></p><br/>
+</p><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
+
+<span align="center">
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</span>
