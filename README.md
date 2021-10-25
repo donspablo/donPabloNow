@@ -62,7 +62,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br/>
+<br />
 <img src="./screenshot2.png" width="100%" />
+<br />
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
