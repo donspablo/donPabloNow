@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 
-<img width="100%" src="./assets/img/don (2).png" />
+<img width="100%" src="./assets/img/don (3).png" />
 
 <img align="right" width="50px" src="./assets/img/pablo-28.gif" />
 
