@@ -25,6 +25,7 @@
 <img align="left" width="200px" src="./assets/img/pablo-16.gif" />
 <br/>
 <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
+<br />
 <h1>Hello World, my name is (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
 </span>
 <span align="center">
