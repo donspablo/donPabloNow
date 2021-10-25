@@ -359,3 +359,41 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </span>
+ 
+<hr />
+ 
+[References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)...  [](https://za.linkedin.com/in/donPabloNow "LinkedIn")/[](https://www.freelancer.com/u/uxdev "Freelancer")
+
+[Endorsements (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+C# (25), PHP (16), JavaScript (19), Software Development (38), Agile Methodologies (26), Graphic Design (8), Web Services (9), Scrum (25), SQL (30), ASP.NET (9)...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+[Certifications (21)](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+Six Sigma (CSSC), eBSI Academy, Google Academy, LinkedIn Academy, BitDegree...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+[Jobs (11)](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+Handy Cats, Property24, Naked Snacks, Naspers Limited, Korbitec, Jago®...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+[Education (9)](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+Harvard University, Kiron, eBSI Export Academy, Damelin, Waldorf Michael Oak...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+[Awards (3)](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+
+Kiron University, Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+ 
+ 🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
+
+“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob
+
+This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. This message contains confidential information and is intended only for the individual named. If you are not the named addressee, you should not disseminate, distribute or copy this email. Please notify the sender immediately by email if you have received this email by mistake and delete this email from your system. If you are not the intended recipient, you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited.
+
+♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
+
+© All Rights Reserved (don) Pablo Brincat
+൫
+
