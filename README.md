@@ -34,7 +34,7 @@
  <br />
 </span><span align="center">
 <br />
-<img width="25%" align="right" alt="Github" src="./assets/img/pablo-16.gif" />
+<img width="25%" align="right" alt="Github" src="./assets/img/pablo-4.gif" />
  🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
  <br />
