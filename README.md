@@ -81,9 +81,9 @@
  
 <span>
  
- 
+ <br/>
  <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
- 
+ <br/>
  <img align="left" width="150px" src="./assets/img/pablo-4.gif" />
  <br/>
  <img align="right" width="250px" src="./assets/img/pablo-1.gif" />
