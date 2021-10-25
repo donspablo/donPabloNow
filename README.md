@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm (don) Pablo</h1>
 <h3 align="center">A passionate Software Nomad and Digital Engineer.</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
+<image width="100%" src="https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
 
 <br/>
 
-<image width="100%" src="https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
 <br/>
 <a align="right" href="https://twitter.com/donpablonow" target="blank"><img   src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
@@ -47,7 +48,7 @@
 
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
 
-<h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3> />
+<h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
