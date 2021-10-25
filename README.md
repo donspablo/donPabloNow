@@ -40,9 +40,9 @@
  <br />
  🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
  
- <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
+ <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
-<img align="left" width="150px" src="./assets/img/pablo-21.gif" />
+<img align="left" width="150px" src="./assets/img/pablo-14.gif" />
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
  
@@ -58,7 +58,7 @@
  
 <img align="left" width="45px" src="./assets/img/pablo-40.gif" />
  
- <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
+ <img align="right" width="150px" src="./assets/img/pablo-21.gif" />
 
  💬 Ask me about **anything**
 
