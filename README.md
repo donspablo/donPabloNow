@@ -84,7 +84,7 @@
  <h2> Blog posts </h2>
  <br/>
  <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
-
+<img  align="left" width="250px" src="./assets/img/pablo-20.gif" />
 <!-- BLOG-POST-LIST:START -->
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
 - [Nvidia Geforce Rtx 3070 Ti Review](https://donpablonow.medium.com/nvidia-geforce-rtx-3070-ti-review-13608057a8ea?source=rss-73f028f71fcb------2)
@@ -93,9 +93,6 @@
 <!-- BLOG-POST-LIST:END --> 
  </span>
 <br/>
-
-
-<img  align="left" width="250px" src="./assets/img/pablo-20.gif" />
 <img  align="right" width="250px" src="./assets/img/pablo-1.gif" />
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 
