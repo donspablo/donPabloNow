@@ -25,7 +25,7 @@
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <br/>
 </span>
-<img align="right" width="150px" src="./assets/img/pablo-18.gif" />
+       <img width="150px" src="./assets/img/pablo-18.gif" />
 <img align="left" width="150px" src="./assets/img/pablo-22.gif" />
 <h1>Hello World, my name is (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
 <span align="center">
@@ -48,7 +48,7 @@
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
  
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+<img align="left" width="50px" src="./assets/img/pablo-30.gif" />
 
  🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
@@ -56,15 +56,13 @@
 
  📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
  
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+<img align="left" width="45px" src="./assets/img/pablo-40.gif" />
  
  <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
  💬 Ask me about **anything**
 
  📫 How to reach me **@donPabloNow**
- 
- <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 
  📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
@@ -73,7 +71,9 @@
 <br/>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 <br/>
-
+ 
+<img align="left" width="30px" src="./assets/img/pablo-29.gif" />
+ 
 <span align="center">
  
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
@@ -81,11 +81,12 @@
  
 <span>
  
- <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  
- <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
+ <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
+ 
+ <img align="left" width="150px" src="./assets/img/pablo-4.gif" />
  <br/>
- <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
+ <img align="right" width="250px" src="./assets/img/pablo-1.gif" />
  <h2> Blog posts </h2>
  
  <br/>
