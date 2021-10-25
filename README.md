@@ -33,33 +33,33 @@
 </span><span align="center">
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
+ 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 
-- 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
+ 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
 
-<img align="left" width="150px" src="./assets/img/pablo-2.gif" />
+<img align="left" width="150px" src="./assets/img/pablo-21gif" />
 
-- 👯 I’m looking to collaborate on Various Projects, give me a holla! 
+ 👯 I’m looking to collaborate on Various Projects, give me a holla! 
 
-- 💬 Talk to me about Anything, very interested in a wide range of topics :) 
+ 💬 Talk to me about Anything, very interested in a wide range of topics :) 
 
-- 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
+ 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
-<img align="right" width="150px" src="./assets/img/pablo-2.gif" />
+<img align="right" width="150px" src="./assets/img/pablo-14.gif" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
+ 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
-- 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
+ 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
 
-- 💬 Ask me about **anything**
+ 💬 Ask me about **anything**
 
-<img align="right" width="150px" src="./assets/img/pablo-2.gif" />
+<img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
-- 📫 How to reach me **@donPabloNow**
+ 📫 How to reach me **@donPabloNow**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
+ 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
-- ⚡ Fun fact **I am a funny guy and love making music**
+ ⚡ Fun fact **I am a funny guy and love making music**
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <img width="150px" src="./assets/img/pablo-18.gif" />
 
