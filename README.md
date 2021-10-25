@@ -8,22 +8,25 @@
 <img align="right" width="50px" src="./assets/img/pablo-28.gif" />
 
 <br/>
-<br/>
+
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
 ██████████████████████████╔╝███████║██████╦╝██║░░░░░██║░░██║<br/>
 █▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
+
 <br/>
+</span>
+
 <img width="150px" src="./assets/img/pablo-41.gif" />
-<br/>
- 
+
+<span align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
-</span>
+
  <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
 <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
