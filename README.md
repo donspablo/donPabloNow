@@ -7,8 +7,6 @@
 
 <img align="right" width="50px" src="./assets/img/pablo-28.gif" />
 
-<img width="100px" src="./assets/img/pablo-41.gif" />
-
 <br/>
 
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
@@ -19,6 +17,8 @@
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
  
 <br/>
+ 
+ <img width="100px" src="./assets/img/pablo-41.gif" />
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
