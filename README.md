@@ -23,12 +23,13 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
- <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
 <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
-<img align="left" width="150px" src="./assets/img/pablo-2.gif" />
-<h1>(don) Pablo ൫</h1>
+
+<h1>(don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
 <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
+ 
+ <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 
