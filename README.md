@@ -330,7 +330,7 @@
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=zapier&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/zapier.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
- <br/>
+ <br/><br/><br/>
  <table  align="center" width="100%">
     <tr>
         <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
@@ -342,6 +342,8 @@
         <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
     </tr>
 </table>
+  <br/>
+<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
 <h3 align="left">Support:</h3>
  <br/>
@@ -350,18 +352,10 @@
  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" />
  </a>
  
-<br/>
-
-<br>
-
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
 
 <span align="center">
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img width="100%" src="./assets/img/don (3).png" />
- 
 </span>
