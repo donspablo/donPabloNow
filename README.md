@@ -22,7 +22,7 @@
 </span>
 <br/>
 <span align="center">
-<a align="center" href="https://twitter.com/donpablonow" target="blank"><img   src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
+<a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
  </span>
 <br/>
 <h1>(don) Pablo ൫</h1>
