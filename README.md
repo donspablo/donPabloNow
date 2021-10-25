@@ -34,15 +34,15 @@
  <br />
 </span><span align="center">
 <br />
-<img width="25%" align="right" alt="Github" src="./assets/img/pablo-18.gif" />
+<img width="25%" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
  🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
  <br />
  🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
  
- <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
+ <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
 
-<img align="left" width="150px" src="./assets/img/pablo-14.gif" />
+<img align="left" width="150px" src="./assets/img/pablo-18.gif" />
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
  
