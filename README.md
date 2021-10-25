@@ -72,7 +72,7 @@
  
 <img align="left" width="30px" src="./assets/img/pablo-29.gif" />
  
-<span align="center">
+</span><span align="center">
  
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
@@ -92,13 +92,12 @@
 - [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
 - [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  </span>
-<br/><br/><br/><br/><br/><br/>
-<span align="center">
+<br/>
+<img align="center" width="50px" src="./assets/img/pablo-34.gif" />
 <img  align="center" width="150px" src="./assets/img/pablo-20.gif" />
 <img  align="center" width="250px" src="./assets/img/pablo-1.gif" />
-</span>
+<span align="center">
 <img src="./screenshot.png" width="100%" />
 <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
 <br />
