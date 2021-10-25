@@ -19,13 +19,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
  
-</span>
-<br/>
-<span align="center">
-<a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
- </span>
 <br/>
 <h1>(don) Pablo ൫</h1>
+<a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -51,18 +47,20 @@
 
 - ⚡ Fun fact **I am a funny guy and love making music**
 
-
+<br/><br/>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
-
+<br/><br/>
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
-
+<br/><br/>
 # Blog posts
+ <br/><br/>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<br/><br/>
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
+ <br/><br/>
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://twitter.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
@@ -86,8 +84,9 @@
 <a href="https://discord.gg/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 </p>
-
+<br/><br/>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ <br/><br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -278,12 +277,9 @@
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=zapier&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/zapier.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
-
+<br/><br/>
 <h3 align="left">Support:</h3>
- <p><a href="https://www.buymeacoffee.com/donpablonow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a></p><br><br>
+ <br/><br/>
+ <p><a href="https://www.buymeacoffee.com/donpablonow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a></p><br/><br/>
 </p><br><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
-
-█▀▀▄ █▀▀█ █▀▀▄ ▒█▀▀█ █▀▀█ █▀▀▄ █░░ █▀▀█ <br/>
-█░░█ █░░█ █░░█ ▒█▄▄█ █▄▄█ █▀▀▄ █░░ █░░█ <br/>
-▀▀▀░ ▀▀▀▀ ▀░░▀ ▒█░░░ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀▀<br/>
