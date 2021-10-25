@@ -39,12 +39,12 @@
 <br />
  <br />
  🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
+ 
+ <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
 
 <img align="left" width="150px" src="./assets/img/pablo-21.gif" />
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
-
- <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
 
@@ -53,12 +53,12 @@
  👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
  📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
+ 
+ <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
  💬 Ask me about **anything**
 
  📫 How to reach me **@donPabloNow**
- 
- <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
  📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
