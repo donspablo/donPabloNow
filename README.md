@@ -24,12 +24,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
        <img width="150px" src="./assets/img/pablo-18.gif" />
-<br/>
-</span>      
-<img align="left" width="150px" src="./assets/img/pablo-22.gif" />
-<h1>Hello World, my name is (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
+<br/><br/>
+<h1><img align="left" width="150px" src="./assets/img/pablo-22.gif" />Hello World, my name is (don) <img width="150px" src="./assets/img/pablo-2.gif" /></h1>
+</span>
 <span align="center">
- <br />
+<br />
 <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
  <br />
 </span><span align="center">
