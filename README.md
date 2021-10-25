@@ -5,16 +5,19 @@
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 <img align="right" width="50px" src="./assets/img/pablo-28.gif" />
+
 <br/>
 <br/>
-<br/>
+
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
 ██████████████████████████╔╝███████║██████╦╝██║░░░░░██║░░██║<br/>
 █▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
+
 <br/>
+ 
 </span>
 
 <img width="150px" src="./assets/img/pablo-41.gif" />
@@ -24,7 +27,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
-
+<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
 <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
@@ -59,7 +62,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
 - ⚡ Fun fact **I am a funny guy and love making music**
-
+<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <img width="150px" src="./assets/img/pablo-18.gif" />
 
 <br/>
@@ -73,7 +76,7 @@
  <br/>
  <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 # Blog posts
- 
+ <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
  
 <!-- BLOG-POST-LIST:START -->
@@ -86,7 +89,7 @@
 <br/>
  
 <br />
- 
+ <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <img src="./screenshot.png" width="100%" />
  <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
 <br />
@@ -118,7 +121,7 @@
 <a href="https://discord.gg/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 </p>
- 
+ <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <br/><br/>
  <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -318,6 +321,7 @@
  <br/>
 <a href="https://www.buymeacoffee.com/donpablonow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a></p><br/>
 <br>
+<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
 <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
 <span align="center">
