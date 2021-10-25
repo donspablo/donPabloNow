@@ -94,9 +94,10 @@
  </span>
 <br/>
 
+
+<img  align="left" width="250px" src="./assets/img/pablo-20.gif" />
+<img  align="right" width="250px" src="./assets/img/pablo-1.gif" />
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-<img  align="right" width="150px" src="./assets/img/pablo-20.gif" />
-<img  align="left" width="250px" src="./assets/img/pablo-1.gif" />
 
 <span align="center">
  
