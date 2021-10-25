@@ -83,15 +83,21 @@
  <br/>
  <h2> Blog posts </h2>
  <br/>
+ 
  <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
+ 
 <img  align="left" width="250px" src="./assets/img/pablo-20.gif" />
+ 
 <!-- BLOG-POST-LIST:START -->
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
 - [Nvidia Geforce Rtx 3070 Ti Review](https://donpablonow.medium.com/nvidia-geforce-rtx-3070-ti-review-13608057a8ea?source=rss-73f028f71fcb------2)
 - [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
 - [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
+ 
 <!-- BLOG-POST-LIST:END --> 
+ 
  </span>
+ 
 <br/>
 <img  align="right" width="250px" src="./assets/img/pablo-1.gif" />
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
