@@ -22,7 +22,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
-
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br/>
