@@ -44,11 +44,11 @@
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
 
+ <img align="right" width="150px" src="./assets/img/pablo-14.gif" />
+ 
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
 
  🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
-
-<img align="right" width="150px" src="./assets/img/pablo-14.gif" />
 
  👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
@@ -57,11 +57,12 @@
  💬 Ask me about **anything**
 
  📫 How to reach me **@donPabloNow**
+ 
+ <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
  📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
  ⚡ Fun fact **I am a funny guy and love making music**
-<img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
 <br/>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
