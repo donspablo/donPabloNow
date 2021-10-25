@@ -18,7 +18,7 @@
  
 <br/>
  
- <img width="100px" src="./assets/img/pablo-41.gif" />
+ <img width="250px" src="./assets/img/pablo-41.gif" />
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
