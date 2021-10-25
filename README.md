@@ -10,6 +10,11 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
+
+█▀▀▄ █▀▀█ █▀▀▄ ▒█▀▀█ █▀▀█ █▀▀▄ █░░ █▀▀█ 
+█░░█ █░░█ █░░█ ▒█▄▄█ █▄▄█ █▀▀▄ █░░ █░░█ 
+▀▀▀░ ▀▀▀▀ ▀░░▀ ▒█░░░ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀▀
+
 <br/>
 <a align="right" href="https://twitter.com/donpablonow" target="blank"><img   src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
 <br/>
@@ -24,15 +29,8 @@
 - 👯 I’m looking to collaborate on Various Projects, give me a holla! 
 
 - 💬 Talk to me about Anything, very interested in a wide range of topics :) 
-<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 
 - 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
-
-- 🌱 I’m currently learning **Kubenetes**
-
-- 👯 I’m looking to collaborate on [Various Projects](https://github.com/donPabloNow)
-
-- 🤝 I’m looking for help with [Various Projects](https://github.com/donPabloNow)
 
 - 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
@@ -45,6 +43,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
 - ⚡ Fun fact **I am a funny guy and love making music**
+
+
+<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
 
