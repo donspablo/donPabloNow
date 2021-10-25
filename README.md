@@ -47,6 +47,8 @@
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
+ 
+<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 
  🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
@@ -54,11 +56,15 @@
 
  📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
  
+<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+ 
  <img align="right" width="150px" src="./assets/img/pablo-17.gif" />
 
  💬 Ask me about **anything**
 
  📫 How to reach me **@donPabloNow**
+ 
+ <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 
  📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
@@ -69,13 +75,19 @@
 <br/>
 
 <span align="center">
-<img   width="45%"  src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
+ 
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
+<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
+ 
 <span>
+ 
+ <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+ 
  <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
  <br/>
  <img align="right" width="150px" src="./assets/img/pablo-18.gif" />
-# Blog posts
- <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+ <h2> Blog posts </h2>
+ 
  <br/>
  
 <!-- BLOG-POST-LIST:START -->
