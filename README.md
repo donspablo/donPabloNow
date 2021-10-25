@@ -4,6 +4,7 @@
 
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
+<img width="150px" src="./assets/img/pablo-41.gif" />
 <img align="right" width="50px" src="./assets/img/pablo-28.gif" />
 <br/>
 <br/>
@@ -23,8 +24,6 @@
 <br/>
  
 </span>
-
-<img width="150px" src="./assets/img/pablo-41.gif" />
 
 <span align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
