@@ -1,11 +1,15 @@
 <span align="center">
- 
+
+<img align="left" width="50px" src=""./assets/img/pablo-34.gif" />
+
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 
-<img width="100%" src="https://www.donpablonow.com/assets/img/banner/don.jpg" align="center"/>
- 
-<br/><br/>
+<img align="right" width="50px" src=""./assets/img/pablo-28.gif" />
+
+<img width="100px" src=""./assets/img/pablo-41.gif" />
+
+<br/>
 
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
@@ -20,7 +24,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
 
-</span>
+</>
  
 <br/>
 <h1>(don) Pablo ൫</h1>
