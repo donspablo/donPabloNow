@@ -95,10 +95,12 @@
 - [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
 - [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END -->
- <img width="150px" src="./assets/img/pablo-20.gif" />
- <img align="right" width="250px" src="./assets/img/pablo-1.gif" />
-<br/>
  
+ <br/>
+ 
+ <img align="left" width="150px" src="./assets/img/pablo-20.gif" />
+ <img align="right" width="250px" src="./assets/img/pablo-1.gif" />
+
 <br />
  <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <img src="./screenshot.png" width="100%" />
