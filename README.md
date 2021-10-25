@@ -35,7 +35,7 @@
  <br />
 </span><span align="center">
 <br />
-<img width="25%" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
+<img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
  🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
  <br />
@@ -43,17 +43,18 @@
  
  <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
 <br/><br/>
-<img align="left" width="140px" src="./assets/img/pablo-18.gif" />
 
  👯 I’m looking to collaborate on Various Projects, give me a holla! 
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
  
-<img align="left" width="40px" src="./assets/img/pablo-30.gif" />
+<img align="left" width="140px" src="./assets/img/pablo-18.gif" />
 
  🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
  👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
+ 
+<img align="left" width="40px" src="./assets/img/pablo-30.gif" />
 
  📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
  
@@ -329,7 +330,19 @@
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=zapier&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/zapier.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
- <img align="left" width="150px" src="./assets/img/pablo-2.gif" />
+ 
+ <table  align="center" width="100%">
+    <tr>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
+        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
+    </tr>
+</table>
+ 
 <h3 align="left">Support:</h3>
  <br/>
  
