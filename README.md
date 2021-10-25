@@ -5,8 +5,6 @@
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 
-<img width="100%" src="./assets/img/don (3).png" />
-
 <img align="right" width="50px" src="./assets/img/pablo-28.gif" />
 
 <img width="100px" src="./assets/img/pablo-41.gif" />
@@ -316,4 +314,6 @@
 
 <img align="left" src="https://www.donpablonow.com/assets/img/banner/don.jpg" alt="donpablonow" /><
 
+<img width="100%" src="./assets/img/don (3).png" />
+ 
 </span>
