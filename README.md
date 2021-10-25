@@ -56,14 +56,11 @@
 
  💬 Ask me about **anything**
 
-<img align="right" width="150px" src="./assets/img/pablo-17.gif" />
-
  📫 How to reach me **@donPabloNow**
 
  📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
 
  ⚡ Fun fact **I am a funny guy and love making music**
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <img width="150px" src="./assets/img/pablo-19.gif" />
 
 <br/>
