@@ -86,7 +86,8 @@
  
  <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
  
-<img  align="left" width="250px" src="./assets/img/pablo-20.gif" />
+<img  align="left" width="250px" src="./assets/img/pablo-22.gif" />
+ <img  align="right" width="250px" src="./assets/img/pablo-37.gif" />
  
 <!-- BLOG-POST-LIST:START -->
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
@@ -99,7 +100,6 @@
  </span>
  
 <br/>
-<img  align="right" width="250px" src="./assets/img/pablo-1.gif" />
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 
 <span align="center">
