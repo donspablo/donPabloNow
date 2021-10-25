@@ -15,7 +15,7 @@
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
 </span>
-<img margin-left="100px" width="40px" src="./assets/img/pablo-32.gif" />
+           <img width="60px" src="./assets/img/pablo-42.gif" />
 <span align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
