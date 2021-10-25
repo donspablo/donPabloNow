@@ -56,18 +56,28 @@
 <span align="center">
 <img   width="45%"  src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" /><img  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
 <span>
+ 
  <br/>
+ 
 # Blog posts
+ 
  <br/>
+ 
 <!-- BLOG-POST-LIST:START -->
+ 
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
 - [Nvidia Geforce Rtx 3070 Ti Review](https://donpablonow.medium.com/nvidia-geforce-rtx-3070-ti-review-13608057a8ea?source=rss-73f028f71fcb------2)
 - [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
 - [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
+ 
 <!-- BLOG-POST-LIST:END -->
+ 
 <br/>
+ 
 <br />
+ 
 <img src="./screenshot.png" width="100%" />
+ 
 <br />
 <h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 32px /></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
