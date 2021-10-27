@@ -21,7 +21,7 @@
 <br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
     
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Pablo+helped+me+with+the+layout+and+design+of+my+webpage+via+Freelancer.com.+Pablo+was+extremely+patient+and+worked+to+my+schedule+while+teaching+me+the+various+elements+to+manage+myself+Would+highly+recommend+him+to+support+those+looking+to+improve+their+web+presence;Ryan+Darnell+(Operations+Director,+Technical+Services+at+BGIS)">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?color=%235800F7&size=9&multiline=true&lines=I+would+highly+recommend+Pablo+to+improve+your+web+presence.;Ryan+Darnell+-+Operations+Director%2C+Technical+Services+at+BGIS">
     
 </span>
 <span align="center">
