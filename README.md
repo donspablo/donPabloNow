@@ -8,7 +8,7 @@
 <img align="right" width="115px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 <img align="left" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
-<img align="right" width="55px" src="https://badges.pufler.dev/repos/donPabloNow" />
+<img align="right" width="55px" src="https://img.shields.io/badge/Follow-1500-blue?logo=github&style=social" />
 </span>
 <span align="center">
 
