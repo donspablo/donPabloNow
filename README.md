@@ -39,7 +39,7 @@
  <br/><br/><br/><br/><br/><br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/img/youtube.png" 
-alt="don Pablo Video" width="500" height="400" border="10" /></a>
+alt="don Pablo Video" border="10" /></a>
 <br/><br/><br/><br/><br/><br/>
 <span align="center">
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
