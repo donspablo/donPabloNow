@@ -38,7 +38,7 @@
 </span>
  <br/><br/><br/><br/><br/><br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
-" target="_blank"><img src="http://img.youtube.com/vi/nqJiRiFo9X8/0.jpg" 
+" target="_blank"><img src="./assets/img/pablo-34.gif" 
 alt="don Pablo Video" width="500" height="400" border="10" /></a>
 <br/><br/><br/><br/><br/><br/>
 <span align="center">
