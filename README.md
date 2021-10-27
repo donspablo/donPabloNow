@@ -145,9 +145,11 @@ alt="don Pablo Video" border="10" /></a>
 
 <img src="./screenshot.png" width="100%" />
 
-<br /><br />
+<br /><br /><br />
     
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a>
+    
+<br /><br /><br />
     
 <img alt="Scrooge McDuckin’"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TWNEdWNraW4/79-retro.png"/>
 
