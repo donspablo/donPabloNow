@@ -10,6 +10,7 @@
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <a href="https://www.youtube.com/c/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
+<a href="https://www.instagram.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Instagram-50k-blue" /></a>
 <img align="right" width="35px" src="./assets/img/pablo-28.gif" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
