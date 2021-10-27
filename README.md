@@ -64,7 +64,7 @@ alt="don Pablo Video" border="10" /></a>
 <br />
 
 <br /><br />
-<img alt="Bread & honey" width="90%"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QnJlYWQgJiBIb25leQ/79-retro.png" />
+<img alt="Bread & honey"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QnJlYWQgJiBob25leQ/79-retro.png" />
 
 <a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
 
