@@ -20,20 +20,17 @@
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
-  <br/>
-</span>
-<b>INDEX:</b><br/>
-- <a href="#db">The DL</a><br/>
-- <a href="#bh">Bread & honey</a><br/>
-- <a href="#yo">Yolo</a><br/>
-- <a href="#sm">Scrooge McDuckin</a><br/>
-- <a href="#hb">Holla Back</a><br/>
-- <a href="#cr">Credibility</a><br/>
-- <a href="#sk">Skills</a><br/>
-- <a href="#ho">Homies</a><br/>
-- <a href="#dr">Drip</a><br/>
+<img alt="The Index" height="55px" src="https://see.fontimg.com/api/renderfont4/3zRBM/eyJyIjoiZnMiLCJoIjoxMzMsInciOjEwMDAsImZzIjoxMzMsImZnYyI6IiNDMTE2NjYiLCJiZ2MiOiIjRkZGRkZGIiwidCI6MX0/VGhlIEluZGV4/attack-graffiti.png" /><br/><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/MQ/79-retro.png"/><a href="#db"><img alt="The DL" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjN0FFMjExIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIERM/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Mg/79-retro.png" /><a href="#bh"><img alt="Bread & honey" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QnJlYWQgJiBob25leQ/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Mw/79-retro.png" /><a href="#yo"><img alt="Yolo" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/WW9sbw/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/NA/79-retro.png" /><a href="#sm"><img alt="Scrooge McDuckin" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2Nyb29nZSBNY0R1Y2tpbg/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/NQ/79-retro.png" /><a href="#hb"><img alt="Holla Back" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SG9sbGEgQmFjaw/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Ng/79-retro.png" /><a href="#cr"><img alt="Credibility" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3JlZA/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Nw/79-retro.png" /><a href="#sk"><img alt="Skills" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2tpbGxz/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/OA/79-retro.png" /><a href="#ho"><img alt="Homies" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2tpbGxz/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/OQ/79-retro.png" /><a href="#dr"><img alt="Drip" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/RHJpcA/79-retro.png" /></a><br/>
  <br/>
-<span align="center">
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
