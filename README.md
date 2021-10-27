@@ -14,12 +14,12 @@
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br />
- <img width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
 <a href="https://www.github.com/donPablonow"><img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
 <a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-blue" /></a>
 <a href="https://www.twitter.com/donPablonow"><img width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
 <br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
+<img width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
@@ -32,7 +32,7 @@
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
 
-<img width="150px" src="./assets/img/pablo-26.gif" />
+<img align="right" width="150px" src="./assets/img/pablo-26.gif" />
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
  
