@@ -34,11 +34,11 @@
 <img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/>
 <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" /><img align="left" width="15%" src="./assets/img/pablo-24.gif" />
  <br /><br/>
-<img align="right" width="15%" src="./assets/img/youtube.png" />
+<img align="right" width="15%" src="./assets/img/pablo-26.gif" />
 </span>
  <br/><br/><br/><br/><br/><br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
-" target="_blank"><img src="./assets/img/pablo-34.gif" 
+" target="_blank"><img src="./assets/img/youtube.png" 
 alt="don Pablo Video" width="500" height="400" border="10" /></a>
 <br/><br/><br/><br/><br/><br/>
 <span align="center">
