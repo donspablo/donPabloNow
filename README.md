@@ -21,7 +21,7 @@
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
 <img alt="The Index" height="55px" src="https://see.fontimg.com/api/renderfont4/3zRBM/eyJyIjoiZnMiLCJoIjoxMzMsInciOjEwMDAsImZzIjoxMzMsImZnYyI6IiNDMTE2NjYiLCJiZ2MiOiIjRkZGRkZGIiwidCI6MX0/VGhlIEluZGV4/attack-graffiti.png" /><br/><br/>
-<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/MQ/79-retro.png"/><a href="#db"><img alt="The DL" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjN0FFMjExIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIERM/79-retro.png" /></a><br/>
+<img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/MQ/79-retro.png"/><a href="#db"><img alt="The 411" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjIxMUUyIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIDQgMSAx/79-retro.png" /></a><br/>
 <img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Mg/79-retro.png" /><a href="#bh"><img alt="Bread & honey" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QnJlYWQgJiBob25leQ/79-retro.png" /></a><br/>
 <img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Mw/79-retro.png" /><a href="#yo"><img alt="Yolo" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/WW9sbw/79-retro.png" /></a><br/>
 <img height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjQzExNjY2IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/NA/79-retro.png" /><a href="#sm"><img alt="Scrooge McDuckin" height="25px" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjc2NTY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2Nyb29nZSBNY0R1Y2tpbg/79-retro.png" /></a><br/>
@@ -79,7 +79,7 @@
 <br /><br />
 
  
-<img id="db" alt="The DL"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIERM/79-retro.png" /><br />
+<img id="db" alt="The 411"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjIxMUUyIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIDQgMSAx/79-retro.png" /><br />
 
 <a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br /><br />
 
