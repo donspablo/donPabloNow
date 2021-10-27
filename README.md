@@ -14,6 +14,7 @@
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br />
+ <img width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
 <a href="https://www.github.com/donPablonow"><img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
 <a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-blue" /></a>
@@ -435,8 +436,4 @@ This email and any files transmitted with it are confidential and intended solel
 © All Rights Reserved (don) Pablo Brincat
 ൫
  
-<span align="center">
-<br /><br />
-<img align="center" width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
-<br /><br />
-</span>
+<img align="right" width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
