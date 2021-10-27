@@ -5,7 +5,7 @@
 <br/>
 <span align="center">
 <h1>(don) Pablo's Software Developer Profile</h1>
-<img width="70%" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gYW5kIFdlbGNvbWU/79-retro.png" />
+<img alt="Welcome" width="70%" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gYW5kIFdlbGNvbWU/79-retro.png" />
 <img align="right" width="100px" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
@@ -98,7 +98,7 @@
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
  
  <br/>
- <h2><img src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V3JpdGluZyBDT2Rl/79-retro.png"/></h2>
+ <h2><img alt="Blogging" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V3JpdGluZyBDT2Rl/79-retro.png"/></h2>
  <br/>
  
  <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
@@ -122,7 +122,7 @@
  
 <img src="./screenshot.png" width="100%" />
 <br />
- <h2><img src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/R2V0IEludG91Y2g/79-retro.png"/></h2>
+ <h2><img alt="Get Intouch" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/R2V0IEludG91Y2g/79-retro.png"/></h2>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
  <br/>
@@ -153,7 +153,7 @@
 <br/>
  <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
  <br/>
-<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ <h2><img alt="Skills" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2tpbGxz/79-retro.png"/></h2>
  <br/><br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
