@@ -146,11 +146,11 @@ alt="don Pablo Video" border="10" /></a>
 <img src="./screenshot.png" width="100%" />
 
 <br /><br /><br />
-<img align="left" width="20%" src="./assets/img/pablo-30.gif" />
+<img align="left" width="20px" src="./assets/img/pablo-30.gif" />
 <img align="left" width="20%" src="https://i.giphy.com/media/pzrEocSp4TPk2zdlNj/200w.webp" />
 <img align="right" width="20%" src="https://media4.giphy.com/media/pVVKJJuEQre3219fLh/giphy.gif?cid=790b7611548ff7021be25a8d46173d2843b6c53592b25e0d&rid=giphy.gif&ct=s" />
-<img align="left" width="20%" src="./assets/img/pablo-29.gif" />
-<img align="right" width="20%" src="./assets/img/pablo-28.gif" />
+<img align="left" width="30px" src="./assets/img/pablo-29.gif" />
+<img align="right" width="25px" src="./assets/img/pablo-28.gif" />
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="55%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a>
     
 <br /><br /><br /><br/>
