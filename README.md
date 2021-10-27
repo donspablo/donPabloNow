@@ -42,7 +42,7 @@
  <br/>
  <img alt="Introduction" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW50cm9kdWN0aW9u/79-retro.png" />
  
-<br /><a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+<br /><a align="right" href="#"><img align="right" width="100px" src="./assets/img/pablo-4.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /<br />
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/img/youtube.png" 
 alt="don Pablo Video" border="10" /></a>
