@@ -196,7 +196,7 @@ alt="don Pablo Video" border="10" /></a>
 
 
 <br /><br />
-<img alt="Skills" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2tpbGxz/79-retro.png"/>
+<img alt="Skills" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2tpbGxz/79-retro.png"/>
 
 <a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
 
@@ -407,7 +407,7 @@ alt="don Pablo Video" border="10" /></a>
 <br/>
 
 <br /><br />
-<img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVmZXJlbmNlcw/79-retro.png"/>
+<img alt="Credibility" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3JlZA/79-retro.png"/>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
 
@@ -416,7 +416,7 @@ alt="don Pablo Video" border="10" /></a>
 <br />
 
 <br /><br />
-<img alt="Certifications" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q2VydGlmaWNhdGlvbnM/79-retro.png"/>
+<img alt="Water" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2F0ZXI/79-retro.png"/>
 
 <br /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
 
