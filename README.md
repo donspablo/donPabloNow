@@ -479,7 +479,7 @@ alt="don Pablo Video" border="10" /></a>
 
 <br /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
 
-A big thanks to the guys and girls working on the projects that made my profile possible:
+A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:
 
 [GitHub profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -513,6 +513,8 @@ Dynamically generated stats for your github readmes
 
 [Giphy](https://github.com/Giphy)
 GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
+
+Thank you guys, I really appreciate all the hard work you put into making Github look amazing!
 
 <br />
 
