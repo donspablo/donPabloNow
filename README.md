@@ -399,9 +399,13 @@ alt="don Pablo Video" border="10" /></a>
  
 <img alt="Buy me a coffee" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YnV5IG1lIGEgY29mZmVl/79-retro.png"/>
  
+ <br />
+ <a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+ 
+ 
  <br /><br /><br /><br />
  
- <a href="#"><img width="100%" height="1px"  src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a>
+<a href="https://www.buymeacoffee.com/donpablonow"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a>
  
  <br /><br /><br /><br />
  
@@ -409,10 +413,6 @@ alt="don Pablo Video" border="10" /></a>
  
  <br /><br /><br /><br />
  
-<a href="https://www.buymeacoffee.com/donpablonow">
- <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" />
- </a>
- <br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
 
 <span align="center">
