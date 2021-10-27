@@ -375,12 +375,8 @@
 
 </span>
 
-<span align="center">
-<br />
-<img src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
-<br />
-</span>
- 
+<img align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
+
 <h2><img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVmZXJlbmNlcw/79-retro.png"/></h2>
  
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)...  [](https://za.linkedin.com/in/donPabloNow "LinkedIn")/[](https://www.freelancer.com/u/uxdev "Freelancer") | [Endorsements (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn")| C# (25), PHP (16), JavaScript (19), Software Development (38), Agile Methodologies (26), Graphic Design (8), Web Services (9), Scrum (25), SQL (30), ASP.NET (9)...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Certifications (21)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Six Sigma (CSSC), eBSI Academy, Google Academy, LinkedIn Academy, BitDegree...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Jobs (11)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Handy Cats, Property24, Naked Snacks, Naspers Limited, Korbitec, Jago®...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Education (9)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Harvard University, Kiron, eBSI Export Academy, Damelin, Waldorf...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Awards (3)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Kiron University, Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
