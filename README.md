@@ -1,7 +1,7 @@
 <span align="center">
 <img align="center" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
 </span>
-<br />
+<br /><span align="center">
 <span align="center">
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <h1>Hi 👋, I'm (don) Pablo</h1>
