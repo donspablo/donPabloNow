@@ -396,7 +396,10 @@ alt="don Pablo Video" border="10" /></a>
  
   <br />
  <br />
+  
+<br />
  
+  <br /><br />
 <img alt="Buy me a coffee" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YnV5IG1lIGEgY29mZmVl/79-retro.png"/>
  
  <br />
@@ -405,12 +408,12 @@ alt="don Pablo Video" border="10" /></a>
  
  <br /><br /><br /><br />
  
-<a href="https://www.buymeacoffee.com/donpablonow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="30%" alt="donpablonow" /></a>
+<a href="https://www.buymeacoffee.com/donpablonow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="20%" alt="donpablonow" /></a>
  
  
  <br /><br /><br /><br />
  
-<a href="https://www.buymeacoffee.com/donpablonow"><img src="./assets/img/thank.gif"  width="30%" alt="thank you" /></a>
+<a href="https://www.buymeacoffee.com/donpablonow"><img src="./assets/img/thank.gif"  width="50%" alt="thank you" /></a>
  
  
  
