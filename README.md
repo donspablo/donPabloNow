@@ -416,9 +416,9 @@ alt="don Pablo Video" border="10" /></a>
 <br />
 
 <br /><br />
-<img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q2VydGlmaWNhdGlvbnM/79-retro.png"/>
+<img alt="Certifications" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q2VydGlmaWNhdGlvbnM/79-retro.png"/>
 
-<br /><a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
+<br /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
 
 🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
 
