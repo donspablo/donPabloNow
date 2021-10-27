@@ -147,7 +147,7 @@ alt="don Pablo Video" border="10" /></a>
 
 <br /><br /><br />
     
-    
+<img align="right" width="10%" src="https://media4.giphy.com/media/pVVKJJuEQre3219fLh/giphy.gif?cid=790b7611548ff7021be25a8d46173d2843b6c53592b25e0d&rid=giphy.gif&ct=s" />
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a>
     
 <br /><br /><br /><br/>
