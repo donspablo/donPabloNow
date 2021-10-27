@@ -36,8 +36,8 @@
  <br /><br/>
 <img align="right" width="90px" src="./assets/img/pablo-26.gif" />
  <br />
- <br/><br /><br/>
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
+ <br/><br />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
  <br /><br/>
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <img align="left" width="100px" src="./assets/img/pablo-4.gif" />
