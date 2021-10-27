@@ -11,8 +11,10 @@
 
 <a href="https://www.github.com/donPablonow"><img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
+ 
 <a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
 <a href="https://www.twitter.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
+ 
 <br /><br />
 <img align="right" width="100px" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
@@ -57,11 +59,14 @@
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
 <img  width="15%" src="./assets/img/pablo-24.gif" />
  
-<br/><br />
- 
-<img alt="The DL" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIERM/79-retro.png" />
+<br /><br />
 
-<a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
+<img alt="The DL"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIERM/79-retro.png" />
+
+<a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
+
+<br />
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/img/youtube.png" 
 alt="don Pablo Video" border="10" /></a>
