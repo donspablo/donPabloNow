@@ -1,5 +1,6 @@
 <span align="center">
-<img src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
+
+<img align="center" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
 
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <h1>Hi 👋, I'm (don) Pablo</h1>
