@@ -38,12 +38,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
  
 <img align="left" width="90px" src="./assets/img/pablo-33.gif" />
-<img align="right" width="90px" src="./assets/img/pablo-42.gif" />
+<img align="right" width="90px" src="./assets/img/pablo-4.gif" />
 
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
  <br /><br/>
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-<img align="left" width="100px" src="./assets/img/pablo-4.gif" />
+<img align="left" width="100px" src="./assets/img/pablo-42.gif" />
 
 <img align="right" width="150px" src="./assets/img/pablo-16.gif" />
 <br />
