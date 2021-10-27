@@ -36,7 +36,7 @@
  <br /><br/>
 <img align="right" width="15%" src="./assets/img/pablo-26.gif" />
 </span>
- <br/><br/><br/><br/><br/>
+ <br/><br/><br/><br/>
 <span align="center">
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
  <br /><br/>
