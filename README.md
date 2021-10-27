@@ -1,15 +1,11 @@
 <span align="center">
-<img align="center" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
-</span>
-<br /><br /><br />
-<span align="center">
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <img align="right" width="25px" src="./assets/img/pablo-28.gif" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
-
+<img align="center" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
 
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
