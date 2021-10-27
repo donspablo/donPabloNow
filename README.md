@@ -360,7 +360,7 @@
   <br/>
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
-<h3 align="left">Support:</h3>
+ <h2><img alt="Buy me a coffee" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YnV5IG1lIGEgY29mZmVl/79-retro.png"/></h2>
  <br/>
  
 <a href="https://www.buymeacoffee.com/donpablonow">
