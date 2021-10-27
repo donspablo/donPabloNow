@@ -29,24 +29,22 @@
 █▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
-
- 
-<br /><br />
-
- 
+<br />
 <img width="90%" src="https://readme-typing-svg.herokuapp.com?color=%23990ADF&size=9&vCenter=true&width=800&lines=Pablo+was+extremely+patient+and+worked+to+my+schedule+while+teaching+me+the+various+elements+to+manage+myself.+Would+highly+recommend+him+to+support+those+looking+to+improve+their+web+presence.;Ryan+Darnell+-+Operations+Director%2C+Technical+Services+at+BGIS;Pablo+is+a+strategic+thinker+with+astute+commercial+awareness.+Pablo+has+clear+communication%2C+logical+and+straightforward+to+partner+with.;Steve+Richards++Founder+Jago%C2%AE+%26+Jago%C2%AE+films%2C+B+Corp%C2%AE+(London%2C+United+Kingdom)+;Pablo+is+by+far+one+of+the+most+inspiring+people+I've+worked+with.+His+work+ethic+is+outstanding.+He's+always+seeking+to+do+better%2C+be+more+efficient+and+always+thinking+outside+the+box.;Mark+Gounden++Senior+Project+Manager+(PMP)+at+Philips+(Utrecht%2C+Netherlands)+;Pablos+does+some+great+work.+He+helped+us+a+develop+a+site+that+we+are+really+happy+with.+He+is+prompt+and+professional.;President%2FCEO+Rock+Hammer+Demolition+(California%2C+United+States)+;Worked+with+Pablo+on+an+adjacent+team.+Our+teams+worked+together+to+complete+certain+stories+that+spanned+teams.;Xhanti+Bomela++Project+Leader%2F+Senior+Software+Engineer+at+Auto+Trader+SA+;I+worked+with+Pablo+on+the+SiteCreator+Team.+Pablo+was+the+Senior+Designer+and+Front+End+Developer+at+the+time+and+worked+on+creating+and+improving+the+various+templates+that+SiteCreator+provided+to+its+customers.+;Daniel+de+Kock++Tech+Lead+%2F+Senior+Developer+at+Allan+Gray+Proprietary+Limited+;Pablo+is+one+of+the+brightest%2C+innovative+thinkers+I+have+met.+He+applies+himself+diligently+to+every+goal%2C+is+enthusiastic+and+extremely+entrepreneurial.;Telsa+Lange++Consulting+Senior+Clinical+Data+Manager+at+ACRO+;I+worked+as+an+external+agency+to+Handy+Cats%2C+recommending+my+clients+to+their+services+when+they+required+high+level+software+or+app+development.+;Taryn+Gloyne++Head+of+Design+and+Web+at+Pargo+;I+had+the+opportunity+to+work+with+Pablo+some+time+ago+and+I+found+him+to+be+very+professional%2C+someone+I+could+rely+on%2C+a+person+that+didn't+get+involved+in+office+politics+but+just+focused+on+getting+the+job+done;Grant+Taylor++Founder+at+Dassie+Grows+;Pablo+is+great+to+work+with.+He+is+always+very+professional+and+willing+to+go+the+extra+mile.;Abigail+Voigt++Office+Administrator+at+South+African+Fruit+Exporters">
 
-<br /><br />
+ 
+ 
+<br />
 
-<img align="right" width="15%" src="./assets/img/pablo-42.gif" />
-<img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/>
-<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
+ 
+<img align="right" width="15%" src="./assets/img/pablo-42.gif" /><img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
 
-<br /><br />
+<br />
 
 </span>
 
 <span align="center">
+ 
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
  
 <img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
