@@ -44,7 +44,7 @@
 
 </span>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" />
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
 
 <span align="center">
  
