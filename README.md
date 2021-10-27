@@ -9,15 +9,15 @@
 
 <img alt="Don Pablo Now" width="80%" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gYW5kIFdlbGNvbWU/79-retro.png" /><img  width="60%"  width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
  
+<a href="https://www.github.com/donPablonow"><img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
+<a href="https://www.youtube.com/c/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
+<a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
+<a href="https://www.twitter.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
+<br /><br />
 <img align="right" width="100px" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
-<br />
-<a href="https://www.github.com/donPablonow"><img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
-<a href="https://www.youtube.com/c/donPablonow"><img width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
-<a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-blue" /></a>
-<a href="https://www.twitter.com/donPablonow"><img width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
 <br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
@@ -32,18 +32,20 @@
 <br /><br/>
 <img align="right" width="15%" src="./assets/img/pablo-42.gif" />
 <img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/>
-<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" /><img align="left" width="15%" src="./assets/img/pablo-24.gif" />
- <br /><br/>
-<img align="right" width="15%" src="./assets/img/pablo-26.gif" />
+<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
+ <br />
 </span>
- <br/><br/><br/><br/><br/><br/>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
-" target="_blank"><img src="http://img.youtube.com/vi/nqJiRiFo9X8/0.jpg" 
-alt="don Pablo Video" width="500" height="400" border="10" /></a>
-<br/><br/><br/><br/><br/><br/>
+ <img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
 <span align="center">
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
- <br /><br/>
+<img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
+ <img  width="15%" src="./assets/img/pablo-24.gif" />
+ <br/>
+ <img alt="Introduction" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW50cm9kdWN0aW9u/79-retro.png" />
+ 
+<br /><a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
+" target="_blank"><img src="./assets/img/youtube.png" 
+alt="don Pablo Video" border="10" /></a>
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <img align="left" width="100px" src="./assets/img/pablo-4.gif" />
 
@@ -51,6 +53,9 @@ alt="don Pablo Video" width="500" height="400" border="10" /></a>
 <br />
 <h1>Hello World, my name is (don) <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
 </span>
+<br />
+ <img width="15%" src="./assets/img/pablo-26.gif" />
+ <br />
 <span align="center">
 <br />
 <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
@@ -61,7 +66,7 @@ alt="don Pablo Video" width="500" height="400" border="10" /></a>
  <br /><br />
 <img alt="Current Projects" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3VycmVudCBQcm9qZWN0cw/79-retro.png" />
  
-<br /><a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+<br /><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
  
 <img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
  🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
@@ -146,8 +151,6 @@ alt="don Pablo Video" width="500" height="400" border="10" /></a>
 
 <p align="left">
 <br /><a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
- <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
- 
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://twitter.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
@@ -438,7 +441,3 @@ This email and any files transmitted with it are confidential and intended solel
 
 © All Rights Reserved (don) Pablo Brincat
 ൫
- 
-<img align="right" width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
-
- 
