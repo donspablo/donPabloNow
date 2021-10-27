@@ -150,14 +150,18 @@ alt="don Pablo Video" border="10" /></a>
     
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a>
     
-<br /><br /><br /><br />
+<br /><br /><br /><br/>
+
     
     
-<img alt="Scrooge McDuckin'"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TWNEdWNraW4/79-retro.png"/>
 
-<a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br /><br />
+<br /><br />
+<img alt="Scrooge McDuckin" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TWNEdWNraW4/79-retro.png"/>
 
+<a href="#"><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
 
+    
+    
 <br /><br /><br /><br />
 
 <a href="https://www.buymeacoffee.com/donpablonow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="20%" alt="donpablonow" /></a>
