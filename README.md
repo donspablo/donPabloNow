@@ -436,7 +436,7 @@ This email and any files transmitted with it are confidential and intended solel
 ൫
  
 <span align="center">
-
+<br /><br />
 <img align="center" width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
- 
+<br /><br />
 </span>
