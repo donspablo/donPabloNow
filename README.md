@@ -3,10 +3,10 @@
 <span align="center">
 <img align="left" width="70px" src="./assets/img/pablo-34.gif" />
 <br/>
-<img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
-<img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" />
-<img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
+<img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" /><br/>
 <a href="https://twitter.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
+<img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /><br/>
+<img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <img align="left" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="right" width="55px" src="https://badges.pufler.dev/repos/donPabloNow" />
