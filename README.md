@@ -49,6 +49,9 @@
 <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
  <br />
 </span><span align="center">
+ 
+<br /><a href="#"><img width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+ 
 <h2 align="center" ><img align="center" alt="Current Projects" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3VycmVudCBQcm9qZWN0cw/79-retro.png" /></h2>
 <br />
 <img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
@@ -97,7 +100,8 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
  
- <br/>
+<br /><a href="#"><img width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+ 
  <h2><img alt="Blogging" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V3JpdGluZyBDT2Rl/79-retro.png"/></h2>
  <br/>
  
@@ -121,7 +125,9 @@
 <span align="center">
  
 <img src="./screenshot.png" width="100%" />
-<br />
+ 
+<br /><a href="#"><img width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+ 
  <h2><img alt="Get Intouch" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/R2V0IEludG91Y2g/79-retro.png"/></h2>
 <img align="right" src="https://komarev.com/ghpvc/?username=donpablonow&label=Profile%20views&color=0e75b6&style=flat" alt="donpablonow" />
 <p align="left">
@@ -153,6 +159,9 @@
 <br/>
  <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
  <br/>
+ 
+<br /><a href="#"><img width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+ 
  <h2><img alt="Skills" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2tpbGxz/79-retro.png"/></h2>
  <br/><br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -360,6 +369,9 @@
   <br/>
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
+ 
+<br /><a href="#"><img width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+ 
  <h2><img alt="Buy me a coffee" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YnV5IG1lIGEgY29mZmVl/79-retro.png"/></h2>
  <br/>
  
@@ -375,11 +387,13 @@
 
 </span>
 
-<img width="100%" height="2px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
+<br /><a href="#"><img width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
 
 <h2><img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVmZXJlbmNlcw/79-retro.png"/></h2>
  
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)...  [](https://za.linkedin.com/in/donPabloNow "LinkedIn")/[](https://www.freelancer.com/u/uxdev "Freelancer") | [Endorsements (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn")| C# (25), PHP (16), JavaScript (19), Software Development (38), Agile Methodologies (26), Graphic Design (8), Web Services (9), Scrum (25), SQL (30), ASP.NET (9)...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Certifications (21)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Six Sigma (CSSC), eBSI Academy, Google Academy, LinkedIn Academy, BitDegree...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Jobs (11)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Handy Cats, Property24, Naked Snacks, Naspers Limited, Korbitec, Jago®...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Education (9)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Harvard University, Kiron, eBSI Export Academy, Damelin, Waldorf...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Awards (3)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Kiron University, Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+ 
+<br /><a href="#"><img width="100%" height="1px" align="center" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
  
  <h2><img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q2VydGlmaWNhdGlvbnM/79-retro.png"/></h2>
  
