@@ -30,9 +30,9 @@
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 <br /><br/>
-<img align="right" width="150px" src="./assets/img/pablo-42.gif" />
-<img align="left" width="100" alt="Leaders" src="./assets/img/pablo-33.gif"/>
-<img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" /><img align="left" width="90px" src="./assets/img/pablo-24.gif" />
+<img align="right" width="15%" src="./assets/img/pablo-42.gif" />
+<img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/>
+<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" /><img align="left" width="90px" src="./assets/img/pablo-24.gif" />
  <br /><br/>
 <img align="right" width="90px" src="./assets/img/pablo-26.gif" />
  <br />
