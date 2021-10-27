@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
 <a href="https://www.twitter.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
  
-<b>INDEX:</a>
+<b>INDEX:</b>
 <a href="#db">The DL</a>
 <a href="#bh">Bread & honey</a>
 <a href="#yo">Yolo</a>
