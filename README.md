@@ -378,7 +378,6 @@
 <span align="center">
 <br />
 <img src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
-<a href="#">☝️</a>
 <br />
 </span>
  
