@@ -24,8 +24,8 @@
 
 
 <img width="150px" src="./assets/img/pablo-26.gif" />
-<img align="left" width="90px" src="./assets/img/pablo-33.gif" />
-<img align="right" width="90px" src="./assets/img/pablo-42.gif" />
+<img align="left" width="70px" src="./assets/img/pablo-33.gif" />
+<img align="right" width="70px" src="./assets/img/pablo-42.gif" />
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula)
 
