@@ -439,7 +439,3 @@ This email and any files transmitted with it are confidential and intended solel
 
 © All Rights Reserved (don) Pablo Brincat
 ൫
- 
-<img align="right" width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
-
- 
