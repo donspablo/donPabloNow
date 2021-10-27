@@ -405,12 +405,12 @@ alt="don Pablo Video" border="10" /></a>
  
  <br /><br /><br /><br />
  
-<a href="https://www.buymeacoffee.com/donpablonow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="40%" alt="donpablonow" /></a>
+<a href="https://www.buymeacoffee.com/donpablonow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="30%" alt="donpablonow" /></a>
  
  
  <br /><br /><br /><br />
  
-<a href="https://www.buymeacoffee.com/donpablonow"><img src="./assets/img/thank.gif"  width="40%" alt="donpablonow" /></a>
+<a href="https://www.buymeacoffee.com/donpablonow"><img src="./assets/img/thank.gif"  width="30%" alt="thank you" /></a>
  
  
  
