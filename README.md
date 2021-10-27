@@ -156,7 +156,7 @@ alt="don Pablo Video" border="10" /></a>
 <img align="left" width="7%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" /><img align="right" width="5%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" /><img align="left" width="6%" src="https://camo.githubusercontent.com/0d42edb3c2dcd537266f82f635fce7be10060de205873c658a161023ac66f4d6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6e38444e43543439796c316b6552713870352f323030772e77656270" /><img align="right" width="6%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" /><a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a><img align="left" width="5%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" /><img align="right" width="4%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" /><br />
 <img align="left" width="9px" src="./assets/img/pablo-30.gif" />
 <img align="right" width="15%" src="https://media4.giphy.com/media/pVVKJJuEQre3219fLh/giphy.gif?cid=790b7611548ff7021be25a8d46173d2843b6c53592b25e0d&rid=giphy.gif&ct=s" />
-<img align="left" width="15%" src="https://i.giphy.com/media/pzrEocSp4TPk2zdlNj/200w.webp" /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a>
+<img align="left" width="15%" src="https://i.giphy.com/media/pzrEocSp4TPk2zdlNj/200w.webp" />
 <img align="left" width="10px" src="./assets/img/pablo-29.gif" /><img align="right" width="8px" src="./assets/img/pablo-28.gif" />
    
 </span>
@@ -169,7 +169,7 @@ alt="don Pablo Video" border="10" /></a>
 <br /><br />
 <img alt="Yolo" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/WW9sbw/79-retro.png"/>
 
-<img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
+<br /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
 
     
     
