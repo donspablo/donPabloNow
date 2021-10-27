@@ -37,6 +37,9 @@
 <img align="right" width="15%" src="./assets/img/pablo-26.gif" />
 </span>
  <br/><br/><br/><br/><br/><br/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
+" target="_blank"><img src="http://img.youtube.com/vi/nqJiRiFo9X8/0.jpg" 
+alt="don Pablo Video" width="240" height="180" border="10" /></a>
 <span align="center">
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
  <br /><br/>
