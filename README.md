@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <img align="right" width="35px" src="./assets/img/pablo-28.gif" />
 <img align="left" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
-<img align="right" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
+<img align="right" width="55px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
