@@ -49,11 +49,16 @@
  
 <img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
 </span>
+
 <span align="center">
- <br />
+ 
+ <br /><br />
+ 
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
 <img  width="15%" src="./assets/img/pablo-24.gif" />
-<br/>
+ 
+<br/><br />
+ 
 <img alt="The DL" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIERM/79-retro.png" />
 
 <a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
