@@ -404,15 +404,8 @@ alt="don Pablo Video" border="10" /></a>
     </tr>
 </table>
   <br/>
-<img align="right" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
  
-<br />
- 
- 
-
-<br />
-
   <br /><br />
 <img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVmZXJlbmNlcw/79-retro.png"/>
  
