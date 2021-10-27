@@ -478,9 +478,9 @@ alt="don Pablo Video" border="10" /></a>
 <img alt="Homies" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SG9taWVz/79-retro.png"/>
 
 <br /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
-
-A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:
-
+<br />
+<b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
+<br />
 [GitHub profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 
@@ -514,8 +514,9 @@ Dynamically generated stats for your github readmes
 [Giphy](https://github.com/Giphy)
 GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
-Thank you for making Github, Beautiful Again!
-
+<br />
+<b>Thank you for making Github, Beautiful Again!</b>
+<br />
 <br />
 
 <br /><br />
