@@ -41,11 +41,15 @@
  
 <img align="right" width="15%" src="./assets/img/pablo-42.gif" /><img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
 
+ 
 <br />
 
+ 
 </span>
 
+
 <span align="center">
+ 
  
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
  
@@ -54,17 +58,22 @@
 
 <span align="center">
  
+ 
  <br /><br />
  
+ 
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
-<img  width="15%" src="./assets/img/pablo-24.gif" />
+<img  width="15%" src="./assets/img/pablo-24.gif" /><br />
+ 
  
 <br /><br />
 
+ 
 <img alt="The DL"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VGhlIERM/79-retro.png" />
 
 <a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
 
+ 
 <br />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
