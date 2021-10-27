@@ -5,10 +5,10 @@
 <h1>Hi 👋, I'm (don) Pablo</h1>
 <img align="right" width="35px" src="./assets/img/pablo-28.gif" />
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
-<img align="right" width="115px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
+<img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 <img align="left" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
-<img align="right" width="55px" src="https://img.shields.io/badge/Follow-1500-blue?logo=github&style=social" />
+<img align="right" width="55px" src="https://badges.pufler.dev/repos/donPabloNow" />
 </span>
 <span align="center">
 
