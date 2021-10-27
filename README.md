@@ -434,4 +434,9 @@ This email and any files transmitted with it are confidential and intended solel
 
 © All Rights Reserved (don) Pablo Brincat
 ൫
+ 
+<span align="center">
 
+<img alt="References" src="./assets/img/pablo-24.gif"/>
+ 
+</span>
