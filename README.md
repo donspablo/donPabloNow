@@ -1,6 +1,6 @@
 <img align="right" width="100px" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
 <br/>
-<img align="left" width="20px" src="./assets/img/pablo-34.gif" />
+<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 <img align="right" width="30px" src="./assets/img/pablo-30.gif" />
 <br/>
 <br/>
