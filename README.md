@@ -405,22 +405,14 @@ alt="don Pablo Video" border="10" /></a>
  
  <br /><br /><br /><br />
  
-<a href="https://www.buymeacoffee.com/donpablonow"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="donpablonow" /></a>
+<a href="https://www.buymeacoffee.com/donpablonow"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="45%" alt="donpablonow" /></a>
  
  <br /><br /><br /><br />
  
- <img width="50%" src="./assets/img/thank.gif" />
+ <img width="45%" src="./assets/img/thank.gif" />
  
  <br /><br /><br /><br />
  
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
-
-<span align="center">
- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</span>
-
 <br />
 
   <br /><br />
