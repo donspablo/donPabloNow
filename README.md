@@ -150,10 +150,14 @@ alt="don Pablo Video" border="10" /></a>
 
     
 
+<img align="right" width="10%" src="https://i.giphy.com/media/SvRCZkgrWLOi5UXtFj/giphy.webp" />
+<img align="right" width="10%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" />
 <img align="right" width="10%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
 <img align="right" width="10%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" />
 <img align="left" width="10%" src="https://i.giphy.com/media/SvRCZkgrWLOi5UXtFj/giphy.webp" />
 <img align="left" width="10%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" />
+<img align="left" width="10%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
+<img align="left" width="10%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" />
 <br />
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="35%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a>
 <br />
