@@ -21,6 +21,7 @@
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
   <br/>
+</span>
 <b>INDEX:</b><br/>
 - <a href="#db">The DL</a><br/>
 - <a href="#bh">Bread & honey</a><br/>
@@ -32,6 +33,7 @@
 - <a href="#ho">Homies</a><br/>
 - <a href="#dr">Drip</a><br/>
  <br/>
+<span align="center">
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
