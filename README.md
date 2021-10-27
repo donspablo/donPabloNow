@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/c/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
 <a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
 <a href="https://www.twitter.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
-<br />
+<br /><br />
 <img align="right" width="100px" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
