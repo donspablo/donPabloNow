@@ -31,7 +31,6 @@
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
 
-<br />
 <img align="right" width="150px" src="./assets/img/pablo-26.gif" />
 <img align="left" width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
  
