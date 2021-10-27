@@ -2,7 +2,7 @@
 <br/>
 <span align="center">
 <img align="left" width="70px" src="./assets/img/pablo-34.gif" />
-<br/>
+<br/> 
 <img align="right" width="100px" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
