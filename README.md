@@ -7,6 +7,8 @@
 <img align="left" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="right" width="55px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
+<img align="left" width="45px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
+<img align="right" width="45px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 </span>
 <span align="center">
 
