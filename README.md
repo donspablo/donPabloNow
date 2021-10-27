@@ -54,6 +54,7 @@
 </span><span align="center">
 <br />
  
+ <br /><br />
 <img alt="Current Projects" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3VycmVudCBQcm9qZWN0cw/79-retro.png" />
  
 <br /><a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
@@ -107,6 +108,7 @@
  
 <br />
  
+ <br /><br />
 <img alt="Blogging" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V3JpdGluZyBDT2Rl/79-retro.png"/>
  
 <br /><a href="#"><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /></a><br />
@@ -135,6 +137,7 @@
 
 <br />
  
+ <br /><br />
 <img alt="Get Intouch" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/R2V0IEludG91Y2g/79-retro.png"/>
 
 <p align="left">
@@ -170,7 +173,7 @@
  <br/>
  
 
- 
+ <br /><br />
 <img alt="Skills" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/U2tpbGxz/79-retro.png"/>
  
  <br /><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
@@ -379,11 +382,12 @@
     </tr>
 </table>
   <br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+<img align="right" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
  
 <br />
  
+  <br /><br />
 <img alt="Buy me a coffee" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/YnV5IG1lIGEgY29mZmVl/79-retro.png"/>
  
  <br/>
@@ -404,6 +408,7 @@
 
 <br />
 
+  <br /><br />
 <img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmVmZXJlbmNlcw/79-retro.png"/>
  
  <br />
@@ -413,6 +418,7 @@
  
 <br />
  
+  <br /><br />
 <img alt="References" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q2VydGlmaWNhdGlvbnM/79-retro.png"/>
  
  <br />
