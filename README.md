@@ -474,6 +474,45 @@ alt="don Pablo Video" border="10" /></a>
 <br/>
 <br/>
 
+<br /><br />
+<img alt="Homies" src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SG9taWVz/79-retro.png"/>
+
+<br /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
+
+A big thanks to the guys and girls working on the projects that made my profile possible:
+
+[GitHub profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+
+[Github Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+Add Programming Quotes To Your GitHub Readme
+
+[Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+
+[GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+
+[Readme Typing SVG](https://github.com/denvercoder1/readme-typing-svg)
+Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
+
+[Badges - Shields](https://github.com/Ileriayo/markdown-badges)
+Badges for your Profile and Projects.
+
+[Spotify Recently Played README](https://github.com/JeffreyCA/spotify-recently-played-readme
+Display your recently played Spotify tracks on your GitHub profile README.
+
+[GitHub streak](https://github.com/denvercoder1/github-readme-streak-stats)
+Stay motivated and show off your contribution streak! Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+[GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
+Add dynamically generated GitHub Stat Trophies on your readme
+
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+Dynamically generated stats for your github readmes
+
+[Giphy](https://github.com/Giphy)
+GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
 <br />
 
