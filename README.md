@@ -514,7 +514,7 @@ Dynamically generated stats for your github readmes
 [Giphy](https://github.com/Giphy)
 GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
-Thank you for making Github beautiful again!
+Thank you for making Github, Beautiful Again!
 
 <br />
 
