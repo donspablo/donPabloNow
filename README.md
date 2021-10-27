@@ -14,24 +14,24 @@
  
 <a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
 <a href="https://www.twitter.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
- 
-<b>INDEX:</b>
-<a href="#db">The DL</a>
-<a href="#bh">Bread & honey</a>
-<a href="#yo">Yolo</a>
-<a href="#sm">Scrooge McDuckin</a>
-<a href="#hb">Holla Back</a>
-<a href="#cr">Credibility</a>
-<a href="#sk">Skills</a>
-<a href="#ho">Homies</a>
-<a href="#dr">Drip</a>
- 
 <br /><br />
 <img align="right" width="100px" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
+  <br/>
+<b>INDEX:</b><br/>
+- <a href="#db">The DL</a><br/>
+- <a href="#bh">Bread & honey</a><br/>
+- <a href="#yo">Yolo</a><br/>
+- <a href="#sm">Scrooge McDuckin</a><br/>
+- <a href="#hb">Holla Back</a><br/>
+- <a href="#cr">Credibility</a><br/>
+- <a href="#sk">Skills</a><br/>
+- <a href="#ho">Homies</a><br/>
+- <a href="#dr">Drip</a><br/>
+ <br/>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
@@ -108,7 +108,7 @@ alt="don Pablo Video" border="10" /></a>
 <br />
 
 <br /><br />
-<img alt="Bread & honey"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QnJlYWQgJiBob25leQ/79-retro.png" />
+<img id="bh" alt="Bread & honey"  src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo4MCwidyI6MTAwMCwiZnMiOjgwLCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QnJlYWQgJiBob25leQ/79-retro.png" />
 
 <a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" /><br />
 
