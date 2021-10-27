@@ -33,7 +33,7 @@
 <img align="right" width="15%" src="./assets/img/pablo-42.gif" />
 <img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/>
 <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
- <br /><br/>
+ <br />
 </span>
  <img width="100%" height="1px" src="http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/AniGIFs/NonLivingThings/Ani_SeparatorLines/dividingline_rainbowColored_600x1_ani.gif" />
 <span align="center">
@@ -53,6 +53,9 @@ alt="don Pablo Video" border="10" /></a>
 <br />
 <h1>Hello World, my name is (don) <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
 </span>
+<br />
+ <img width="15%" src="./assets/img/pablo-26.gif" />
+ <br />
 <span align="center">
 <br />
 <a href="https://twitter.com/donpablonow" target="blank"><img src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
