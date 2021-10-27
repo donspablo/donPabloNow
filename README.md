@@ -127,12 +127,13 @@ alt="don Pablo Video" border="10" /></a>
 <img align="left" width="10px" src="./assets/img/pablo-29.gif" />
 <img align="right" width="8px" src="./assets/img/pablo-28.gif" />
     
-<br/><br/><br/><br/><br/><br/>
+
     
-<br/><br/><br/>
-    
-    
-    
+</span>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<span align="center">
     
     
     
