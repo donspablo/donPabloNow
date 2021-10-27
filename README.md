@@ -3,8 +3,8 @@
 <img align="left" width="70px" src="./assets/img/pablo-34.gif" />
 <br/>
 <h1>Hi 👋, I'm (don) Pablo</h1>
-<img align="right" width="25px" src="./assets/img/pablo-28.gif" />
-<img align="left" width="35px" src="https://badges.pufler.dev/years/donPabloNow" />
+<img align="right" width="35px" src="./assets/img/pablo-28.gif" />
+<img align="left" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
