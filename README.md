@@ -98,7 +98,7 @@
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
  
  <br/>
- <h2> Blog posts </h2>
+ <h2><img src="https://see.fontimg.com/api/renderfont4/q37l/eyJyIjoiZnMiLCJoIjo1NywidyI6MTAwMCwiZnMiOjU3LCJmZ2MiOiIjNjgxNkMxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V3JpdGluZyBDT2Rl/79-retro.png"/></h2>
  <br/>
  
  <img align="left" width="50px" src="./assets/img/pablo-31.gif" />
