@@ -138,6 +138,8 @@ alt="don Pablo Video" border="10" /></a>
 
 </span>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x)
+
 <br/>
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
 
