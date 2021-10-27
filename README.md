@@ -437,6 +437,6 @@ This email and any files transmitted with it are confidential and intended solel
  
 <span align="center">
 
-<img width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
+<img align="center" width="100" alt="Leaders" src="./assets/img/pablo-24.gif"/>
  
 </span>
