@@ -156,7 +156,7 @@ alt="don Pablo Video" border="10" /></a>
 <img align="left" width="20%" src="https://i.giphy.com/media/pzrEocSp4TPk2zdlNj/200w.webp" />
     
     
-<a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="55%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a>
+<a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a>
     
 <br /><br /><br /><br/>
 
