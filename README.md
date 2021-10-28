@@ -7,7 +7,7 @@
 <br/>
 <span align="center">
 
-<img alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title" /><img  width="60%"  width="100%" height="1px" align="center" src="./assets/bar.gif" />
+<img alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1px" align="center" src="./assets/bar.gif" />
 
 <a href="https://www.github.com/donPablonow"><img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
@@ -26,7 +26,7 @@
 <img alt="No. 2" height="25px" src="./assets/2.png"/><a href="#db"><img alt="The 411" height="25px" src="./assets/the-411-index.png" /></a><br/>
 ᴬⁿᵒᵗʰᵉʳ ᵗᵉʳᵐ ᵘˢᵉᵈ ᶠᵒʳ "ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ" ᴴᵉⁿᶜᵉ ᵈᶦᵃˡᶦⁿᵍ ⁴¹¹ ᶠᵒʳ <br/>ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ ᴰᵃᵐⁿ ˢʰᵉ'ˢ ᶠᶦⁿᵉ ᴵ ᵃᵐ ᵍᵒⁿⁿᵃ ᵍᵒ ᵍᵉᵗ ᵗʰᵉ ⁴¹¹ ᵒⁿ
 ʰᵉʳ<br/><br/>
-<img alt="No. 3" height="25px" src="./assets/3.png" /><a href="#bh"><img alt="Bread & honey" height="25px" src="./assets/bread-and-honey.png" /></a><br/>
+<img alt="No. 3" height="25px" src="./assets/3.png" /><a href="#bh"><img alt="Bread & honey" height="25px" src="./assets/bread-and-honey-index.png" /></a><br/>
 ᶜᵒᶜᵏⁿᵉʸ ᴿʰʸᵐᶦⁿᵍ ˢˡᵃⁿᵍ ᶦⁿ ᴬᵐᵉʳᶦᶜᵃⁿ ᴱⁿᵍˡᶦˢʰ<br/> "ᵇʳᵉᵃᵈ" ᵇʳᵉᵃᵈ ᵃⁿᵈ ʰᵒⁿᵉʸ ᵐᵉᵃⁿˢ ᵐᵒⁿᵉʸ<br/><br/>
 <img alt="No. 4" height="25px" src="./assets/4.png" /><a href="#yo"><img alt="Yolo" height="25px" src="./assets/yolo-index.png" /></a><br/>
 ʸᴼᴸᴼ - ᵃᶜʳᵒⁿʸᵐ ᵐᵉᵃⁿᶦⁿᵍ ʸᵒᵘ ᵒⁿˡʸ ˡᶦᵛᵉ ᵒⁿᶜᵉ ᵘˢᵉᵈ ᵗᵒ ᵉˣᵖʳᵉˢˢ ᵗʰᵉ <br/>ᵛᶦᵉʷ ᵗʰᵃᵗ ᵒⁿᵉ ˢʰᵒᵘˡᵈ ᵐᵃᵏᵉ ᵗʰᵉ ᵐᵒˢᵗ ᵒᶠ ᵗʰᵉ ᵖʳᵉˢᵉⁿᵗ
@@ -184,8 +184,8 @@ alt="don Pablo Video" border="10" /></a>
 <img align="right" width="5%" src="./assets/pablo-28.gif" />
 <img align="right" width="4%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" />
 <img align="left" width="7%" src="./assets/pablo-30.gif" /><br/><br/><br/>
-<img align="right" width="15%" src="./assets/rick.gif" />
-<img align="left" width="15%" src="./assets/morty.webp" />
+<img align="right" width="15%" src="./assets/Rick.gif" />
+<img align="left" width="15%" src="./assets/Morty.webp" />
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a><br/>
 
 
@@ -221,12 +221,12 @@ alt="don Pablo Video" border="10" /></a>
 
 <span align="center">
 
-<img src="./screenshot.png" width="100%" />
+<img src="./assets/screenshot.png" width="100%" />
 
 <br /><br /><br />
 
 <br /><br />
-<img id="sm" alt="Scrooge McDuckin" src="./assets/scrooge-title.png"/>
+<img id="sm" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /></a><br />
 
