@@ -1,17 +1,17 @@
 <img align="right" width="100px" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
 <br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
-<img align="right" width="30px" src="./assets/img/pablo-30.gif" />
+<img align="left" width="50px" src="./assets/pablo-34.gif" />
+<img align="right" width="30px" src="./assets/pablo-30.gif" />
 <br/>
 <br/>
 <br/>
 <span align="center">
 
-<img alt="Whats Poppin" width="80%" src="./assets/img/whats-poppin-title" /><img  width="60%"  width="100%" height="1px" align="center" src="./assets/img/bar.gif" />
+<img alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title" /><img  width="60%"  width="100%" height="1px" align="center" src="./assets/bar.gif" />
 
 <a href="https://www.github.com/donPablonow"><img align="right" width="115px" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
- 
+
 <a href="https://www.instagram.com/donPablonow"><img  align="right" width="100px" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
 <a href="https://www.twitter.com/donPablonow"><img align="left" width="100px" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
 <br /><br />
@@ -19,19 +19,34 @@
 <img align="left" width="100px" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <img align="right" width="45px" src="https://badges.pufler.dev/years/donPabloNow" />
 <img align="left" width="45px" src="https://badges.pufler.dev/repos/donPabloNow" />
-<br/><br/><img align="right" width="35px" src="./assets/img/pablo-28.gif" />
-<img alt="The Index" height="55px" src="./assets/img/the-index.png" /><br/><br/><br/>
-<img alt="No. 1" height="25px" src="./assets/img/1.png"/><a href="#"><img alt="Whats Poppin" height="25px" src="./assets/img/whats-poppin-index.png" /></a><br/>ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
-<img alt="No. 2" height="25px" src="./assets/img/2.png"/><a href="#db"><img alt="The 411" height="25px" src="./assets/img/the-411-index.png" /></a><br/>ᴬⁿᵒᵗʰᵉʳ ᵗᵉʳᵐ ᵘˢᵉᵈ ᶠᵒʳ "ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ" ᴴᵉⁿᶜᵉ ᵈᶦᵃˡᶦⁿᵍ ⁴¹¹ ᶠᵒʳ <br/>ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ ᴰᵃᵐⁿ ˢʰᵉ'ˢ ᶠᶦⁿᵉ ᴵ ᵃᵐ ᵍᵒⁿⁿᵃ ᵍᵒ ᵍᵉᵗ ᵗʰᵉ ⁴¹¹ ᵒⁿ ʰᵉʳ<br/><br/>
-<img alt="No. 3" height="25px" src="./assets/img/3.png" /><a href="#bh"><img alt="Bread & honey" height="25px" src="./assets/img/bread-and-honey.png" /></a><br/>ᶜᵒᶜᵏⁿᵉʸ ᴿʰʸᵐᶦⁿᵍ ˢˡᵃⁿᵍ ᶦⁿ ᴬᵐᵉʳᶦᶜᵃⁿ ᴱⁿᵍˡᶦˢʰ<br/> "ᵇʳᵉᵃᵈ" ᵇʳᵉᵃᵈ ᵃⁿᵈ ʰᵒⁿᵉʸ ᵐᵉᵃⁿˢ ᵐᵒⁿᵉʸ<br/><br/>
-<img alt="No. 4" height="25px" src="./assets/img/4.png" /><a href="#yo"><img alt="Yolo" height="25px" src="./assets/img/yolo-index.png" /></a><br/>ʸᴼᴸᴼ - ᵃᶜʳᵒⁿʸᵐ ᵐᵉᵃⁿᶦⁿᵍ ʸᵒᵘ ᵒⁿˡʸ ˡᶦᵛᵉ ᵒⁿᶜᵉ ᵘˢᵉᵈ ᵗᵒ ᵉˣᵖʳᵉˢˢ ᵗʰᵉ <br/>ᵛᶦᵉʷ ᵗʰᵃᵗ ᵒⁿᵉ ˢʰᵒᵘˡᵈ ᵐᵃᵏᵉ ᵗʰᵉ ᵐᵒˢᵗ ᵒᶠ ᵗʰᵉ ᵖʳᵉˢᵉⁿᵗ ᵐᵒᵐᵉⁿᵗ ʷᶦᵗʰᵒᵘᵗ ʷᵒʳʳʸᶦⁿᵍ ᵃᵇᵒᵘᵗ ᵗʰᵉ ᶠᵘᵗᵘʳᵉ<br/><br/>
-<img alt="No. 5" height="25px" src="./assets/img/5.png" /><a href="#sm"><img alt="Scrooge McDuckin" height="25px" src="./assets/img/scrooge-mcduckin-index.png" /></a><br/>ᵀᵒ ᵈᶦᵛᵉ ʰᵉᵃᵈᶠᶦʳˢᵗ ᶦⁿᵗᵒ ᵃ ᵖᵒᵒˡ ᵒᶠ ᵍᵒˡᵈ ᶜᵒᶦⁿˢ <br/>ˡᶦᵗᵉʳᵃˡˡʸ ˢʷᶦᵐᵐᶦⁿᵍ ᵗʰʳᵒᵘᵍʰ ʸᵒᵘʳ ʷᵉᵃˡᵗʰ ᵃⁿ ᵃᶜᵗᶦᵛᶦᵗʸ ᵖᵒᵖᵘˡᵃʳᶦᶻᵉᵈ ᵇʸ ᶦᵗˢ ⁿᵃᵐᵉˢᵃᵏᵉ<br/><br/>
-<img alt="No. 6" height="25px" src="./assets/img/6.png" /><a href="#hb"><img alt="Holla Back" height="25px" src="./assets/img/holla-back-index.png" /></a><br/>ᴴᵒˡˡᵃ ᵇᵃᶜᵏ! ˢˡᵃⁿᵍ ᴹᵃᵏᵉ ˢᵒᵐᵉ ⁿᵒᶦˢᵉ ᵇʸᵉ ˢᵉᵉ ʸᵒᵘ<br/> ˡᵃᵗᵉʳ ᵍᵉᵗ ᵇᵃᶜᵏ ᵗᵒ ᵐᵉ ʳᵉᵖˡʸ ᵗᵒ ᵐᵉ!<br/><br/>
-<img alt="No. 7" height="25px" src="./assets/img/7.png" /><a href="#cr"><img alt="Credibility" height="25px" src="./assets/img/cred-index.png" /></a><br/>ᴹᵉᵃⁿˢ  ᵗʰᵉ ᑫᵘᵃˡᶦᵗʸ ᵒᶠ ᵇᵉᶦⁿᵍ ᵇᵉˡᶦᵉᵛᵃᵇˡᵉ ᵒʳ ʷᵒʳᵗʰʸ ᵒᶠ ʳᵉˢᵖᵉᶜᵗ<br/> ᵉˢᵖᵉᶜᶦᵃˡˡʸ ʷᶦᵗʰᶦⁿ ᵃ ᵖᵃʳᵗᶦᶜᵘˡᵃʳ ˢᵒᶜᶦᵃˡ ᵖʳᵒᶠᵉˢˢᶦᵒⁿᵃˡ ᵒʳ ᵒᵗʰᵉʳ ᵍʳᵒᵘᵖ<br/><br/>
-<img alt="No. 8" height="25px" src="./assets/img/8.png" /><a href="#sk"><img alt="Skills" height="25px" src="./assets/img/skills-index.png" /></a><br/>ᵀʰᵉ ᵃᵇᶦˡᶦᵗʸ ᶜᵒᵐᶦⁿᵍ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ᵏⁿᵒʷˡᵉᵈᵍᵉ ᵖʳᵃᶜᵗᶦᶜᵉ <br/>ᵃᵖᵗᶦᵗᵘᵈᵉ ᵉᵗᶜ ᵗᵒ ᵈᵒ ˢᵒᵐᵉᵗʰᶦⁿᵍ ʷᵉˡˡ<br/><br/>
-<img alt="No. 9" height="25px" src="./assets/img/9.png" /><a href="#ho"><img alt="Homies" height="25px" src="./assets/img/homies-index.png" /></a><br/>ᴬ ᵖᵉʳˢᵒⁿ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ʰᵒᵐᵉ ᵗᵒʷⁿ ᵒʳ ⁿᵉᶦᵍʰᵇᵒʳʰᵒᵒᵈ ᵃ ᵐᵉᵐᵇᵉʳ<br/> ᵒᶠ ᵒⁿᵉ'ˢ ᵖᵉᵉʳ ᵍʳᵒᵘᵖ ᵒʳ ᵍᵃⁿᵍ ᵃ ʰᵒᵐᵉᵇᵒʸ ᵒʳ ʰᵒᵐᵉᵍᶦʳˡ<br/><br/>
-<img alt="No. 10" height="25px" src="./assets/img/10.png" /><a href="#dr"><img alt="Drip" height="25px" src="./assets/img/drip-index.png" /></a><br/>ᴰʳᶦᵖ ᵘˢᵉᵈ ᵃˢ ˢˡᵃⁿᵍ ᵐᵉᵃⁿˢ ˢᵗʸˡᵉ ᵖᵃʳᵗᶦᶜᵘˡᵃʳˡʸ ᶠᵃˢʰᶦᵒⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᵉˣʸ ˢᵗʸˡᵉ ᴵᵗ ᶜᵃⁿ ᵉˢᵖᵉᶜᶦᵃˡˡʸ<br/> ʳᵉᶠᵉʳ ᵗᵒ ᵗʰᶦⁿᵍˢ ˡᶦᵏᵉ ᶦᶜᵉ ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
- <br/>
+<br/><br/><img align="right" width="35px" src="./assets/pablo-28.gif" />
+<img alt="The Index" height="55px" src="./assets/the-index.png" /><br/><br/><br/>
+<img alt="No. 1" height="25px" src="./assets/1.png"/><a href="#"><img alt="Whats Poppin" height="25px" src="./assets/whats-poppin-index.png" /></a><br/>
+ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
+<img alt="No. 2" height="25px" src="./assets/2.png"/><a href="#db"><img alt="The 411" height="25px" src="./assets/the-411-index.png" /></a><br/>
+ᴬⁿᵒᵗʰᵉʳ ᵗᵉʳᵐ ᵘˢᵉᵈ ᶠᵒʳ "ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ" ᴴᵉⁿᶜᵉ ᵈᶦᵃˡᶦⁿᵍ ⁴¹¹ ᶠᵒʳ <br/>ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ ᴰᵃᵐⁿ ˢʰᵉ'ˢ ᶠᶦⁿᵉ ᴵ ᵃᵐ ᵍᵒⁿⁿᵃ ᵍᵒ ᵍᵉᵗ ᵗʰᵉ ⁴¹¹ ᵒⁿ
+ʰᵉʳ<br/><br/>
+<img alt="No. 3" height="25px" src="./assets/3.png" /><a href="#bh"><img alt="Bread & honey" height="25px" src="./assets/bread-and-honey.png" /></a><br/>
+ᶜᵒᶜᵏⁿᵉʸ ᴿʰʸᵐᶦⁿᵍ ˢˡᵃⁿᵍ ᶦⁿ ᴬᵐᵉʳᶦᶜᵃⁿ ᴱⁿᵍˡᶦˢʰ<br/> "ᵇʳᵉᵃᵈ" ᵇʳᵉᵃᵈ ᵃⁿᵈ ʰᵒⁿᵉʸ ᵐᵉᵃⁿˢ ᵐᵒⁿᵉʸ<br/><br/>
+<img alt="No. 4" height="25px" src="./assets/4.png" /><a href="#yo"><img alt="Yolo" height="25px" src="./assets/yolo-index.png" /></a><br/>
+ʸᴼᴸᴼ - ᵃᶜʳᵒⁿʸᵐ ᵐᵉᵃⁿᶦⁿᵍ ʸᵒᵘ ᵒⁿˡʸ ˡᶦᵛᵉ ᵒⁿᶜᵉ ᵘˢᵉᵈ ᵗᵒ ᵉˣᵖʳᵉˢˢ ᵗʰᵉ <br/>ᵛᶦᵉʷ ᵗʰᵃᵗ ᵒⁿᵉ ˢʰᵒᵘˡᵈ ᵐᵃᵏᵉ ᵗʰᵉ ᵐᵒˢᵗ ᵒᶠ ᵗʰᵉ ᵖʳᵉˢᵉⁿᵗ
+ᵐᵒᵐᵉⁿᵗ ʷᶦᵗʰᵒᵘᵗ ʷᵒʳʳʸᶦⁿᵍ ᵃᵇᵒᵘᵗ ᵗʰᵉ ᶠᵘᵗᵘʳᵉ<br/><br/>
+<img alt="No. 5" height="25px" src="./assets/5.png" /><a href="#sm"><img alt="Scrooge McDuckin" height="25px" src="./assets/scrooge-mcduckin-index.png" /></a><br/>
+ᵀᵒ ᵈᶦᵛᵉ ʰᵉᵃᵈᶠᶦʳˢᵗ ᶦⁿᵗᵒ ᵃ ᵖᵒᵒˡ ᵒᶠ ᵍᵒˡᵈ ᶜᵒᶦⁿˢ <br/>ˡᶦᵗᵉʳᵃˡˡʸ ˢʷᶦᵐᵐᶦⁿᵍ ᵗʰʳᵒᵘᵍʰ ʸᵒᵘʳ ʷᵉᵃˡᵗʰ ᵃⁿ ᵃᶜᵗᶦᵛᶦᵗʸ ᵖᵒᵖᵘˡᵃʳᶦᶻᵉᵈ ᵇʸ ᶦᵗˢ
+ⁿᵃᵐᵉˢᵃᵏᵉ<br/><br/>
+<img alt="No. 6" height="25px" src="./assets/6.png" /><a href="#hb"><img alt="Holla Back" height="25px" src="./assets/holla-back-index.png" /></a><br/>
+ᴴᵒˡˡᵃ ᵇᵃᶜᵏ! ˢˡᵃⁿᵍ ᴹᵃᵏᵉ ˢᵒᵐᵉ ⁿᵒᶦˢᵉ ᵇʸᵉ ˢᵉᵉ ʸᵒᵘ<br/> ˡᵃᵗᵉʳ ᵍᵉᵗ ᵇᵃᶜᵏ ᵗᵒ ᵐᵉ ʳᵉᵖˡʸ ᵗᵒ ᵐᵉ!<br/><br/>
+<img alt="No. 7" height="25px" src="./assets/7.png" /><a href="#cr"><img alt="Credibility" height="25px" src="./assets/cred-index.png" /></a><br/>
+ᴹᵉᵃⁿˢ ᵗʰᵉ ᑫᵘᵃˡᶦᵗʸ ᵒᶠ ᵇᵉᶦⁿᵍ ᵇᵉˡᶦᵉᵛᵃᵇˡᵉ ᵒʳ ʷᵒʳᵗʰʸ ᵒᶠ ʳᵉˢᵖᵉᶜᵗ<br/> ᵉˢᵖᵉᶜᶦᵃˡˡʸ ʷᶦᵗʰᶦⁿ ᵃ ᵖᵃʳᵗᶦᶜᵘˡᵃʳ ˢᵒᶜᶦᵃˡ ᵖʳᵒᶠᵉˢˢᶦᵒⁿᵃˡ ᵒʳ
+ᵒᵗʰᵉʳ ᵍʳᵒᵘᵖ<br/><br/>
+<img alt="No. 8" height="25px" src="./assets/8.png" /><a href="#sk"><img alt="Skills" height="25px" src="./assets/skills-index.png" /></a><br/>
+ᵀʰᵉ ᵃᵇᶦˡᶦᵗʸ ᶜᵒᵐᶦⁿᵍ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ᵏⁿᵒʷˡᵉᵈᵍᵉ ᵖʳᵃᶜᵗᶦᶜᵉ <br/>ᵃᵖᵗᶦᵗᵘᵈᵉ ᵉᵗᶜ ᵗᵒ ᵈᵒ ˢᵒᵐᵉᵗʰᶦⁿᵍ ʷᵉˡˡ<br/><br/>
+<img alt="No. 9" height="25px" src="./assets/9.png" /><a href="#ho"><img alt="Homies" height="25px" src="./assets/homies-index.png" /></a><br/>
+ᴬ ᵖᵉʳˢᵒⁿ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ʰᵒᵐᵉ ᵗᵒʷⁿ ᵒʳ ⁿᵉᶦᵍʰᵇᵒʳʰᵒᵒᵈ ᵃ ᵐᵉᵐᵇᵉʳ<br/> ᵒᶠ ᵒⁿᵉ'ˢ ᵖᵉᵉʳ ᵍʳᵒᵘᵖ ᵒʳ ᵍᵃⁿᵍ ᵃ ʰᵒᵐᵉᵇᵒʸ ᵒʳ ʰᵒᵐᵉᵍᶦʳˡ<br/><br/>
+<img alt="No. 10" height="25px" src="./assets/10.png" /><a href="#dr"><img alt="Drip" height="25px" src="./assets/drip-index.png" /></a><br/>
+ᴰʳᶦᵖ ᵘˢᵉᵈ ᵃˢ ˢˡᵃⁿᵍ ᵐᵉᵃⁿˢ ˢᵗʸˡᵉ ᵖᵃʳᵗᶦᶜᵘˡᵃʳˡʸ ᶠᵃˢʰᶦᵒⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᵉˣʸ ˢᵗʸˡᵉ ᴵᵗ ᶜᵃⁿ ᵉˢᵖᵉᶜᶦᵃˡˡʸ<br/> ʳᵉᶠᵉʳ ᵗᵒ ᵗʰᶦⁿᵍˢ ˡᶦᵏᵉ ᶦᶜᵉ
+ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
+<br/>
 <h3>A passionate Software Nomad and Digital Engineer.</h3>
 </span>
 <span align="center">
@@ -43,59 +58,59 @@
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 <br />
-<img width="90%" src="./assets/img/references.svg">
+<img width="90%" src="./assets/references.svg">
 
- 
- 
+
+
 <br />
 
- 
-<img align="right" width="15%" src="./assets/img/pablo-42.gif" /><img align="left" width="15%" alt="Leaders" src="./assets/img/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
 
- 
+<img align="right" width="15%" src="./assets/pablo-42.gif" /><img align="left" width="15%" alt="Leaders" src="./assets/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
+
+
 <br />
 
- 
+
 </span>
 
 
 <span align="center">
- 
- 
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" /><br />
- 
-<img width="100%" height="1px" src="./assets/img/bar.gif" />
+
+<img width="100%" height="1px" src="./assets/bar.gif" />
 </span>
 
 <span align="center">
- 
- 
+
+
 <br />
- 
- 
+
+
 <img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
-<img  width="15%" src="./assets/img/pablo-24.gif" /><br /><br />
+<img  width="15%" src="./assets/pablo-24.gif" /><br /><br />
 
 
-<img id="db" alt="The 411"  src="./assets/img/the-411-title.png" /><br />
+<img id="db" alt="The 411"  src="./assets/the-411-title.png" /><br />
 
-<a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /><br /><br />
+<a align="left" href="#"><img align="left" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /><br /><br />
 
- 
+
 <br />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
-" target="_blank"><img src="./assets/img/youtube.png" 
+" target="_blank"><img src="./assets/youtube.png"
 alt="don Pablo Video" border="10" /></a>
-<img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-<img align="left" width="100px" src="./assets/img/pablo-4.gif" />
+<img align="left" width="40px" src="./assets/pablo-34.gif" />
+<img align="left" width="100px" src="./assets/pablo-4.gif" />
 
-<img align="right" width="150px" src="./assets/img/pablo-16.gif" />
+<img align="right" width="150px" src="./assets/pablo-16.gif" />
 <br />
-<h1>Hello World, my name is (don) <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
+<h1>Hello World, my name is (don) <img width="130px" src="./assets/pablo-2.gif" /></h1>
 </span>
 <br />
-<img width="15%" src="./assets/img/pablo-26.gif" />
+<img width="15%" src="./assets/pablo-26.gif" />
 <br />
 <span align="center">
 <br />
@@ -105,36 +120,36 @@ alt="don Pablo Video" border="10" /></a>
 <br />
 
 <br /><br />
-<img id="bh" alt="Bread & honey"  src="./assets/img/bread-and-honey-title.png" />
+<img id="bh" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
 
-<a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /><br />
+<a align="right" href="#"><img align="right" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /><br />
 
-<img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
+<img width="100px" align="right" alt="Github" src="./assets/pablo-17.gif" />
 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
 <br />
 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
 
-<img align="right" width="120px" src="./assets/img/pablo-14.gif" />
+<img align="right" width="120px" src="./assets/pablo-14.gif" />
 <br/><br/>
 
-👯 I’m looking to collaborate on Various Projects, give me a holla! 
+👯 I’m looking to collaborate on Various Projects, give me a holla!
 
-💬 Talk to me about Anything, very interested in a wide range of topics :) 
+💬 Talk to me about Anything, very interested in a wide range of topics :)
 
-<img align="left" width="140px" src="./assets/img/pablo-18.gif" />
+<img align="left" width="140px" src="./assets/pablo-18.gif" />
 
 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
-<img align="left" width="40px" src="./assets/img/pablo-30.gif" />
+<img align="left" width="40px" src="./assets/pablo-30.gif" />
 
 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
 
-<img align="left" width="25px" src="./assets/img/pablo-40.gif" />
+<img align="left" width="25px" src="./assets/pablo-40.gif" />
 
-<img align="right" width="130px" src="./assets/img/pablo-21.gif" />
+<img align="right" width="130px" src="./assets/pablo-21.gif" />
 
 💬 Ask me about **anything**
 
@@ -148,7 +163,7 @@ alt="don Pablo Video" border="10" /></a>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 <br/>
 
-<img align="left" width="25px" src="./assets/img/pablo-29.gif" />
+<img align="left" width="25px" src="./assets/pablo-29.gif" />
 
 </span><span align="center">
 
@@ -166,57 +181,55 @@ alt="don Pablo Video" border="10" /></a>
 <img align="left" width="6%" src="https://camo.githubusercontent.com/0d42edb3c2dcd537266f82f635fce7be10060de205873c658a161023ac66f4d6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6e38444e43543439796c316b6552713870352f323030772e77656270" />
 <img align="right" width="6%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
 <img align="left" width="5%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
-<img align="right" width="5%" src="./assets/img/pablo-28.gif" />
+<img align="right" width="5%" src="./assets/pablo-28.gif" />
 <img align="right" width="4%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" />
-<img align="left" width="7%" src="./assets/img/pablo-30.gif" /><br/><br/><br/>
-<img align="right" width="15%" src="./assets/img/rick.gif" />
-<img align="left" width="15%" src="./assets/img/morty.webp" />
+<img align="left" width="7%" src="./assets/pablo-30.gif" /><br/><br/><br/>
+<img align="right" width="15%" src="./assets/rick.gif" />
+<img align="left" width="15%" src="./assets/morty.webp" />
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a><br/>
- 
- 
- 
- 
-<br/><img id="yo" alt="Yolo" src="./assets/img/yolo-title.png"/>
 
-<a href="#"><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /></a><br />
+
+
+
+<br/><img id="yo" alt="Yolo" src="./assets/yolo-title.png"/>
+
+<a href="#"><a align="left" href="#"><img align="left" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /></a><br />
 
 
 
 
 <br />
 
-<img align="left" width="50px" src="./assets/img/pablo-31.gif" />
+<img align="left" width="50px" src="./assets/pablo-31.gif" />
 
-<img  align="left" width="200px" src="./assets/img/pablo-22.gif" />
-<img  align="right" width="150px" src="./assets/img/pablo-37.gif" />
+<img  align="left" width="200px" src="./assets/pablo-22.gif" />
+<img  align="right" width="150px" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
 - [Nvidia Geforce Rtx 3070 Ti Review](https://donpablonow.medium.com/nvidia-geforce-rtx-3070-ti-review-13608057a8ea?source=rss-73f028f71fcb------2)
 - [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
 - [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
+
 <!-- BLOG-POST-LIST:END --> 
 
 </span>
 
 <br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
+<img align="left" width="50px" src="./assets/pablo-34.gif" />
 
 <span align="center">
 
 <img src="./screenshot.png" width="100%" />
 
 <br /><br /><br />
-    
-    
-    
+
 <br /><br />
-<img id="sm" alt="Scrooge McDuckin" src="./assets/img/scrooge-title.png"/>
+<img id="sm" alt="Scrooge McDuckin" src="./assets/scrooge-title.png"/>
 
-<a href="#"><a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /></a><br />
+<a href="#"><a align="right" href="#"><img align="right" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /></a><br />
 
-    
-    
 <br /><br /><br /><br />
 
 <a href="https://www.buymeacoffee.com/donpablonow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="20%" alt="donpablonow" /></a>
@@ -224,16 +237,16 @@ alt="don Pablo Video" border="10" /></a>
 
 <br />
 
-<a href="https://www.buymeacoffee.com/donpablonow"><img src="./assets/img/thank.gif"  width="50%" alt="thank you" /></a>
+<a href="https://www.buymeacoffee.com/donpablonow"><img src="./assets/thank.gif"  width="50%" alt="thank you" /></a>
 
 
 
 <br />
 
 <br /><br />
-<img id="hb" alt="Holla Back" src="./assets/img/holla-back-title.png"/>
+<img id="hb" alt="Holla Back" src="./assets/holla-back-title.png"/>
 
-<a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /><br />
+<a align="left" href="#"><img align="left" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /><br />
 <br/>
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="donpablonow" height="30" width="40" /></a>
@@ -259,25 +272,37 @@ alt="don Pablo Video" border="10" /></a>
 <a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
 </p>
 <br/>
-<img align="center" width="100%" src="./assets/img/pablo-44.gif" />
+<img align="center" width="100%" src="./assets/pablo-44.gif" />
 
 <br/>
 
 
 <br /><br />
-<img id="cr" alt="Credibility" src="./assets/img/cred-title.png"/>
+<img id="cr" alt="Credibility" src="./assets/cred-title.png"/>
 
-<a href="#"><a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /></a><br />
+<a href="#"><a align="right" href="#"><img align="right" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /></a><br />
 
-[References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)...  [](https://za.linkedin.com/in/donPabloNow "LinkedIn")/[](https://www.freelancer.com/u/uxdev "Freelancer") | [Endorsements (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn")| C# (25), PHP (16), JavaScript (19), Software Development (38), Agile Methodologies (26), Graphic Design (8), Web Services (9), Scrum (25), SQL (30), ASP.NET (9)...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Certifications (21)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Six Sigma (CSSC), eBSI Academy, Google Academy, LinkedIn Academy, BitDegree...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Jobs (11)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Handy Cats, Property24, Naked Snacks, Naspers Limited, Korbitec, Jago®...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Education (9)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Harvard University, Kiron, eBSI Export Academy, Damelin, Waldorf...[](https://za.linkedin.com/in/donPabloNow "LinkedIn") | [Awards (3)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Kiron University, Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+[References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project
+Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)
+...  [](https://za.linkedin.com/in/donPabloNow "LinkedIn")/[](https://www.freelancer.com/u/uxdev "Freelancer")
+| [Endorsements (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn")| C# (25), PHP (16), JavaScript (19), Software
+Development (38), Agile Methodologies (26), Graphic Design (8), Web Services (9), Scrum (25), SQL (30), ASP.NET (9)
+...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+| [Certifications (21)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Six Sigma (CSSC), eBSI Academy, Google
+Academy, LinkedIn Academy, BitDegree...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+| [Jobs (11)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Handy Cats, Property24, Naked Snacks, Naspers
+Limited, Korbitec, Jago®...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+| [Education (9)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Harvard University, Kiron, eBSI Export Academy,
+Damelin, Waldorf...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
+| [Awards (3)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Kiron University,
+Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><br />
 <img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQF21gXtIviL_Q/company-logo_100_100/0/1624859982303?e=1643241600&v=beta&t=qU2fGCtt-KDv04hmEYfdNOSZFaAGxPGSGo0zrSUPK-Q"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEl6sWlh25rPw/company-logo_100_100/0/1519876963450?e=1643241600&v=beta&t=sgmueFT5KBYA-eUbQgd1P-2kthN2fWnc8cvyjCuFMTI"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEJe-MEhPTm7w/company-logo_100_100/0/1519897752927?e=1643241600&v=beta&t=E7lyIbszpWReaOUaFq0RV5srEeBDnr4KAfuig0Y7_EU"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQHXb290tggPwA/company-logo_100_100/0/1519893921612?e=1643241600&v=beta&t=MFeBFUhOQdCV5LrhMKm8lwmtcvQpi_71GCsltb4MdAk"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQEF8ZVKcnWV4Q/company-logo_100_100/0/1519889750775?e=1643241600&v=beta&t=bPEis8Uzs9qdil0qngv0LMCwPzYdy4epJS4omENh1K8"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQEUYajIyyDqkQ/company-logo_100_100/0/1606902037979?e=1643241600&v=beta&t=ac94MBA1CHrcyR9ESDBQAzdmmb1-cejB5zdeeoYlQqU"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQHxEXdZmiyfvQ/company-logo_100_100/0/1611652832989?e=1643241600&v=beta&t=yYjO9K8GoDBb4LoEWQbEgFzmnWmef11U7BT398OFzsc"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQE54bMNQvxYuQ/company-logo_100_100/0/1519856599396?e=1643241600&v=beta&t=QNmOw92pVAxxJJRXjmYmb3_oo1eYmMORLa7bQz5mN-g"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQG2AiGN84IIWA/company-logo_100_100/0/1617797656800?e=1643241600&v=beta&t=vu2QzkPYCSHdBo5QeUFD1BxNOMrCqgPiQXRaLYQIEiY"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_100_100/0/1519855919126?e=1643241600&v=beta&t=sLAkAVFHhoGZ3J7lFFxBe8-oibZ40dzR8CMYmqBsLKQ"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHM22ogQN-ctw/company-logo_100_100/0/1579387612292?e=1643241600&v=beta&t=n2YxpQFokXbPO41NdqvyH66rcCcC4q780D5uSuaRXl4"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyXk7L2zu-0g/company-logo_100_100/0/1626711703543?e=1643241600&v=beta&t=MVkh0YDESUtIO0RUR0YN3Litk916kcsn6tHJiZ8n6zM"/><img  src="https://media-exp1.licdn.com/dms/image/C510BAQEILt86VVXceQ/company-logo_100_100/0/1519856581417?e=1643241600&v=beta&t=VAKR490CG8ZMeAbG00YuP1W4rmOTpfHYZKlX6cLZJGI"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQETa7-b06VGlQ/company-logo_100_100/0/1561968731806?e=1643241600&v=beta&t=qb-p6P-zncJUGFsi-xWvx6jMOcluQ_4_uFFFINEaC7M"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQFE0HgPl0COkA/company-logo_100_100/0/1519856086949?e=1643241600&v=beta&t=J08YFOoHqIwC0vU2GcQHvbw6J-F-CV1IktmBAE7q81k"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHXxroN0uciQw/company-logo_100_100/0/1527266934034?e=1643241600&v=beta&t=EiZAN1msk1c8bqRdo3fVdk5i33VGiVozlulkW-oTuJo"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQHmouJ5CrQPCg/company-logo_100_100/0/1551804209673?e=1643241600&v=beta&t=uaSoVX6rQE6ceLixSipFoJ-ei_k4ngglWVtAhbDASs0"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4fuDWOEYbaw/company-logo_100_100/0/1608840116374?e=1643241600&v=beta&t=x4C6JbqGqzgk26WDkO-AWaAChdQfGx4kkXoSPZj8Rhc"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQE-lb0UZmaw6A/company-logo_100_100/0/1519881351319?e=1643241600&v=beta&t=hct8978dhSSfTiPmz3KlB5C7Hj-2XyVhQ0duSLl3Ghw"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEmKB8ZOPDcOA/company-logo_100_100/0/1625743290100?e=1643241600&v=beta&t=veJ2nqx5d16-_UPTOq6KTiSDkcTKdwKMZqpS2mbndIo"/><img  src="https://media-exp1.licdn.com/dms/image/C510BAQFkPgJZqd7XKw/company-logo_100_100/0/1543910129684?e=1643241600&v=beta&t=HxtT3PM0ER0Vrb3SAfz1lvVoQxGPO3trgPlv57KtbzE"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1519856215226?e=1643241600&v=beta&t=P9tKGf4UbkQuBZm1YB8ZIhS5_V6iqzG807luVg-NCtw"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_100_100/0/1626275253364?e=1643241600&v=beta&t=ptNIaIRiAS_2P3S_uXxewUk6vFAgy7QQG2DOxUWp7MA"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQFPdrd-B1G3LA/company-logo_100_100/0/1519891266073?e=1643241600&v=beta&t=9re1Sr8jUXnNmSXpMx9Kke7g3dLitVOVv4qD6dkHP44"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQG_4eYfYfbWqw/company-logo_100_100/0/1597750925085?e=1643241600&v=beta&t=ggkvpIeeG5xst5romkV-mNsNKpJdCHZPDn1Jr4Wdz2A"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQE_DDC0KBpU4Q/company-logo_100_100/0/1528463803380?e=1643241600&v=beta&t=RNYg3PRNnIg6ZVtW8XBGA5oSVquKg-f617U0bBltZqQ"/>
 
-
 <br /><br />
-<img id="sk" alt="Skills" src="./assets/img/skills-title.png"/>
+<img id="sk" alt="Skills" src="./assets/skills-title.png"/>
 
-<a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /><br />
+<a align="left" href="#"><img align="left" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /><br />
 
 <br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -486,9 +511,9 @@ alt="don Pablo Video" border="10" /></a>
 <br/>
 
 <br /><br />
-<img id="ho" alt="Homies" src="./assets/img/homies-title.png"/>
+<img id="ho" alt="Homies" src="./assets/homies-title.png"/>
 
-<br /><a align="right" href="#"><img align="right" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /><br />
+<br /><a align="right" href="#"><img align="right" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /><br />
 <br />
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
 <br />
@@ -499,13 +524,15 @@ Generate GitHub profile README easily with the latest add-ons like visitors coun
 Add Programming Quotes To Your GitHub Readme
 
 [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project
+readme automatically using the RSS feed
 
 [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
 [Readme Typing SVG](https://github.com/denvercoder1/readme-typing-svg)
-Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
+Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used
+as a bio on your Github profile readme or repository.
 
 [Badges - Shields](https://github.com/Ileriayo/markdown-badges)
 Badges for your Profile and Projects.
@@ -514,7 +541,8 @@ Badges for your Profile and Projects.
 Display your recently played Spotify tracks on your GitHub profile README.
 
 [GitHub streak](https://github.com/denvercoder1/github-readme-streak-stats)
-Stay motivated and show off your contribution streak! Display your total contributions, current streak, and longest streak on your GitHub profile README
+Stay motivated and show off your contribution streak! Display your total contributions, current streak, and longest
+streak on your GitHub profile README
 
 [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 Add dynamically generated GitHub Stat Trophies on your readme
@@ -523,7 +551,8 @@ Add dynamically generated GitHub Stat Trophies on your readme
 Dynamically generated stats for your github readmes
 
 [Giphy](https://github.com/Giphy)
-GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
+GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs,
+reaction GIFs, unique GIFs and more.
 
 <br />
 <b>Thank you for making Github, Beautiful Again!</b>
@@ -531,17 +560,24 @@ GIPHY is your top source for the best & newest GIFs & Animated Stickers online. 
 <br />
 
 <br /><br />
-<img id="dr" alt="Drip" src="./assets/img/drip-title.png"/>
+<img id="dr" alt="Drip" src="./assets/drip-title.png"/>
 
-<br /><a align="left" href="#"><img align="left" width="20px" src="./assets/img/up.gif" /></a><img width="100%" height="1px" src="./assets/img/bar.gif" /><br />
+<br /><a align="left" href="#"><img align="left" width="20px" src="./assets/up.gif" /></a><img width="100%" height="1px" src="./assets/bar.gif" /><br />
 
-🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
+🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
+Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
 
-“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob
+“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka,
+Uncle Bob
 
-This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error, please notify the system manager. This message contains confidential information and is intended only for the individual named. If you are not the named addressee, you should not disseminate, distribute or copy this email. Please notify the sender immediately by email if you have received this email by mistake and delete this email from your system. If you are not the intended recipient, you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited.
+This email and any files transmitted with it are confidential and intended solely for the use of the individual or
+entity to whom they are addressed. If you have received this email in error, please notify the system manager. This
+message contains confidential information and is intended only for the individual named. If you are not the named
+addressee, you should not disseminate, distribute or copy this email. Please notify the sender immediately by email if
+you have received this email by mistake and delete this email from your system. If you are not the intended recipient,
+you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this
+information is strictly prohibited.
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
-© All Rights Reserved (don) Pablo Brincat
-൫
+© All Rights Reserved (don) Pablo Brincat ൫
