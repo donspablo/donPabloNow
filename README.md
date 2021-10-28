@@ -1,4 +1,4 @@
-<span align="center" style="background-color:rgb(13, 17, 23)">
+<span align="center" bgcolor="#0d1117">
 <img title="title" alt="title" align="right" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
 <br/>
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" />
