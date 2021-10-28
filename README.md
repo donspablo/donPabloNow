@@ -1,8 +1,8 @@
 <span align="center" style="background-color:rgb(13, 17, 23)">
-<img title="title" alt="title" float="right" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
+<img title="title" alt="title" align="right" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
 <br/>
-<img title="element" alt="element" float="left" width="50" src="./assets/pablo-34.gif" />
-<img title="element" alt="element" float="right" width="30" src="./assets/pablo-30.gif" />
+<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" />
+<img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.gif" />
 <br/>
 <br/>
 <br/>
@@ -10,17 +10,17 @@
 
 <img title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
 
-<a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" float="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
-<a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" float="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
+<a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
+<a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
 
-<a href="https://www.instagram.com/donPablonow"><img  title="Instagram Followers" alt="Instagram Followers" float="right" width="100" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
-<a href="https://www.twitter.com/donPablonow"><img title="Twitter Followers" alt="Twitter Followers" float="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
+<a href="https://www.instagram.com/donPablonow"><img  title="Instagram Followers" alt="Instagram Followers" align="right" width="100" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
+<a href="https://www.twitter.com/donPablonow"><img title="Twitter Followers" alt="Twitter Followers" align="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
 <br /><br />
-<img title="Github Contobutions" alt="Github Contobutions" float="right" width="100" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
-<img title="Github Yearly commits" alt="Github Yearly commits" float="left" width="100" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
-<img title="Gihub Member" alt="Gihub Member" float="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" />
-<img title="Repos" alt="Repos" float="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />
-<br/><br/><img float="right" width="35" src="./assets/pablo-28.gif" />
+<img title="Github Contobutions" alt="Github Contobutions" align="right" width="100" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
+<img title="Github Yearly commits" alt="Github Yearly commits" align="left" width="100" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
+<img title="Gihub Member" alt="Gihub Member" align="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" />
+<img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />
+<br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
 <img title="The Index" alt="The Index" height="55" src="./assets/the-index.png" /><br/><br/><br/>
 <img title="No. 1" alt="No. 1" height="25" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="25" src="./assets/whats-poppin-index.png" /></a><br/>
 ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
@@ -64,7 +64,7 @@
 <br />
 
 
-<img float="right" width="15%" src="./assets/pablo-42.gif" /><img float="left" width="15%" title="Leaders" alt="Leaders" src="./assets/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
+<img align="right" width="15%" src="./assets/pablo-42.gif" /><img align="left" width="15%" title="Leaders" alt="Leaders" src="./assets/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
 
 
 <br />
@@ -87,13 +87,13 @@
 <br />
 
 
-<img float="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img float="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
+<img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donpablonow&theme=dracula" /> <img align="right"  width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula" />
 <img  width="15%" src="./assets/pablo-24.gif" /><br /><br />
 
 
 <img id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /><br />
 
-<a float="left" href="#"><img float="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br /><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br /><br />
 
 
 <br />
@@ -101,50 +101,50 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/youtube.png"
 title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
-<img float="left" width="40" src="./assets/pablo-34.gif" />
-<img float="left" width="100" src="./assets/pablo-4.gif" />
+<img align="left" width="40" src="./assets/pablo-34.gif" />
+<img align="left" width="100" src="./assets/pablo-4.gif" />
 
-<img float="right" width="150" src="./assets/pablo-16.gif" />
+<img align="right" width="150" src="./assets/pablo-16.gif" />
 <br />
 <h1>Hello World, my name is (don) <img width="130" src="./assets/pablo-2.gif" /></h1>
 
 <br />
-<img float="left" width="15%" src="./assets/pablo-26.gif" />
-<a float="right" href="https://twitter.com/donpablonow" target="blank"><img float="right" src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" title="donpablonow" alt="donpablonow" /></a>
+<img align="left" width="15%" src="./assets/pablo-26.gif" />
+<a align="right" href="https://twitter.com/donpablonow" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" title="donpablonow" alt="donpablonow" /></a>
 
 <br />
 
 <br /><br />
 <img id="bh" title="Bread & honey" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
 
-<a float="right" href="#"><img float="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img width="100" float="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
+<img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
 <br />
 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
 
-<img float="right" width="120" src="./assets/pablo-14.gif" />
+<img align="right" width="120" src="./assets/pablo-14.gif" />
 <br/><br/>
 
 👯 I’m looking to collaborate on Various Projects, give me a holla!
 
 💬 Talk to me about Anything, very interested in a wide range of topics :)
 
-<img float="left" width="140" src="./assets/pablo-18.gif" />
+<img align="left" width="140" src="./assets/pablo-18.gif" />
 
 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
 
 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
 
-<img float="left" width="40" src="./assets/pablo-30.gif" />
+<img align="left" width="40" src="./assets/pablo-30.gif" />
 
 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
 
-<img float="left" width="25" src="./assets/pablo-40.gif" />
+<img align="left" width="25" src="./assets/pablo-40.gif" />
 
-<img float="right" width="130" src="./assets/pablo-21.gif" />
+<img align="right" width="130" src="./assets/pablo-21.gif" />
 
 💬 Ask me about **anything**
 
@@ -158,7 +158,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
 <br/>
 
-<img float="left" width="25" src="./assets/pablo-29.gif" />
+<img align="left" width="25" src="./assets/pablo-29.gif" />
 
 
 
@@ -171,16 +171,16 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 
 
-<img float="left" width="7%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" />
-<img float="right" width="5%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" />
-<img float="left" width="6%" src="https://camo.githubusercontent.com/0d42edb3c2dcd537266f82f635fce7be10060de205873c658a161023ac66f4d6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6e38444e43543439796c316b6552713870352f323030772e77656270" />
-<img float="right" width="6%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
-<img float="left" width="5%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
-<img float="right" width="5%" src="./assets/pablo-28.gif" />
-<img float="right" width="4%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" />
-<img float="left" width="7%" src="./assets/pablo-30.gif" /><br/><br/><br/>
-<img float="right" width="15%" src="./assets/Rick.gif" />
-<img float="left" width="15%" src="./assets/Morty.webp" />
+<img align="left" width="7%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" />
+<img align="right" width="5%" src="https://i.giphy.com/media/UuH7UJfiv2qdDdjC0e/giphy.webp" />
+<img align="left" width="6%" src="https://camo.githubusercontent.com/0d42edb3c2dcd537266f82f635fce7be10060de205873c658a161023ac66f4d6/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6e38444e43543439796c316b6552713870352f323030772e77656270" />
+<img align="right" width="6%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
+<img align="left" width="5%" src="https://i.giphy.com/media/cjocnyoUWBbdVgLIDZ/200w.webp" />
+<img align="right" width="5%" src="./assets/pablo-28.gif" />
+<img align="right" width="4%" src="https://i.giphy.com/media/n8DNCT49yl1keRq8p5/200w.webp" />
+<img align="left" width="7%" src="./assets/pablo-30.gif" /><br/><br/><br/>
+<img align="right" width="15%" src="./assets/Rick.gif" />
+<img align="left" width="15%" src="./assets/Morty.webp" />
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a><br/>
 
 
@@ -188,17 +188,17 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <br/><img id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/>
 
-<a href="#"><a float="left" href="#"><img float="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a href="#"><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 
 
 
 <br />
 
-<img float="left" width="50" src="./assets/pablo-31.gif" />
+<img align="left" width="50" src="./assets/pablo-31.gif" />
 
-<img  float="left" width="200" src="./assets/pablo-22.gif" />
-<img  float="right" width="150" src="./assets/pablo-37.gif" />
+<img  align="left" width="200" src="./assets/pablo-22.gif" />
+<img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
@@ -210,7 +210,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 
 <br/>
-<img float="left" width="50" src="./assets/pablo-34.gif" />
+<img align="left" width="50" src="./assets/pablo-34.gif" />
 
 
 
@@ -221,7 +221,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <br /><br />
 <img id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/>
 
-<a href="#"><a float="right" href="#"><img float="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <br /><br /><br /><br />
 
@@ -239,7 +239,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <br /><br />
 <img id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/>
 
-<a float="left" href="#"><img float="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 <br/>
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
@@ -273,7 +273,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <br /><br />
 <img id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/>
 
-<a href="#"><a float="right" href="#"><img float="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project
 Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)
@@ -295,7 +295,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><br />
 <img id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/>
 
-<a float="left" href="#"><img float="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -506,7 +506,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><br />
 <img id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/>
 
-<br /><a float="right" href="#"><img float="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 <br />
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
 <br />
@@ -555,7 +555,7 @@ reaction GIFs, unique GIFs and more.
 <br /><br />
 <img id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/>
 
-<br /><a float="left" href="#"><img float="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
 Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
