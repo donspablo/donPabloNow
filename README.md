@@ -109,10 +109,9 @@ alt="don Pablo Video" border="10" /></a>
 <br />
 <h1>Hello World, my name is (don) <img width="130px" src="./assets/pablo-2.gif" /></h1>
 </span>
-<br /><br />
+<br />
 <img align="left" width="15%" src="./assets/pablo-26.gif" />
 <a align="right" href="https://twitter.com/donpablonow" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/donpablonow?logo=twitter&style=for-the-badge" alt="donpablonow" /></a>
-<br />
 <span align="center">
 <br />
 
