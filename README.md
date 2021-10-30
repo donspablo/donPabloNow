@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Kill ️ Commands](https://systemweakness.com/kill-%EF%B8%8F-commands-a5dc4fae3a7f?source=rss-73f028f71fcb------2)
 - [Mad City Prison Escape 2 New Jail](https://donpablonow.medium.com/mad-city-prison-escape-2-new-jail-91b7b1ffb15b?source=rss-73f028f71fcb------2)
 - [MiniRoyale 2 — Battle Royale Game](https://donpablonow.medium.com/miniroyale-2-battle-royale-game-f783747643a8?source=rss-73f028f71fcb------2)
 - [Instant Kubernetes — How to Get a Multi-Node Cluster Instantly](https://systemweakness.com/instant-kubernetes-how-to-get-a-multi-node-cluster-instantly-9de5c0e0957a?source=rss-73f028f71fcb------2)
-- [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
