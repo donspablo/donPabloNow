@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup tor proxy on Arch Linux — The FN Fast Way](https://systemweakness.com/setup-tor-proxy-on-arch-linux-the-fn-fast-way-a40a91dfb4b?source=rss-73f028f71fcb------2)
+- [Install Ranch on Microk8s — The FN Fast Way](https://systemweakness.com/install-ranch-on-microk8s-the-fn-fast-way-a2f28ea07685?source=rss-73f028f71fcb------2)
+- [K3s Multi-Node Cluster — The FN Fast Way](https://systemweakness.com/k3s-multi-node-cluster-the-fn-fast-way-e63aba4b89dc?source=rss-73f028f71fcb------2)
 - [Kill ️ Commands](https://systemweakness.com/kill-%EF%B8%8F-commands-a5dc4fae3a7f?source=rss-73f028f71fcb------2)
-- [Mad City Prison Escape 2 New Jail](https://donpablonow.medium.com/mad-city-prison-escape-2-new-jail-91b7b1ffb15b?source=rss-73f028f71fcb------2)
-- [MiniRoyale 2 — Battle Royale Game](https://donpablonow.medium.com/miniroyale-2-battle-royale-game-f783747643a8?source=rss-73f028f71fcb------2)
-- [Instant Kubernetes — How to Get a Multi-Node Cluster Instantly](https://systemweakness.com/instant-kubernetes-how-to-get-a-multi-node-cluster-instantly-9de5c0e0957a?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
