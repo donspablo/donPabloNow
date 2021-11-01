@@ -204,7 +204,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 - [Setup tor proxy on Arch Linux — The FN Fast Way](https://systemweakness.com/setup-tor-proxy-on-arch-linux-the-fn-fast-way-a40a91dfb4b?source=rss-73f028f71fcb------2)
 - [Install Ranch on Microk8s — The FN Fast Way](https://systemweakness.com/install-ranch-on-microk8s-the-fn-fast-way-a2f28ea07685?source=rss-73f028f71fcb------2)
 - [K3s Multi-Node Cluster — The FN Fast Way](https://systemweakness.com/k3s-multi-node-cluster-the-fn-fast-way-e63aba4b89dc?source=rss-73f028f71fcb------2)
-- [Kill ️ Commands](https://systemweakness.com/kill-%EF%B8%8F-commands-a5dc4fae3a7f?source=rss-73f028f71fcb------2)
+- [Kill ️ Commands](https://medium.com/donpublic/kill-%EF%B8%8F-commands-a5dc4fae3a7f?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
