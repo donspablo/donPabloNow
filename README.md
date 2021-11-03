@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [kubectl Cheat Sheet](https://donpablonow.medium.com/kubectl-cheat-sheet-14c12ff541f2?source=rss-73f028f71fcb------2)
 - [What is Clear Linux? — Most Powerful Operating System in 2022](https://systemweakness.com/what-is-clear-linux-most-powerful-operating-system-in-2022-197f904dc1d0?source=rss-73f028f71fcb------2)
 - [Setup tor proxy on Arch Linux — The FN Fast Way](https://medium.com/donpublic/setup-tor-proxy-on-arch-linux-the-fn-fast-way-a40a91dfb4b?source=rss-73f028f71fcb------2)
 - [Install Ranch on Microk8s — The FN Fast Way](https://medium.com/donpublic/install-ranch-on-microk8s-the-fn-fast-way-a2f28ea07685?source=rss-73f028f71fcb------2)
-- [K3s Multi-Node Cluster — The FN Fast Way](https://medium.com/donpublic/k3s-multi-node-cluster-the-fn-fast-way-e63aba4b89dc?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
