@@ -202,7 +202,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <!-- BLOG-POST-LIST:START -->
 - [How you  deploy  GitLab to  your Kubernetes Cluster — The FN’Fast Way](https://medium.com/donpublic/how-you-deploy-gitlab-to-your-kubernetes-cluster-the-fnfast-way-12c4622d984d?source=rss-73f028f71fcb------2)
-- [Gentoo? Most Powerful OS & 4th Most Popular Linux Distribution](https://systemweakness.com/gentoo-most-powerful-os-4th-most-popular-linux-distribution-a5a989c6cbb5?source=rss-73f028f71fcb------2)
+- [Gentoo? Most Powerful OS &amp; 4th Most Popular Linux Distribution](https://systemweakness.com/gentoo-most-powerful-os-4th-most-popular-linux-distribution-a5a989c6cbb5?source=rss-73f028f71fcb------2)
 - [kubectl Cheat Sheet](https://donpablonow.medium.com/kubectl-cheat-sheet-14c12ff541f2?source=rss-73f028f71fcb------2)
 - [What is Clear Linux? — Most Powerful Operating System in 2022](https://systemweakness.com/what-is-clear-linux-most-powerful-operating-system-in-2022-197f904dc1d0?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
