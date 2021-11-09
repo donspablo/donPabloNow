@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Dawn of the Cyborg OS — How Operating Systems are Reinventing the selves](https://systemweakness.com/dawn-of-the-cyborg-os-how-operating-systems-are-reinventing-the-selves-d5bf3728ce21?source=rss-73f028f71fcb------2)
 - [EU, Trump, Cookies and COVID — A Politicians Opinion](https://medium.com/donpublic/eu-trump-cookies-and-covid-a-politicians-opinion-2e5c47400c9e?source=rss-73f028f71fcb------2)
 - [How you  deploy  GitLab to  your Kubernetes Cluster — The FN’Fast Way](https://medium.com/donpublic/how-you-deploy-gitlab-to-your-kubernetes-cluster-the-fnfast-way-12c4622d984d?source=rss-73f028f71fcb------2)
 - [Gentoo? Most Powerful OS &amp; 4th Most Popular Linux Distribution](https://systemweakness.com/gentoo-most-powerful-os-4th-most-popular-linux-distribution-a5a989c6cbb5?source=rss-73f028f71fcb------2)
-- [kubectl Cheat Sheet](https://donpablonow.medium.com/kubectl-cheat-sheet-14c12ff541f2?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
