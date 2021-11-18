@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with the Themosis framework — Setup “twentynineteen” assets[5/8]](https://donpablonow.medium.com/getting-started-with-the-themosis-framework-setup-twentynineteen-assets-5-8-97d641b9dbbf?source=rss-73f028f71fcb------2)
+- [Getting started with the Themosis framework —Routing: Advanced 4/8](https://donpablonow.medium.com/getting-started-with-the-themosis-framework-routing-advanced-4-8-4294fe88d66d?source=rss-73f028f71fcb------2)
 - [.yxorP [A legend was born ]— A look the Service Scaping of our Worlds Online_](https://donpablonow.medium.com/yxorp-a-legend-was-born-a-look-the-service-scaping-of-our-worlds-online-87e489d42873?source=rss-73f028f71fcb------2)
 - [Bare-metal Kubernetes Cluster with on Virtual Machines using Vagrant and Ansible with Gitpod and…](https://systemweakness.com/bare-metal-kubernetes-cluster-with-on-virtual-machines-using-vagrant-and-ansible-with-gitpod-and-763329f333e0?source=rss-73f028f71fcb------2)
-- [Club 27 — The True, Bloody tale of Murder, Love, Revenge and Suicide](https://medium.com/donpublic/club-27-the-true-bloody-tale-of-murder-love-revenge-and-suicide-5f39a1eab73a?source=rss-73f028f71fcb------2)
-- [Dawn of the Cyborg OS — How Operating Systems are Reinventing the selves](https://systemweakness.com/dawn-of-the-cyborg-os-how-operating-systems-are-reinventing-the-selves-d5bf3728ce21?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
