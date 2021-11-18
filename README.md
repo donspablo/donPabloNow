@@ -202,7 +202,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with the Themosis framework — Setup “twentynineteen” assets[5/8]](https://donpablonow.medium.com/getting-started-with-the-themosis-framework-setup-twentynineteen-assets-5-8-97d641b9dbbf?source=rss-73f028f71fcb------2)
-- [Getting started with the Themosis framework —Routing: Advanced 4/8](https://donpablonow.medium.com/getting-started-with-the-themosis-framework-routing-advanced-4-8-4294fe88d66d?source=rss-73f028f71fcb------2)
+- [Advanced Routing with Themosis](https://donpablonow.medium.com/getting-started-with-the-themosis-framework-routing-advanced-4-8-4294fe88d66d?source=rss-73f028f71fcb------2)
 - [.yxorP [A legend was born ]— A look the Service Scaping of our Worlds Online_](https://donpablonow.medium.com/yxorp-a-legend-was-born-a-look-the-service-scaping-of-our-worlds-online-87e489d42873?source=rss-73f028f71fcb------2)
 - [Bare-metal Kubernetes Cluster with on Virtual Machines using Vagrant and Ansible with Gitpod and…](https://systemweakness.com/bare-metal-kubernetes-cluster-with-on-virtual-machines-using-vagrant-and-ansible-with-gitpod-and-763329f333e0?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
