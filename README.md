@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [.yxorP [A legend was born ]— A look the Service Scaping of our Worlds Online_](https://donpablonow.medium.com/yxorp-a-legend-was-born-a-look-the-service-scaping-of-our-worlds-online-87e489d42873?source=rss-73f028f71fcb------2)
 - [Bare-metal Kubernetes Cluster with on Virtual Machines using Vagrant and Ansible with Gitpod and…](https://systemweakness.com/bare-metal-kubernetes-cluster-with-on-virtual-machines-using-vagrant-and-ansible-with-gitpod-and-763329f333e0?source=rss-73f028f71fcb------2)
 - [Club 27 — The True, Bloody tale of Murder, Love, Revenge and Suicide](https://medium.com/donpublic/club-27-the-true-bloody-tale-of-murder-love-revenge-and-suicide-5f39a1eab73a?source=rss-73f028f71fcb------2)
 - [Dawn of the Cyborg OS — How Operating Systems are Reinventing the selves](https://systemweakness.com/dawn-of-the-cyborg-os-how-operating-systems-are-reinventing-the-selves-d5bf3728ce21?source=rss-73f028f71fcb------2)
-- [EU, Trump, Cookies and COVID — A Politicians Opinion](https://medium.com/donpublic/eu-trump-cookies-and-covid-a-politicians-opinion-2e5c47400c9e?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
