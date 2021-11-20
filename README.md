@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with the Themosis framework — Setup “twentynineteen” assets[5/8]](https://donpablonow.medium.com/getting-started-with-the-themosis-framework-setup-twentynineteen-assets-5-8-97d641b9dbbf?source=rss-73f028f71fcb------2)
-- [Advanced Routing with Themosis](https://donpablonow.medium.com/getting-started-with-the-themosis-framework-routing-advanced-4-8-4294fe88d66d?source=rss-73f028f71fcb------2)
-- [.yxorP [A legend was born ]— A look the Service Scaping of our Worlds Online_](https://donpablonow.medium.com/yxorp-a-legend-was-born-a-look-the-service-scaping-of-our-worlds-online-87e489d42873?source=rss-73f028f71fcb------2)
-- [Bare-metal Kubernetes Cluster with on Virtual Machines using Vagrant and Ansible with Gitpod and…](https://systemweakness.com/bare-metal-kubernetes-cluster-with-on-virtual-machines-using-vagrant-and-ansible-with-gitpod-and-763329f333e0?source=rss-73f028f71fcb------2)
+- [Getting started with the Themosis framework — Installation and configuration [1/8]](https://systemweakness.com/getting-started-with-the-themosis-framework-installation-and-configuration-1-8-4732cfca938c?source=rss-73f028f71fcb------2)
+- [Getting started with the Themosis framework — Routing basics 3/8](https://systemweakness.com/getting-started-with-the-themosis-framework-routing-basics-3-8-8416a7122ab2?source=rss-73f028f71fcb------2)
+- [Getting started with the Themosis framework — Setting up the Theme 2/8](https://systemweakness.com/getting-started-with-the-themosis-framework-setting-up-the-theme-2-8-404ee48b449b?source=rss-73f028f71fcb------2)
+- [Getting started with the Themosis framework — Wrap Up 8/8](https://systemweakness.com/getting-started-with-the-themosis-framework-wrap-up-8-8-3e992ea3a37?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
