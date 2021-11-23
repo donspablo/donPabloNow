@@ -201,10 +201,10 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [How to run Portainer &lpar;the Docker Manager&rpar; in Docker](https://donpablonow.medium.com/how-to-run-portainer-the-docker-manager-in-docker-d359635c490e?source=rss-73f028f71fcb------2)
 - [Getting started with the Themosis framework — Installation and configuration [1/8]](https://systemweakness.com/getting-started-with-the-themosis-framework-installation-and-configuration-1-8-4732cfca938c?source=rss-73f028f71fcb------2)
 - [Getting started with the Themosis framework — Routing basics 3/8](https://systemweakness.com/getting-started-with-the-themosis-framework-routing-basics-3-8-8416a7122ab2?source=rss-73f028f71fcb------2)
 - [Getting started with the Themosis framework — Setting up the Theme 2/8](https://systemweakness.com/getting-started-with-the-themosis-framework-setting-up-the-theme-2-8-404ee48b449b?source=rss-73f028f71fcb------2)
-- [Getting started with the Themosis framework — Wrap Up 8/8](https://systemweakness.com/getting-started-with-the-themosis-framework-wrap-up-8-8-3e992ea3a37?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
