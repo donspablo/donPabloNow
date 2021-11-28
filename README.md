@@ -23,28 +23,38 @@
 <br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
 <img title="The Index" alt="The Index" height="150" src="./assets/The-Index-28-11-2021.gif" /><br/><br/><br/>
 <img title="No. 1" alt="No. 1" height="25" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="25" src="./assets/whats-poppin-index.png" /></a><br/>
+Hows it? Introduction & Content Index</br>
 ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
 <img title="No. 2" alt="No. 2" height="25" src="./assets/2.png"/><a href="#db"><img title="The 411" alt="The 411" height="25" src="./assets/the-411-index.png" /></a><br/>
+Information. Video Biography</br>
 ᴬⁿᵒᵗʰᵉʳ ᵗᵉʳᵐ ᵘˢᵉᵈ ᶠᵒʳ "ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ" ᴴᵉⁿᶜᵉ ᵈᶦᵃˡᶦⁿᵍ ⁴¹¹ ᶠᵒʳ <br/>ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ ᴰᵃᵐⁿ ˢʰᵉ'ˢ ᶠᶦⁿᵉ ᴵ ᵃᵐ ᵍᵒⁿⁿᵃ ᵍᵒ ᵍᵉᵗ ᵗʰᵉ ⁴¹¹ ᵒⁿ
 ʰᵉʳ<br/><br/>
 <img title="No. 3" alt="No. 3" height="25" src="./assets/3.png" /><a href="#bh"><img title="Bread & honey" alt="Bread & honey" height="25" src="./assets/bread-and-honey-index.png" /></a><br/>
+Money. Current Projects and Work</br>
 ᶜᵒᶜᵏⁿᵉʸ ᴿʰʸᵐᶦⁿᵍ ˢˡᵃⁿᵍ ᶦⁿ ᴬᵐᵉʳᶦᶜᵃⁿ ᴱⁿᵍˡᶦˢʰ<br/> "ᵇʳᵉᵃᵈ" ᵇʳᵉᵃᵈ ᵃⁿᵈ ʰᵒⁿᵉʸ ᵐᵉᵃⁿˢ ᵐᵒⁿᵉʸ<br/><br/>
 <img title="No. 4" alt="No. 4" height="25" src="./assets/4.png" /><a href="#yo"><img title="Yolo" alt="Yolo" height="25" src="./assets/yolo-index.png" /></a><br/>
+You only live once. Personal Blog</br>
 ʸᴼᴸᴼ - ᵃᶜʳᵒⁿʸᵐ ᵐᵉᵃⁿᶦⁿᵍ ʸᵒᵘ ᵒⁿˡʸ ˡᶦᵛᵉ ᵒⁿᶜᵉ ᵘˢᵉᵈ ᵗᵒ ᵉˣᵖʳᵉˢˢ ᵗʰᵉ <br/>ᵛᶦᵉʷ ᵗʰᵃᵗ ᵒⁿᵉ ˢʰᵒᵘˡᵈ ᵐᵃᵏᵉ ᵗʰᵉ ᵐᵒˢᵗ ᵒᶠ ᵗʰᵉ ᵖʳᵉˢᵉⁿᵗ
 ᵐᵒᵐᵉⁿᵗ ʷᶦᵗʰᵒᵘᵗ ʷᵒʳʳʸᶦⁿᵍ ᵃᵇᵒᵘᵗ ᵗʰᵉ ᶠᵘᵗᵘʳᵉ<br/><br/>
 <img title="No. 5" alt="No. 5" height="25" src="./assets/5.png" /><a href="#sm"><img title="Scrooge McDuckin" alt="Scrooge McDuckin" height="25" src="./assets/scrooge-mcduckin-index.png" /></a><br/>
+Swimming in Riches like Scrooge McDuck. Donations always Welcome!</br>
 ᵀᵒ ᵈᶦᵛᵉ ʰᵉᵃᵈᶠᶦʳˢᵗ ᶦⁿᵗᵒ ᵃ ᵖᵒᵒˡ ᵒᶠ ᵍᵒˡᵈ ᶜᵒᶦⁿˢ <br/>ˡᶦᵗᵉʳᵃˡˡʸ ˢʷᶦᵐᵐᶦⁿᵍ ᵗʰʳᵒᵘᵍʰ ʸᵒᵘʳ ʷᵉᵃˡᵗʰ ᵃⁿ ᵃᶜᵗᶦᵛᶦᵗʸ ᵖᵒᵖᵘˡᵃʳᶦᶻᵉᵈ ᵇʸ ᶦᵗˢ
 ⁿᵃᵐᵉˢᵃᵏᵉ<br/><br/>
 <img title="No. 6" alt="No. 6" height="25" src="./assets/6.png" /><a href="#hb"><img title="Holla Back" alt="Holla Back" height="25" src="./assets/holla-back-index.png" /></a><br/>
+Contact Me. Where to Contact Me</br>
 ᴴᵒˡˡᵃ ᵇᵃᶜᵏ! ˢˡᵃⁿᵍ ᴹᵃᵏᵉ ˢᵒᵐᵉ ⁿᵒᶦˢᵉ ᵇʸᵉ ˢᵉᵉ ʸᵒᵘ<br/> ˡᵃᵗᵉʳ ᵍᵉᵗ ᵇᵃᶜᵏ ᵗᵒ ᵐᵉ ʳᵉᵖˡʸ ᵗᵒ ᵐᵉ!<br/><br/>
 <img title="No. 7" alt="No. 7" height="25" src="./assets/7.png" /><a href="#cr"><img title="Credibility" alt="Credibility" height="25" src="./assets/cred-index.png" /></a><br/>
+Credibility. References and Testimonials</br>
 ᴹᵉᵃⁿˢ ᵗʰᵉ ᑫᵘᵃˡᶦᵗʸ ᵒᶠ ᵇᵉᶦⁿᵍ ᵇᵉˡᶦᵉᵛᵃᵇˡᵉ ᵒʳ ʷᵒʳᵗʰʸ ᵒᶠ ʳᵉˢᵖᵉᶜᵗ<br/> ᵉˢᵖᵉᶜᶦᵃˡˡʸ ʷᶦᵗʰᶦⁿ ᵃ ᵖᵃʳᵗᶦᶜᵘˡᵃʳ ˢᵒᶜᶦᵃˡ ᵖʳᵒᶠᵉˢˢᶦᵒⁿᵃˡ ᵒʳ
 ᵒᵗʰᵉʳ ᵍʳᵒᵘᵖ<br/><br/>
 <img title="No. 8" alt="No. 8" height="25" src="./assets/8.png" /><a href="#sk"><img title="Skills" alt="Skills" height="25" src="./assets/skills-index.png" /></a><br/>
+Skills. Coding Languages, Tools and Frameworks</br>
 ᵀʰᵉ ᵃᵇᶦˡᶦᵗʸ ᶜᵒᵐᶦⁿᵍ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ᵏⁿᵒʷˡᵉᵈᵍᵉ ᵖʳᵃᶜᵗᶦᶜᵉ <br/>ᵃᵖᵗᶦᵗᵘᵈᵉ ᵉᵗᶜ ᵗᵒ ᵈᵒ ˢᵒᵐᵉᵗʰᶦⁿᵍ ʷᵉˡˡ<br/><br/>
 <img title="No. 9" alt="No. 9" height="25" src="./assets/9.png" /><a href="#ho"><img title="Homies" alt="Homies" height="25" src="./assets/homies-index.png" /></a><br/>
+Friends. Acknowledgements and Contributors</br>
 ᴬ ᵖᵉʳˢᵒⁿ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ʰᵒᵐᵉ ᵗᵒʷⁿ ᵒʳ ⁿᵉᶦᵍʰᵇᵒʳʰᵒᵒᵈ ᵃ ᵐᵉᵐᵇᵉʳ<br/> ᵒᶠ ᵒⁿᵉ'ˢ ᵖᵉᵉʳ ᵍʳᵒᵘᵖ ᵒʳ ᵍᵃⁿᵍ ᵃ ʰᵒᵐᵉᵇᵒʸ ᵒʳ ʰᵒᵐᵉᵍᶦʳˡ<br/><br/>
 <img title="No. 10" alt="No. 10" height="25" src="./assets/10.png" /><a href="#dr"><img title="Drip" alt="Drip" height="25" src="./assets/drip-index.png" /></a><br/>
+Bling. Certifications and Education</br>
 ᴰʳᶦᵖ ᵘˢᵉᵈ ᵃˢ ˢˡᵃⁿᵍ ᵐᵉᵃⁿˢ ˢᵗʸˡᵉ ᵖᵃʳᵗᶦᶜᵘˡᵃʳˡʸ ᶠᵃˢʰᶦᵒⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᵉˣʸ ˢᵗʸˡᵉ ᴵᵗ ᶜᵃⁿ ᵉˢᵖᵉᶜᶦᵃˡˡʸ<br/> ʳᵉᶠᵉʳ ᵗᵒ ᵗʰᶦⁿᵍˢ ˡᶦᵏᵉ ᶦᶜᵉ
 ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
 <br/>
@@ -98,6 +108,8 @@
 
 <br />
 
+# The 411 / Information. Introduction Video
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/youtube.png"
 title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
@@ -118,7 +130,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img id="bh" title="Bread & honey" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
 
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
-
+# Bread & Honey / Money. Current Work and Projects
 <img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
@@ -190,7 +202,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a href="#"><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-
+# Yolo / You Only Live Once. Personal Blog
 
 
 <br />
@@ -225,6 +237,8 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
+# Scrooge McDuckin / Swiming in Riches like Scrooge McDuck. Donations are always welcome
+
 <br /><br /><br /><br />
 
 <a href="https://www.buymeacoffee.com/donpablonow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="20%" title="donpablonow" alt="donpablonow" /></a>
@@ -242,6 +256,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+# Holla Back / Contact Me. How to contact me
 <br/>
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
@@ -276,7 +291,8 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
-
+# Cred / Credibility. References and Work Experience
+<br />
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project
 Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)
 ...  [](https://za.linkedin.com/in/donPabloNow "LinkedIn")/[](https://www.freelancer.com/u/uxdev "Freelancer")
@@ -298,7 +314,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <img id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
-
+# Skills / Skills
 <br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -509,6 +525,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <img id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/>
 
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+# Homies / Friends. Acknowledgements and Contributors
 <br />
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
 <br />
@@ -558,7 +575,8 @@ reaction GIFs, unique GIFs and more.
 <img id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/>
 
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
-
+# Drip / Bling. Certification and Education
+<br />
 🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
 Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
 
