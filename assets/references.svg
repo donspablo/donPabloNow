@@ -1,29 +1,30 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns='http://www.w3.org/2000/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 800 50'
-    width='800px' height='50px'>
+<svg xmlns:xlink='http://www.w3.org/1999/xlink'
+     xmlns='http://www.w3.org/2000/svg'
+     viewBox='0 0 800 50'
+     width='800px' height='50px'>
 
-    
+
     <path id='path0'>
         <animate id='d0' attributeName='d' begin='0s;d19.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
-            Pablo was extremely patient and worked to my schedule while teaching me the various elements to manage myself. Would highly recommend him to support those looking to improve their web presence.
+            Pablo was extremely patient and worked to my schedule while teaching me the various elements to manage
+            myself. Would highly recommend him to support those looking to improve their web presence.
         </textPath>
     </text>
 
     <path id='path1'>
         <animate id='d1' attributeName='d' begin='d0.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
             Ryan Darnell - Operations Director, Technical Services at BGIS
         </textPath>
@@ -31,203 +32,211 @@
 
     <path id='path2'>
         <animate id='d2' attributeName='d' begin='d1.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path2'>
-            Pablo is a strategic thinker with astute commercial awareness. Pablo has clear communication, logical and straightforward to partner with.
+            Pablo is a strategic thinker with astute commercial awareness. Pablo has clear communication, logical and
+            straightforward to partner with.
         </textPath>
     </text>
 
     <path id='path3'>
         <animate id='d3' attributeName='d' begin='d2.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path3'>
-            Steve Richards  Founder Jago® &amp; Jago® films, B Corp® (London, United Kingdom) 
+            Steve Richards Founder Jago® &amp; Jago® films, B Corp® (London, United Kingdom)
         </textPath>
     </text>
 
     <path id='path4'>
         <animate id='d4' attributeName='d' begin='d3.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path4'>
-            Pablo is by far one of the most inspiring people I've worked with. His work ethic is outstanding. He's always seeking to do better, be more efficient and always thinking outside the box.
+            Pablo is by far one of the most inspiring people I've worked with. His work ethic is outstanding. He's
+            always seeking to do better, be more efficient and always thinking outside the box.
         </textPath>
     </text>
 
     <path id='path5'>
         <animate id='d5' attributeName='d' begin='d4.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path5'>
-            Mark Gounden  Senior Project Manager (PMP) at Philips (Utrecht, Netherlands) 
+            Mark Gounden Senior Project Manager (PMP) at Philips (Utrecht, Netherlands)
         </textPath>
     </text>
 
     <path id='path6'>
         <animate id='d6' attributeName='d' begin='d5.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path6'>
-            Pablos does some great work. He helped us a develop a site that we are really happy with. He is prompt and professional.
+            Pablos does some great work. He helped us a develop a site that we are really happy with. He is prompt and
+            professional.
         </textPath>
     </text>
 
     <path id='path7'>
         <animate id='d7' attributeName='d' begin='d6.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path7'>
-            President/CEO Rock Hammer Demolition (California, United States) 
+            President/CEO Rock Hammer Demolition (California, United States)
         </textPath>
     </text>
 
     <path id='path8'>
         <animate id='d8' attributeName='d' begin='d7.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path8'>
-            Worked with Pablo on an adjacent team. Our teams worked together to complete certain stories that spanned teams.
+            Worked with Pablo on an adjacent team. Our teams worked together to complete certain stories that spanned
+            teams.
         </textPath>
     </text>
 
     <path id='path9'>
         <animate id='d9' attributeName='d' begin='d8.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path9'>
-            Xhanti Bomela  Project Leader/ Senior Software Engineer at Auto Trader SA 
+            Xhanti Bomela Project Leader/ Senior Software Engineer at Auto Trader SA
         </textPath>
     </text>
 
     <path id='path10'>
         <animate id='d10' attributeName='d' begin='d9.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path10'>
-            I worked with Pablo on the SiteCreator Team. Pablo was the Senior Designer and Front End Developer at the time and worked on creating and improving the various templates that SiteCreator provided to its customers. 
+            I worked with Pablo on the SiteCreator Team. Pablo was the Senior Designer and Front End Developer at the
+            time and worked on creating and improving the various templates that SiteCreator provided to its customers.
         </textPath>
     </text>
 
     <path id='path11'>
         <animate id='d11' attributeName='d' begin='d10.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path11'>
-            Daniel de Kock  Tech Lead / Senior Developer at Allan Gray Proprietary Limited 
+            Daniel de Kock Tech Lead / Senior Developer at Allan Gray Proprietary Limited
         </textPath>
     </text>
 
     <path id='path12'>
         <animate id='d12' attributeName='d' begin='d11.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path12'>
-            Pablo is one of the brightest, innovative thinkers I have met. He applies himself diligently to every goal, is enthusiastic and extremely entrepreneurial.
+            Pablo is one of the brightest, innovative thinkers I have met. He applies himself diligently to every goal,
+            is enthusiastic and extremely entrepreneurial.
         </textPath>
     </text>
 
     <path id='path13'>
         <animate id='d13' attributeName='d' begin='d12.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path13'>
-            Telsa Lange  Consulting Senior Clinical Data Manager at ACRO 
+            Telsa Lange Consulting Senior Clinical Data Manager at ACRO
         </textPath>
     </text>
 
     <path id='path14'>
         <animate id='d14' attributeName='d' begin='d13.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path14'>
-            I worked as an external agency to Handy Cats, recommending my clients to their services when they required high level software or app development. 
+            I worked as an external agency to Handy Cats, recommending my clients to their services when they required
+            high level software or app development.
         </textPath>
     </text>
 
     <path id='path15'>
         <animate id='d15' attributeName='d' begin='d14.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path15'>
-            Taryn Gloyne  Head of Design and Web at Pargo 
+            Taryn Gloyne Head of Design and Web at Pargo
         </textPath>
     </text>
 
     <path id='path16'>
         <animate id='d16' attributeName='d' begin='d15.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path16'>
-            I had the opportunity to work with Pablo some time ago and I found him to be very professional, someone I could rely on, a person that didn't get involved in office politics but just focused on getting the job done
+            I had the opportunity to work with Pablo some time ago and I found him to be very professional, someone I
+            could rely on, a person that didn't get involved in office politics but just focused on getting the job done
         </textPath>
     </text>
 
     <path id='path17'>
         <animate id='d17' attributeName='d' begin='d16.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path17'>
-            Grant Taylor  Founder at Dassie Grows 
+            Grant Taylor Founder at Dassie Grows
         </textPath>
     </text>
 
     <path id='path18'>
         <animate id='d18' attributeName='d' begin='d17.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path18'>
             Pablo is great to work with. He is always very professional and willing to go the extra mile.
         </textPath>
@@ -235,13 +244,13 @@
 
     <path id='path19'>
         <animate id='d19' attributeName='d' begin='d18.end' dur='5s'
-            values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1' />
+                 values='m0,25 h0 ; m0,25 h800 ; m0,25 h0' keyTimes='0 ; 0.8 ; 1'/>
     </path>
     <text font-family='"monospace", monospace' fill='#990ADF' font-size='9'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
+          dominant-baseline='middle'
+          x='0%' text-anchor='start'>
         <textPath xlink:href='#path19'>
-            Abigail Voigt  Office Administrator at South African Fruit Exporters
+            Abigail Voigt Office Administrator at South African Fruit Exporters
         </textPath>
     </text>
 

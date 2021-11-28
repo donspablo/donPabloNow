@@ -201,10 +201,12 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+
 - [It is Clash of The Distro Titans ending the Year on a Cliff-Hanger — Who will Emerge the Victor in…](https://systemweakness.com/it-is-clash-of-the-distro-titans-ending-the-year-on-a-cliff-hanger-who-will-emerge-the-victor-in-7b453303d829?source=rss-73f028f71fcb------2)
 - [Nginx Proxy Manager — Deep Dive](https://donpablonow.medium.com/nginx-proxy-manager-deep-dive-25f8d8b4b055?source=rss-73f028f71fcb------2)
 - [How to Install Arch Linux](https://donpablonow.medium.com/how-to-install-arch-linux-f4c090ede25e?source=rss-73f028f71fcb------2)
 - [The Millionaire Next Door: The Surprising Secrets of America’s Wealthy](https://medium.com/donpublic/the-millionaire-next-door-the-surprising-secrets-of-americas-wealthy-73e7a1cc1e54?source=rss-73f028f71fcb------2)
+
 <!-- BLOG-POST-LIST:END --> 
 
 
