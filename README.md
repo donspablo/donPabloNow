@@ -103,12 +103,9 @@ Bling. Certifications and Education</br>
 
 <img id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br /><br />
-
-
-<br />
-
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 # The 411 / Information. Introduction Video
+<br />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/youtube.png"
@@ -131,6 +128,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 # Bread & Honey / Money. Current Work and Projects
+<br />
 <img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
@@ -203,7 +201,6 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="#"><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 # Yolo / You Only Live Once. Personal Blog
-
 
 <br />
 
