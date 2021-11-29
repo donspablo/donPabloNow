@@ -110,9 +110,9 @@ Bling. Certifications and Education</br>
 <h1>The 411 / Information - Introduction Video</h1>
 <br />
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
-" target="_blank"><img src="./assets/youtube.png"
-title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8" target="_blank">
+    <img src="./assets/youtube.png" title="don Pablo Video" alt="don Pablo Video" border="10" />
+</a>
 <img align="left" width="40" src="./assets/pablo-34.gif" />
 <img align="left" width="100" src="./assets/pablo-4.gif" />
 
