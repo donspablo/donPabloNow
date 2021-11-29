@@ -8,7 +8,7 @@
 <br/>
 
 
-<img title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
+<img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
 
 # Hows it? Welcome to the profile of don Pablo!
 
@@ -105,7 +105,7 @@ Bling. Certifications and Education</br>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" />
+<img align="center" id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" />
 
 # The 411 / Information - Introduction Video
 
@@ -201,7 +201,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a href="#"><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<br/><img id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/>
+<br/>
+
+<img align="center" id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/>
 
 # Yolo / You Only Live Once - Personal Blog
 
@@ -234,7 +236,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<img id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/>
+<img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/>
 
 # Scrooge McDuckin / Swimming like Scrooge McDuck in Donations
 
@@ -255,7 +257,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/>
+<img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/>
 
 # Holla Back / Contact Me - How to contact me
 
@@ -293,7 +295,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<img id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/>
+<img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/>
 
 # Cred / Credibility - References and Work Experience
 
@@ -318,7 +320,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><br />
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/>
+<img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/>
 
 # Skills / Skills - Mad Skills
 
@@ -531,7 +533,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><br />
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/>
+<img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/>
 
 # Homies / Friends - Acknowledgements and Contributors
 
@@ -583,7 +585,7 @@ reaction GIFs, unique GIFs and more.
 <br /><br />
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/>
+<img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/>
 
 # Drip / Bling - Certification and Education
 
