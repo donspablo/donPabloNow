@@ -22,38 +22,38 @@
 <img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
 <img title="The Index" alt="The Index" height="150" src="./assets/the-index.gif" /><br/><br/><br/>
-<img title="No. 1" alt="No. 1" height="55" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="55" src="./assets/whats-poppin-index.png" /></a><br/>
+<img title="No. 1" alt="No. 1" height="55" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="100" src="./assets/whats-poppin-index.png" /></a><br/>
 Hows it? Introduction & Content Index</br>
 ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
-<img title="No. 2" alt="No. 2" height="55" src="./assets/2.png"/><a href="#db"><img title="The 411" alt="The 411" height="55" src="./assets/the-411-index.png" /></a><br/>
+<img title="No. 2" alt="No. 2" height="55" src="./assets/2.png"/><a href="#db"><img title="The 411" alt="The 411" height="100" src="./assets/the-411-index.png" /></a><br/>
 Information. Video Biography</br>
 ᴬⁿᵒᵗʰᵉʳ ᵗᵉʳᵐ ᵘˢᵉᵈ ᶠᵒʳ "ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ" ᴴᵉⁿᶜᵉ ᵈᶦᵃˡᶦⁿᵍ ⁴¹¹ ᶠᵒʳ <br/>ᶦⁿᶠᵒʳᵐᵃᵗᶦᵒⁿ ᴰᵃᵐⁿ ˢʰᵉ'ˢ ᶠᶦⁿᵉ ᴵ ᵃᵐ ᵍᵒⁿⁿᵃ ᵍᵒ ᵍᵉᵗ ᵗʰᵉ ⁴¹¹ ᵒⁿ
 ʰᵉʳ<br/><br/>
-<img title="No. 3" alt="No. 3" height="55" src="./assets/3.png" /><a href="#bh"><img title="Bread & honey" alt="Bread & honey" height="55" src="./assets/bread-and-honey-index.png" /></a><br/>
+<img title="No. 3" alt="No. 3" height="55" src="./assets/3.png" /><a href="#bh"><img title="Bread & honey" alt="Bread & honey" height="100" src="./assets/bread-and-honey-index.png" /></a><br/>
 Money. Current Projects and Work</br>
 ᶜᵒᶜᵏⁿᵉʸ ᴿʰʸᵐᶦⁿᵍ ˢˡᵃⁿᵍ ᶦⁿ ᴬᵐᵉʳᶦᶜᵃⁿ ᴱⁿᵍˡᶦˢʰ<br/> "ᵇʳᵉᵃᵈ" ᵇʳᵉᵃᵈ ᵃⁿᵈ ʰᵒⁿᵉʸ ᵐᵉᵃⁿˢ ᵐᵒⁿᵉʸ<br/><br/>
-<img title="No. 4" alt="No. 4" height="55" src="./assets/4.png" /><a href="#yo"><img title="Yolo" alt="Yolo" height="55" src="./assets/yolo-index.png" /></a><br/>
+<img title="No. 4" alt="No. 4" height="55" src="./assets/4.png" /><a href="#yo"><img title="Yolo" alt="Yolo" height="100" src="./assets/yolo-index.png" /></a><br/>
 You only live once. Personal Blog</br>
 ʸᴼᴸᴼ - ᵃᶜʳᵒⁿʸᵐ ᵐᵉᵃⁿᶦⁿᵍ ʸᵒᵘ ᵒⁿˡʸ ˡᶦᵛᵉ ᵒⁿᶜᵉ ᵘˢᵉᵈ ᵗᵒ ᵉˣᵖʳᵉˢˢ ᵗʰᵉ <br/>ᵛᶦᵉʷ ᵗʰᵃᵗ ᵒⁿᵉ ˢʰᵒᵘˡᵈ ᵐᵃᵏᵉ ᵗʰᵉ ᵐᵒˢᵗ ᵒᶠ ᵗʰᵉ ᵖʳᵉˢᵉⁿᵗ
 ᵐᵒᵐᵉⁿᵗ ʷᶦᵗʰᵒᵘᵗ ʷᵒʳʳʸᶦⁿᵍ ᵃᵇᵒᵘᵗ ᵗʰᵉ ᶠᵘᵗᵘʳᵉ<br/><br/>
-<img title="No. 5" alt="No. 5" height="55" src="./assets/5.png" /><a href="#sm"><img title="Scrooge McDuckin" alt="Scrooge McDuckin" height="55" src="./assets/scrooge-mcduckin-index.png" /></a><br/>
+<img title="No. 5" alt="No. 5" height="55" src="./assets/5.png" /><a href="#sm"><img title="Scrooge McDuckin" alt="Scrooge McDuckin" height="100" src="./assets/scrooge-mcduckin-index.png" /></a><br/>
 Swimming in Riches like Scrooge McDuck. Donations always Welcome!</br>
 ᵀᵒ ᵈᶦᵛᵉ ʰᵉᵃᵈᶠᶦʳˢᵗ ᶦⁿᵗᵒ ᵃ ᵖᵒᵒˡ ᵒᶠ ᵍᵒˡᵈ ᶜᵒᶦⁿˢ <br/>ˡᶦᵗᵉʳᵃˡˡʸ ˢʷᶦᵐᵐᶦⁿᵍ ᵗʰʳᵒᵘᵍʰ ʸᵒᵘʳ ʷᵉᵃˡᵗʰ ᵃⁿ ᵃᶜᵗᶦᵛᶦᵗʸ ᵖᵒᵖᵘˡᵃʳᶦᶻᵉᵈ ᵇʸ ᶦᵗˢ
 ⁿᵃᵐᵉˢᵃᵏᵉ<br/><br/>
-<img title="No. 6" alt="No. 6" height="55" src="./assets/6.png" /><a href="#hb"><img title="Holla Back" alt="Holla Back" height="55" src="./assets/holla-back-index.png" /></a><br/>
+<img title="No. 6" alt="No. 6" height="55" src="./assets/6.png" /><a href="#hb"><img title="Holla Back" alt="Holla Back" height="100" src="./assets/holla-back-index.png" /></a><br/>
 Contact Me. Where to Contact Me</br>
 ᴴᵒˡˡᵃ ᵇᵃᶜᵏ! ˢˡᵃⁿᵍ ᴹᵃᵏᵉ ˢᵒᵐᵉ ⁿᵒᶦˢᵉ ᵇʸᵉ ˢᵉᵉ ʸᵒᵘ<br/> ˡᵃᵗᵉʳ ᵍᵉᵗ ᵇᵃᶜᵏ ᵗᵒ ᵐᵉ ʳᵉᵖˡʸ ᵗᵒ ᵐᵉ!<br/><br/>
-<img title="No. 7" alt="No. 7" height="55" src="./assets/7.png" /><a href="#cr"><img title="Credibility" alt="Credibility" height="55" src="./assets/cred-index.png" /></a><br/>
+<img title="No. 7" alt="No. 7" height="55" src="./assets/7.png" /><a href="#cr"><img title="Credibility" alt="Credibility" height="100" src="./assets/cred-index.png" /></a><br/>
 Credibility. References and Testimonials</br>
 ᴹᵉᵃⁿˢ ᵗʰᵉ ᑫᵘᵃˡᶦᵗʸ ᵒᶠ ᵇᵉᶦⁿᵍ ᵇᵉˡᶦᵉᵛᵃᵇˡᵉ ᵒʳ ʷᵒʳᵗʰʸ ᵒᶠ ʳᵉˢᵖᵉᶜᵗ<br/> ᵉˢᵖᵉᶜᶦᵃˡˡʸ ʷᶦᵗʰᶦⁿ ᵃ ᵖᵃʳᵗᶦᶜᵘˡᵃʳ ˢᵒᶜᶦᵃˡ ᵖʳᵒᶠᵉˢˢᶦᵒⁿᵃˡ ᵒʳ
 ᵒᵗʰᵉʳ ᵍʳᵒᵘᵖ<br/><br/>
-<img title="No. 8" alt="No. 8" height="55" src="./assets/8.png" /><a href="#sk"><img title="Skills" alt="Skills" height="55" src="./assets/skills-index.png" /></a><br/>
+<img title="No. 8" alt="No. 8" height="55" src="./assets/8.png" /><a href="#sk"><img title="Skills" alt="Skills" height="100" src="./assets/skills-index.png" /></a><br/>
 Skills. Coding Languages, Tools and Frameworks</br>
 ᵀʰᵉ ᵃᵇᶦˡᶦᵗʸ ᶜᵒᵐᶦⁿᵍ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ᵏⁿᵒʷˡᵉᵈᵍᵉ ᵖʳᵃᶜᵗᶦᶜᵉ <br/>ᵃᵖᵗᶦᵗᵘᵈᵉ ᵉᵗᶜ ᵗᵒ ᵈᵒ ˢᵒᵐᵉᵗʰᶦⁿᵍ ʷᵉˡˡ<br/><br/>
-<img title="No. 9" alt="No. 9" height="55" src="./assets/9.png" /><a href="#ho"><img title="Homies" alt="Homies" height="55" src="./assets/homies-index.png" /></a><br/>
+<img title="No. 9" alt="No. 9" height="55" src="./assets/9.png" /><a href="#ho"><img title="Homies" alt="Homies" height="100" src="./assets/homies-index.png" /></a><br/>
 Friends. Acknowledgements and Contributors</br>
 ᴬ ᵖᵉʳˢᵒⁿ ᶠʳᵒᵐ ᵒⁿᵉ'ˢ ʰᵒᵐᵉ ᵗᵒʷⁿ ᵒʳ ⁿᵉᶦᵍʰᵇᵒʳʰᵒᵒᵈ ᵃ ᵐᵉᵐᵇᵉʳ<br/> ᵒᶠ ᵒⁿᵉ'ˢ ᵖᵉᵉʳ ᵍʳᵒᵘᵖ ᵒʳ ᵍᵃⁿᵍ ᵃ ʰᵒᵐᵉᵇᵒʸ ᵒʳ ʰᵒᵐᵉᵍᶦʳˡ<br/><br/>
-<img title="No. 10" alt="No. 10" height="55" src="./assets/10.png" /><a href="#dr"><img title="Drip" alt="Drip" height="55" src="./assets/drip-index.png" /></a><br/>
+<img title="No. 10" alt="No. 10" height="55" src="./assets/10.png" /><a href="#dr"><img title="Drip" alt="Drip" height="100" src="./assets/drip-index.png" /></a><br/>
 Bling. Certifications and Education</br>
 ᴰʳᶦᵖ ᵘˢᵉᵈ ᵃˢ ˢˡᵃⁿᵍ ᵐᵉᵃⁿˢ ˢᵗʸˡᵉ ᵖᵃʳᵗᶦᶜᵘˡᵃʳˡʸ ᶠᵃˢʰᶦᵒⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᵉˣʸ ˢᵗʸˡᵉ ᴵᵗ ᶜᵃⁿ ᵉˢᵖᵉᶜᶦᵃˡˡʸ<br/> ʳᵉᶠᵉʳ ᵗᵒ ᵗʰᶦⁿᵍˢ ˡᶦᵏᵉ ᶦᶜᵉ
 ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
