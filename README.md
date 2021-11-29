@@ -104,7 +104,6 @@ Bling. Certifications and Education</br>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /><br />
-
 # The 411 / Information - Introduction Video
 <br />
 
@@ -129,7 +128,6 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="bh" title="Bread & honey" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
-
 # Bread & Honey / Money - Current Work and Projects
 <br />
 <img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
@@ -200,7 +198,6 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="#"><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <br/><img id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/>
-
 # Yolo / You Only Live Once - Personal Blog
 
 <br />
@@ -233,7 +230,6 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <img id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/>
-
 # Scrooge McDuckin / Swimming like Scrooge McDuck in Donations lol
 
 <br /><br /><br /><br />
@@ -254,7 +250,6 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/>
-
 # Holla Back / Contact Me - How to contact me
 <br/>
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
@@ -291,7 +286,6 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <img id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/>
-
 # Cred / Credibility - References and Work Experience
 <br />
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project
@@ -315,7 +309,6 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/>
-
 # Skills / Skills - Mad Skills
 <br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -527,7 +520,6 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/>
-
 # Homies / Friends - Acknowledgements and Contributors
 <br />
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
