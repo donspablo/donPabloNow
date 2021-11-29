@@ -13,6 +13,7 @@
 <p align="center"><img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" /></p>
 
 <p align="center"><h1>Hows it? Welcome to the profile of don Pablo!</h1></p>
+
 <br />
 
 <a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
@@ -108,8 +109,11 @@ Bling. Certifications and Education</br>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <p align="center"><img  align="center" id="dr" title="Video Bio" alt="Drip" src="./assets/video-bio-sub.png" width="20%"/></p>
+
 <p align="center"><img align="center" id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /></p>
+
 <h1>The 411 / Information - Introduction Video</h1>
+
 <br />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8" target="_blank">
@@ -133,8 +137,11 @@ Bling. Certifications and Education</br>
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <p align="center"><img  align="center" id="dr" title="Projects" alt="Drip" src="./assets/projects-sub.png" width="20%"/></p>
+
 <img id="bh" title="Bread & honey" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
+
 <h1>Bread & Honey / Money - Current Work and Projects</h1>
+
 <br />
 
 <img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
@@ -207,8 +214,11 @@ Bling. Certifications and Education</br>
 <br/>
 
 <p align="center"><img  align="center" id="dr" title="Writing" alt="Drip" src="./assets/writing-sub.png" width="20%"/></p>
+
 <p align="center"><img align="center" id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/></p>
+
 <h1>Yolo / You Only Live Once - Personal Blog</h1>
+
 <br />
 
 <img align="left" width="50" src="./assets/pablo-31.gif" />
@@ -239,8 +249,11 @@ Bling. Certifications and Education</br>
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Donations" alt="Drip" src="./assets/donations-sub.png" width="20%"/></p>
+
 <p align="center"><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></p>
+
 <h1>Scrooge McDuckin / Swimming in Donations</h1>
+
 <br />
 
 <p align="center"><img src="https://i.giphy.com/media/SP16BGyKBdTag/200.webp" /></p>
@@ -261,8 +274,11 @@ Bling. Certifications and Education</br>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Contact Me" alt="Drip" src="./assets/contact-me-sub.png" width="20%"/></p>
+
 <p align="center"><img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/></p>
+
 <h1>Holla Back / Contact Me - How to contact me</h1>
+
 <br/>
 
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
@@ -299,8 +315,11 @@ Bling. Certifications and Education</br>
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
+
 <p align="center"><img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/></p>
+
 <h1>Cred / Credibility - References and Work Experience</h1>
+
 <br />
 
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader) [...](https://www.freelancer.com/u/uxdev "Freelancer")
@@ -319,11 +338,15 @@ Bling. Certifications and Education</br>
 <img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQF21gXtIviL_Q/company-logo_100_100/0/1624859982303?e=1643241600&v=beta&t=qU2fGCtt-KDv04hmEYfdNOSZFaAGxPGSGo0zrSUPK-Q"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEl6sWlh25rPw/company-logo_100_100/0/1519876963450?e=1643241600&v=beta&t=sgmueFT5KBYA-eUbQgd1P-2kthN2fWnc8cvyjCuFMTI"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEJe-MEhPTm7w/company-logo_100_100/0/1519897752927?e=1643241600&v=beta&t=E7lyIbszpWReaOUaFq0RV5srEeBDnr4KAfuig0Y7_EU"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQHXb290tggPwA/company-logo_100_100/0/1519893921612?e=1643241600&v=beta&t=MFeBFUhOQdCV5LrhMKm8lwmtcvQpi_71GCsltb4MdAk"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQEF8ZVKcnWV4Q/company-logo_100_100/0/1519889750775?e=1643241600&v=beta&t=bPEis8Uzs9qdil0qngv0LMCwPzYdy4epJS4omENh1K8"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQEUYajIyyDqkQ/company-logo_100_100/0/1606902037979?e=1643241600&v=beta&t=ac94MBA1CHrcyR9ESDBQAzdmmb1-cejB5zdeeoYlQqU"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQHxEXdZmiyfvQ/company-logo_100_100/0/1611652832989?e=1643241600&v=beta&t=yYjO9K8GoDBb4LoEWQbEgFzmnWmef11U7BT398OFzsc"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQE54bMNQvxYuQ/company-logo_100_100/0/1519856599396?e=1643241600&v=beta&t=QNmOw92pVAxxJJRXjmYmb3_oo1eYmMORLa7bQz5mN-g"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQG2AiGN84IIWA/company-logo_100_100/0/1617797656800?e=1643241600&v=beta&t=vu2QzkPYCSHdBo5QeUFD1BxNOMrCqgPiQXRaLYQIEiY"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_100_100/0/1519855919126?e=1643241600&v=beta&t=sLAkAVFHhoGZ3J7lFFxBe8-oibZ40dzR8CMYmqBsLKQ"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHM22ogQN-ctw/company-logo_100_100/0/1579387612292?e=1643241600&v=beta&t=n2YxpQFokXbPO41NdqvyH66rcCcC4q780D5uSuaRXl4"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyXk7L2zu-0g/company-logo_100_100/0/1626711703543?e=1643241600&v=beta&t=MVkh0YDESUtIO0RUR0YN3Litk916kcsn6tHJiZ8n6zM"/><img  src="https://media-exp1.licdn.com/dms/image/C510BAQEILt86VVXceQ/company-logo_100_100/0/1519856581417?e=1643241600&v=beta&t=VAKR490CG8ZMeAbG00YuP1W4rmOTpfHYZKlX6cLZJGI"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQETa7-b06VGlQ/company-logo_100_100/0/1561968731806?e=1643241600&v=beta&t=qb-p6P-zncJUGFsi-xWvx6jMOcluQ_4_uFFFINEaC7M"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQFE0HgPl0COkA/company-logo_100_100/0/1519856086949?e=1643241600&v=beta&t=J08YFOoHqIwC0vU2GcQHvbw6J-F-CV1IktmBAE7q81k"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHXxroN0uciQw/company-logo_100_100/0/1527266934034?e=1643241600&v=beta&t=EiZAN1msk1c8bqRdo3fVdk5i33VGiVozlulkW-oTuJo"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQHmouJ5CrQPCg/company-logo_100_100/0/1551804209673?e=1643241600&v=beta&t=uaSoVX6rQE6ceLixSipFoJ-ei_k4ngglWVtAhbDASs0"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4fuDWOEYbaw/company-logo_100_100/0/1608840116374?e=1643241600&v=beta&t=x4C6JbqGqzgk26WDkO-AWaAChdQfGx4kkXoSPZj8Rhc"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQE-lb0UZmaw6A/company-logo_100_100/0/1519881351319?e=1643241600&v=beta&t=hct8978dhSSfTiPmz3KlB5C7Hj-2XyVhQ0duSLl3Ghw"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEmKB8ZOPDcOA/company-logo_100_100/0/1625743290100?e=1643241600&v=beta&t=veJ2nqx5d16-_UPTOq6KTiSDkcTKdwKMZqpS2mbndIo"/><img  src="https://media-exp1.licdn.com/dms/image/C510BAQFkPgJZqd7XKw/company-logo_100_100/0/1543910129684?e=1643241600&v=beta&t=HxtT3PM0ER0Vrb3SAfz1lvVoQxGPO3trgPlv57KtbzE"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1519856215226?e=1643241600&v=beta&t=P9tKGf4UbkQuBZm1YB8ZIhS5_V6iqzG807luVg-NCtw"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_100_100/0/1626275253364?e=1643241600&v=beta&t=ptNIaIRiAS_2P3S_uXxewUk6vFAgy7QQG2DOxUWp7MA"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQFPdrd-B1G3LA/company-logo_100_100/0/1519891266073?e=1643241600&v=beta&t=9re1Sr8jUXnNmSXpMx9Kke7g3dLitVOVv4qD6dkHP44"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQG_4eYfYfbWqw/company-logo_100_100/0/1597750925085?e=1643241600&v=beta&t=ggkvpIeeG5xst5romkV-mNsNKpJdCHZPDn1Jr4Wdz2A"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQE_DDC0KBpU4Q/company-logo_100_100/0/1528463803380?e=1643241600&v=beta&t=RNYg3PRNnIg6ZVtW8XBGA5oSVquKg-f617U0bBltZqQ"/>
 
 <br /><br />
+
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Experience" alt="Drip" src="./assets/experience-sub.png" width="20%"/></p>
+
 <p align="center"><img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/></p>
+
 <h1>Skills / Skills - Mad Skills</h1>
+
 <br/>
 
 <a href='https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort='> <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -536,8 +559,11 @@ Bling. Certifications and Education</br>
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png" width="20%"/></p>
+
 <p align="center"><img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/></p>
+
 <h1>Homies / Friends - Acknowledgements and Contributors</h1>
+
 <br />
 
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
@@ -577,8 +603,11 @@ streak on your GitHub profile README
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="20%"/></p>
+
 <p align="center"><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
+
 <h1>Drip / Bling - Certification and Education</h1>
+
 <br />
 
 <p align="center">🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
