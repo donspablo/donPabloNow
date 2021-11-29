@@ -9,8 +9,10 @@
 
 
 <p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png" width="20%"/></p>
-<img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
-<h1>Hows it? Welcome to the profile of don Pablo!</h1>
+
+<p align="center"><img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" /></p>
+
+<p align="center"><h1>Hows it? Welcome to the profile of don Pablo!</h1></p>
 <br />
 
 <a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
