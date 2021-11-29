@@ -8,8 +8,8 @@
 <br/>
 
 
-<img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
 <p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png" width="30%"/></p>
+<img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
 <h1>Hows it? Welcome to the profile of don Pablo!</h1>
 <br />
 
@@ -105,8 +105,8 @@ Bling. Certifications and Education</br>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<p align="center"><img align="center" id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /></p>
 <p align="center"><img  align="center" id="dr" title="Video Bio" alt="Drip" src="./assets/video-bio-sub.png" width="30%"/></p>
+<p align="center"><img align="center" id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /></p>
 <h1>The 411 / Information - Introduction Video</h1>
 <br />
 
@@ -130,8 +130,8 @@ Bling. Certifications and Education</br>
 
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img id="bh" title="Bread & honey" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
 <p align="center"><img  align="center" id="dr" title="Projects" alt="Drip" src="./assets/projects-sub.png" width="30%"/></p>
+<img id="bh" title="Bread & honey" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
 <h1>Bread & Honey / Money - Current Work and Projects</h1>
 <br />
 
@@ -204,8 +204,8 @@ Bling. Certifications and Education</br>
 
 <br/>
 
-<p align="center"><img align="center" id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/></p>
 <p align="center"><img  align="center" id="dr" title="Writing" alt="Drip" src="./assets/writing-sub.png" width="30%"/></p>
+<p align="center"><img align="center" id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/></p>
 <h1>Yolo / You Only Live Once - Personal Blog</h1>
 <br />
 
@@ -236,8 +236,8 @@ Bling. Certifications and Education</br>
 
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<p align="center"><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></p>
 <p align="center"><img  align="center" id="dr" title="Donations" alt="Drip" src="./assets/donations-sub.png" width="30%"/></p>
+<p align="center"><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></p>
 <h1>Scrooge McDuckin / Swimming in Donations</h1>
 <br />
 
@@ -258,8 +258,8 @@ Bling. Certifications and Education</br>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<p align="center"><img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/></p>
 <p align="center"><img  align="center" id="dr" title="Contact Me" alt="Drip" src="./assets/contact-me-sub.png" width="30%"/></p>
+<p align="center"><img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/></p>
 <h1>Holla Back / Contact Me - How to contact me</h1>
 <br/>
 
@@ -296,8 +296,8 @@ Bling. Certifications and Education</br>
 
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<p align="center"><img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/></p>
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="30%"/></p>
+<p align="center"><img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/></p>
 <h1>Cred / Credibility - References and Work Experience</h1>
 <br />
 
@@ -319,8 +319,8 @@ Bling. Certifications and Education</br>
 <br /><br />
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<p align="center"><img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/></p>
 <p align="center"><img  align="center" id="dr" title="Experience" alt="Drip" src="./assets/experience-sub.png" width="30%"/></p>
+<p align="center"><img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/></p>
 <h1>Skills / Skills - Mad Skills</h1>
 <br/>
 
@@ -533,8 +533,8 @@ Bling. Certifications and Education</br>
 <br /><br />
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<p align="center"><img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/></p>
 <p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png" width="30%"/></p>
+<p align="center"><img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/></p>
 <h1>Homies / Friends - Acknowledgements and Contributors</h1>
 <br />
 
@@ -574,8 +574,8 @@ streak on your GitHub profile README
 <br /><br />
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<p align="center"><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png" width="30%"/></p>
+<p align="center"><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
 <h1>Drip / Bling - Certification and Education</h1>
 <br />
 
