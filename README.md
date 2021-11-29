@@ -21,7 +21,7 @@
 <img title="Gihub Member" alt="Gihub Member" align="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" />
 <img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
-<img title="The Index" alt="The Index" height="100" src="./assets/the-index.png" /><br/><br/><br/>
+<img title="The Index" alt="The Index" src="./assets/the-index.png" /><br/><br/><br/>
 <img title="No. 1" alt="No. 1" height="35" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="55" src="./assets/whats-poppin-index.png" /></a><br/>
 Hows it? Introduction & Content Index</br>
 ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
