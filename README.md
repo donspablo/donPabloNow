@@ -9,12 +9,9 @@
 
 
 <img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
-
-# Hows it? Welcome to the profile of don Pablo!
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png"/></p>
+<h1>Hows it? Welcome to the profile of don Pablo!</h1>
+<br />
 
 <a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
@@ -109,12 +106,9 @@ Bling. Certifications and Education</br>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <p align="center"><img align="center" id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /></p>
-
-# The 411 / Information - Introduction Video
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Video Bio" alt="Drip" src="./assets/video-bio-sub.png"/></p>
+<h1>The 411 / Information - Introduction Video</h1>
+<br />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/youtube.png"
@@ -137,12 +131,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="bh" title="Bread & honey" alt="Bread & honey"  src="./assets/bread-and-honey-title.png" />
-
-# Bread & Honey / Money - Current Work and Projects
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Projects" alt="Drip" src="./assets/projects-sub.png"/></p>
+<h1>Bread & Honey / Money - Current Work and Projects</h1>
+<br />
 
 <img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
@@ -214,12 +205,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <br/>
 
 <p align="center"><img align="center" id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/></p>
-
-# Yolo / You Only Live Once - Personal Blog
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Writing" alt="Drip" src="./assets/writing-sub.png"/></p>
+<h1>Yolo / You Only Live Once - Personal Blog</h1>
+<br />
 
 <img align="left" width="50" src="./assets/pablo-31.gif" />
 
@@ -249,12 +237,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></p>
-
-# Scrooge McDuckin / Swimming in Donations
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Donations" alt="Drip" src="./assets/donations-sub.png"/></p>
+<h1>Scrooge McDuckin / Swimming in Donations</h1>
+<br />
 
 <p align="center"><img src="https://i.giphy.com/media/SP16BGyKBdTag/200.webp" /></p>
      
@@ -274,12 +259,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/></p>
-
-# Holla Back / Contact Me - How to contact me
-
-<br/>
-
 <p align="center"><img  align="center" id="dr" title="Contact Me" alt="Drip" src="./assets/contact-me-sub.png"/></p>
+<h1>Holla Back / Contact Me - How to contact me</h1>
+<br/>
 
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
@@ -315,12 +297,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/></p>
-
-# Cred / Credibility - References and Work Experience
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png"/></p>
+<h1>Cred / Credibility - References and Work Experience</h1>
+<br />
 
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader) [...](https://www.freelancer.com/u/uxdev "Freelancer")
 
@@ -341,12 +320,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/></p>
-
-# Skills / Skills - Mad Skills
-
-<br/>
-
 <p align="center"><img  align="center" id="dr" title="Experience" alt="Drip" src="./assets/experience-sub.png"/></p>
+<h1>Skills / Skills - Mad Skills</h1>
+<br/>
 
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -557,12 +533,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/></p>
-
-# Homies / Friends - Acknowledgements and Contributors
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png"/></p>
+<h1>Homies / Friends - Acknowledgements and Contributors</h1>
+<br />
 
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
 <br />
@@ -601,12 +574,9 @@ streak on your GitHub profile README
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
-
-# Drip / Bling - Certification and Education
-
-<br />
-
 <p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png"/></p>
+<h1>Drip / Bling - Certification and Education</h1>
+<br />
 
 <p align="center">🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
 Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.</p>
