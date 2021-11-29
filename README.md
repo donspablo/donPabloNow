@@ -9,7 +9,9 @@
 
 
 <img title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
+
 # Hows it? Welcome to the profile of don Pablo!
+
 <br />
 <a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
@@ -103,8 +105,10 @@ Bling. Certifications and Education</br>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<img id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /><br />
+<img id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" />
+
 # The 411 / Information - Introduction Video
+
 <br />
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
@@ -198,6 +202,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="#"><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <br/><img id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/>
+
 # Yolo / You Only Live Once - Personal Blog
 
 <br />
@@ -286,7 +291,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <img id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/>
+
 # Cred / Credibility - References and Work Experience
+
 <br />
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") | Director (BGIS) President (Rock Hammer) Project
 Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader)
@@ -309,7 +316,9 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/>
+
 # Skills / Skills - Mad Skills
+
 <br/>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -520,7 +529,9 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/>
+
 # Homies / Friends - Acknowledgements and Contributors
+
 <br />
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
 <br />
@@ -570,7 +581,9 @@ reaction GIFs, unique GIFs and more.
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/>
+
 # Drip / Bling - Certification and Education
+
 <br />
 🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
 Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
