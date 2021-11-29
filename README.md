@@ -9,7 +9,7 @@
 
 
 <img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
-<p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png" width="75%"/></p>
+<p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png" width="50%"/></p>
 <h1>Hows it? Welcome to the profile of don Pablo!</h1>
 <br />
 
@@ -24,7 +24,7 @@
 <img title="Gihub Member" alt="Gihub Member" align="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" />
 <img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />
 <br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
-<img height="60" title="The Index" alt="The Index" src="./assets/the-index.png" /><br/><br/><br/>
+<img height="90" title="The Index" alt="The Index" src="./assets/the-index.png" /><br/><br/><br/>
 <img title="No. 1" alt="No. 1" height="35" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="75" src="./assets/whats-poppin-index.png" /></a><br/>
 Hows it? Introduction & Content Index</br>
 ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
