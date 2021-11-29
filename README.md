@@ -235,7 +235,8 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <img id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/>
-# Scrooge McDuckin / Swimming like Scrooge McDuck in Donations lol
+
+# Scrooge McDuckin / Swimming like Scrooge McDuck in Donations
 
 <br /><br /><br /><br />
 
@@ -255,7 +256,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
 <img id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/>
+
 # Holla Back / Contact Me - How to contact me
+
 <br/>
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
