@@ -199,7 +199,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="https://open.spotify.com/user/21dhvyi7f7u6ozs7irfp2hkiy"><img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=rku2cymtft75lhujmw08o1c3x" /></a><br/>
 
 
-<a href="#"><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <br/>
 
@@ -234,7 +234,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <br /><br />
 
-<a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></p>
 
@@ -255,7 +255,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <br /><br />
 
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/></p>
 
@@ -293,7 +293,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <br /><br />
 
-<a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
+<a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/></p>
 
@@ -318,7 +318,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQF21gXtIviL_Q/company-logo_100_100/0/1624859982303?e=1643241600&v=beta&t=qU2fGCtt-KDv04hmEYfdNOSZFaAGxPGSGo0zrSUPK-Q"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEl6sWlh25rPw/company-logo_100_100/0/1519876963450?e=1643241600&v=beta&t=sgmueFT5KBYA-eUbQgd1P-2kthN2fWnc8cvyjCuFMTI"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEJe-MEhPTm7w/company-logo_100_100/0/1519897752927?e=1643241600&v=beta&t=E7lyIbszpWReaOUaFq0RV5srEeBDnr4KAfuig0Y7_EU"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQHXb290tggPwA/company-logo_100_100/0/1519893921612?e=1643241600&v=beta&t=MFeBFUhOQdCV5LrhMKm8lwmtcvQpi_71GCsltb4MdAk"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQEF8ZVKcnWV4Q/company-logo_100_100/0/1519889750775?e=1643241600&v=beta&t=bPEis8Uzs9qdil0qngv0LMCwPzYdy4epJS4omENh1K8"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQEUYajIyyDqkQ/company-logo_100_100/0/1606902037979?e=1643241600&v=beta&t=ac94MBA1CHrcyR9ESDBQAzdmmb1-cejB5zdeeoYlQqU"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQHxEXdZmiyfvQ/company-logo_100_100/0/1611652832989?e=1643241600&v=beta&t=yYjO9K8GoDBb4LoEWQbEgFzmnWmef11U7BT398OFzsc"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQE54bMNQvxYuQ/company-logo_100_100/0/1519856599396?e=1643241600&v=beta&t=QNmOw92pVAxxJJRXjmYmb3_oo1eYmMORLa7bQz5mN-g"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQG2AiGN84IIWA/company-logo_100_100/0/1617797656800?e=1643241600&v=beta&t=vu2QzkPYCSHdBo5QeUFD1BxNOMrCqgPiQXRaLYQIEiY"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_100_100/0/1519855919126?e=1643241600&v=beta&t=sLAkAVFHhoGZ3J7lFFxBe8-oibZ40dzR8CMYmqBsLKQ"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHM22ogQN-ctw/company-logo_100_100/0/1579387612292?e=1643241600&v=beta&t=n2YxpQFokXbPO41NdqvyH66rcCcC4q780D5uSuaRXl4"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyXk7L2zu-0g/company-logo_100_100/0/1626711703543?e=1643241600&v=beta&t=MVkh0YDESUtIO0RUR0YN3Litk916kcsn6tHJiZ8n6zM"/><img  src="https://media-exp1.licdn.com/dms/image/C510BAQEILt86VVXceQ/company-logo_100_100/0/1519856581417?e=1643241600&v=beta&t=VAKR490CG8ZMeAbG00YuP1W4rmOTpfHYZKlX6cLZJGI"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQETa7-b06VGlQ/company-logo_100_100/0/1561968731806?e=1643241600&v=beta&t=qb-p6P-zncJUGFsi-xWvx6jMOcluQ_4_uFFFINEaC7M"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQFE0HgPl0COkA/company-logo_100_100/0/1519856086949?e=1643241600&v=beta&t=J08YFOoHqIwC0vU2GcQHvbw6J-F-CV1IktmBAE7q81k"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHXxroN0uciQw/company-logo_100_100/0/1527266934034?e=1643241600&v=beta&t=EiZAN1msk1c8bqRdo3fVdk5i33VGiVozlulkW-oTuJo"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQHmouJ5CrQPCg/company-logo_100_100/0/1551804209673?e=1643241600&v=beta&t=uaSoVX6rQE6ceLixSipFoJ-ei_k4ngglWVtAhbDASs0"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQE4fuDWOEYbaw/company-logo_100_100/0/1608840116374?e=1643241600&v=beta&t=x4C6JbqGqzgk26WDkO-AWaAChdQfGx4kkXoSPZj8Rhc"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQE-lb0UZmaw6A/company-logo_100_100/0/1519881351319?e=1643241600&v=beta&t=hct8978dhSSfTiPmz3KlB5C7Hj-2XyVhQ0duSLl3Ghw"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQEmKB8ZOPDcOA/company-logo_100_100/0/1625743290100?e=1643241600&v=beta&t=veJ2nqx5d16-_UPTOq6KTiSDkcTKdwKMZqpS2mbndIo"/><img  src="https://media-exp1.licdn.com/dms/image/C510BAQFkPgJZqd7XKw/company-logo_100_100/0/1543910129684?e=1643241600&v=beta&t=HxtT3PM0ER0Vrb3SAfz1lvVoQxGPO3trgPlv57KtbzE"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1519856215226?e=1643241600&v=beta&t=P9tKGf4UbkQuBZm1YB8ZIhS5_V6iqzG807luVg-NCtw"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_100_100/0/1626275253364?e=1643241600&v=beta&t=ptNIaIRiAS_2P3S_uXxewUk6vFAgy7QQG2DOxUWp7MA"/><img  src="https://media-exp1.licdn.com/dms/image/C4D0BAQFPdrd-B1G3LA/company-logo_100_100/0/1519891266073?e=1643241600&v=beta&t=9re1Sr8jUXnNmSXpMx9Kke7g3dLitVOVv4qD6dkHP44"/><img  src="https://media-exp1.licdn.com/dms/image/C4E0BAQG_4eYfYfbWqw/company-logo_100_100/0/1597750925085?e=1643241600&v=beta&t=ggkvpIeeG5xst5romkV-mNsNKpJdCHZPDn1Jr4Wdz2A"/><img  src="https://media-exp1.licdn.com/dms/image/C560BAQE_DDC0KBpU4Q/company-logo_100_100/0/1528463803380?e=1643241600&v=beta&t=RNYg3PRNnIg6ZVtW8XBGA5oSVquKg-f617U0bBltZqQ"/>
 
 <br /><br />
-<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/></p>
 
@@ -531,7 +531,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br/>
 
 <br /><br />
-<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/></p>
 
@@ -583,7 +583,7 @@ reaction GIFs, unique GIFs and more.
 <br />
 
 <br /><br />
-<br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
+<br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><a href="#"><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
 <p align="center"><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
 
