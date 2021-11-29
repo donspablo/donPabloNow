@@ -240,7 +240,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <p align="center"><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></p>
 
-# Scrooge McDuckin / Swimming like Scrooge McDuck in Donations
+# Scrooge McDuckin / Swimming in Donations
 
 <br /><br /><br /><br />
 
