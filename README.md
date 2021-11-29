@@ -13,6 +13,9 @@
 # Hows it? Welcome to the profile of don Pablo!
 
 <br />
+
+<p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png"/></p>
+
 <a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
 
@@ -111,6 +114,8 @@ Bling. Certifications and Education</br>
 
 <br />
 
+<p align="center"><img  align="center" id="dr" title="Video Bio" alt="Drip" src="./assets/video-bio-sub.png"/></p>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqJiRiFo9X8
 " target="_blank"><img src="./assets/youtube.png"
 title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
@@ -136,6 +141,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 # Bread & Honey / Money - Current Work and Projects
 
 <br />
+
+<p align="center"><img  align="center" id="dr" title="Projects" alt="Drip" src="./assets/projects-sub.png"/></p>
+
 <img width="100" align="right" title="Github" alt="Github" src="./assets/pablo-17.gif" />
 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
 <br />
@@ -211,6 +219,8 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <br />
 
+<p align="center"><img  align="center" id="dr" title="Writing" alt="Drip" src="./assets/writing-sub.png"/></p>
+
 <img align="left" width="50" src="./assets/pablo-31.gif" />
 
 <img  align="left" width="200" src="./assets/pablo-22.gif" />
@@ -242,7 +252,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 # Scrooge McDuckin / Swimming in Donations
 
-<br /><br /><br /><br />
+<br />
+
+<p align="center"><img  align="center" id="dr" title="Donations" alt="Drip" src="./assets/donations-sub.png"/></p>
 
 <p align="center"><img src="https://i.giphy.com/media/SP16BGyKBdTag/200.webp" /></p>
      
@@ -266,6 +278,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 # Holla Back / Contact Me - How to contact me
 
 <br/>
+
+<p align="center"><img  align="center" id="dr" title="Contact Me" alt="Drip" src="./assets/contact-me-sub.png"/></p>
+
 <a href="https://codepen.io/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://dev.to/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://twitter.com/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
@@ -288,7 +303,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 <a href="https://www.topcoder.com/members/donpablonow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="https://discord.gg/donpablonow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" title="donpablonow" alt="donpablonow" height="30" width="40" /></a>
 <a href="/https://www.donpablonow.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@donPabloNow" height="30" width="40" /></a>
-</p>
+
 <br/>
 <img align="center" width="100%" src="./assets/pablo-44.gif" />
 
@@ -304,6 +319,8 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 # Cred / Credibility - References and Work Experience
 
 <br />
+
+<p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png"/></p>
 
 [References (99+)](https://za.linkedin.com/in/donPabloNow "LinkedIn") Director (BGIS) President (Rock Hammer) Project Manager (Philips) Director (Jago®) Tech Lead (Property24) Tech Lead (Allan Gray) Project Lead (Auto Trader) [...](https://www.freelancer.com/u/uxdev "Freelancer")
 
@@ -328,6 +345,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 # Skills / Skills - Mad Skills
 
 <br/>
+
+<p align="center"><img  align="center" id="dr" title="Experience" alt="Drip" src="./assets/experience-sub.png"/></p>
+
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -541,6 +561,9 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 # Homies / Friends - Acknowledgements and Contributors
 
 <br />
+
+<p align="center"><img  align="center" id="dr" title="Acknowledgements" alt="Drip" src="./assets/acknowledgements-sub.png"/></p>
+
 <b>A really massive THANK YOU! Goes out to the Guys and Girls, who made this profile possible:</b>
 <br />
 
@@ -582,11 +605,14 @@ streak on your GitHub profile README
 # Drip / Bling - Certification and Education
 
 <br />
-🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
-Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.
 
-“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka,
-Uncle Bob
+<p align="center"><img  align="center" id="dr" title="Credentials" alt="Drip" src="./assets/credentials-sub.png"/></p>
+
+<p align="center">🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
+Agile, CC, S.O.L.I.D, DRY and TDD practitioner with 15+ years of experience.</p>
+
+<p align="center">“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka,
+Uncle Bob</p>
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
