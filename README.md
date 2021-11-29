@@ -9,7 +9,7 @@
 
 
 <img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" />
-<p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png" height="50" width="50%"/></p>
+<p align="center"><img  align="center" id="dr" title="Welcome" alt="Drip" src="./assets/welcome-sub.png" width="75%"/></p>
 <h1>Hows it? Welcome to the profile of don Pablo!</h1>
 <br />
 
