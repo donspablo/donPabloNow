@@ -105,7 +105,7 @@ Bling. Certifications and Education</br>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<center><img align="center" id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /></center>
+<p align="center"><img align="center" id="db" title="The 411" alt="The 411"  src="./assets/the-411-title.png" /></p>
 
 # The 411 / Information - Introduction Video
 
@@ -203,7 +203,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <br/>
 
-<center><img align="center" id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/></center>
+<p align="center"><img align="center" id="yo" title="Yolo" alt="Yolo" src="./assets/yolo-title.png"/></p>
 
 # Yolo / You Only Live Once - Personal Blog
 
@@ -236,7 +236,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<center><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></center>
+<p align="center"><img  align="center" id="sm" title="Scrooge McDuckin" alt="Scrooge McDuckin" src="./assets/mcduckin-title.png"/></p>
 
 # Scrooge McDuckin / Swimming like Scrooge McDuck in Donations
 
@@ -257,7 +257,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<center><img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/></center>
+<p align="center"><img  align="center" id="hb" title="Holla Back" alt="Holla Back" src="./assets/holla-back-title.png"/></p>
 
 # Holla Back / Contact Me - How to contact me
 
@@ -295,7 +295,7 @@ title="don Pablo Video" alt="don Pablo Video" border="10" /></a>
 
 <a href="#"><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /></a><br />
 
-<center><img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/></center>
+<p align="center"><img  align="center" id="cr" title="Credibility" alt="Credibility" src="./assets/cred-title.png"/></p>
 
 # Cred / Credibility - References and Work Experience
 
@@ -320,7 +320,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><br />
 <a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<center><img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/></center>
+<p align="center"><img  align="center" id="sk" title="Skills" alt="Skills" src="./assets/skills-title.png"/></p>
 
 # Skills / Skills - Mad Skills
 
@@ -533,7 +533,7 @@ Awwwards...[](https://za.linkedin.com/in/donPabloNow "LinkedIn")
 <br /><br />
 <br /><a align="right" href="#"><img align="right" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<center><img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/></center>
+<p align="center"><img  align="center" id="ho" title="Homies" alt="Homies" src="./assets/homies-title.png"/></p>
 
 # Homies / Friends - Acknowledgements and Contributors
 
@@ -585,9 +585,9 @@ reaction GIFs, unique GIFs and more.
 <br /><br />
 <br /><a align="left" href="#"><img align="left" width="20" src="./assets/up.gif" /></a><img width="100%" height="1" src="./assets/bar.gif" /><br />
 
-<center><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></center>
+<p align="center"><img  align="center" id="dr" title="Drip" alt="Drip" src="./assets/drip-title.png"/></p>
 
-# Drip / Bling - Certification and Education
+<p align="center"># Drip / Bling - Certification and Education</p>
 
 <br />
 🅲🅴🆁🆃🅸🅵🅸🅴🅳 Google™ Sigma™ PMEC™ Udemy™ Hubspot™ LinkedIn™ Microsoft™ - MEAN.js, WAMP.net(C#), LAMP.php stack and
