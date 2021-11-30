@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [The Quest for the Holy Grail — aka The Grail Legend](https://donpablonow.medium.com/the-quest-for-the-holy-grail-aka-the-grail-legend-54865d40e59e?source=rss-73f028f71fcb------2)
 - [Cyber Monday Deals — 60% Off](https://donpablonow.medium.com/cyber-monday-deals-60-off-f08ef564d64?source=rss-73f028f71fcb------2)
 - [America Hit by COVID Strain Omicron —Increased Risk of Reinfection](https://donpablonow.medium.com/america-hit-by-covid-strain-omicron-increased-risk-of-reinfection-fca4ced49f83?source=rss-73f028f71fcb------2)
 - [It is Clash of The Distro Titans ending the Year on a Cliff-Hanger — Who will Emerge the Victor in…](https://systemweakness.com/it-is-clash-of-the-distro-titans-ending-the-year-on-a-cliff-hanger-who-will-emerge-the-victor-in-7b453303d829?source=rss-73f028f71fcb------2)
-- [Nginx Proxy Manager — Deep Dive](https://donpablonow.medium.com/nginx-proxy-manager-deep-dive-25f8d8b4b055?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
