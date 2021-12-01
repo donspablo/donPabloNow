@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Darth Sidious — Developing A Powerful Mind](https://medium.com/the-dark-side/darth-sidious-developing-a-powerful-mind-125f8dcd52a0?source=rss-73f028f71fcb------2)
 - [COVID May Play a Crucial Role in Humanaties Quest for Eternal Life](https://donpablonow.medium.com/covid-may-play-a-crucial-role-in-humanaties-quest-for-eternal-life-13640505fb86?source=rss-73f028f71fcb------2)
 - [The Singularity Theory](https://donpablonow.medium.com/2045-the-year-man-becomes-immortal-f21e6247be8f?source=rss-73f028f71fcb------2)
 - [The Quest for the Holy Grail — aka The Grail Legend](https://donpablonow.medium.com/the-quest-for-the-holy-grail-aka-the-grail-legend-54865d40e59e?source=rss-73f028f71fcb------2)
-- [Cyber Monday Deals — 60% Off](https://donpablonow.medium.com/cyber-monday-deals-60-off-f08ef564d64?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
