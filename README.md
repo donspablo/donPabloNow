@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Ben Solo— The Persuasive Dark Shadow Technique](https://medium.com/the-dark-side/ben-solo-the-persuasive-dark-shadow-technique-fcafbd138a86?source=rss-73f028f71fcb------2)
 - [We are the Masters of the Dark Side](https://medium.com/the-dark-side/we-are-the-masters-of-the-dark-side-c24657898d7c?source=rss-73f028f71fcb------2)
 - [Luke Skywalker — The Devastatingly Powerful Art of Seduction](https://medium.com/the-dark-side/luke-skywalker-the-devastatingly-powerful-art-of-seduction-ca87a7d11772?source=rss-73f028f71fcb------2)
 - [Darth Maul— How to Take Back Your Power](https://medium.com/the-dark-side/darth-maul-how-to-take-back-your-power-8d47efc569f7?source=rss-73f028f71fcb------2)
-- [Darth Vader — The Secrets to rock solid, unshakeable Power](https://medium.com/the-dark-side/darth-vader-the-secrets-to-rock-solid-unshakeable-power-203504d5eddc?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
