@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Obi-Wan Kenobi — Dark Side of The Force Exposed](https://medium.com/the-dark-side/obi-wan-kenobi-dark-side-of-the-force-exposed-bb078a7c70a2?source=rss-73f028f71fcb------2)
-- [Darth Sidious — Developing A Powerful Mind](https://medium.com/the-dark-side/darth-sidious-developing-a-powerful-mind-125f8dcd52a0?source=rss-73f028f71fcb------2)
-- [COVID May Play a Crucial Role in Humanaties Quest for Eternal Life](https://donpablonow.medium.com/covid-may-play-a-crucial-role-in-humanaties-quest-for-eternal-life-13640505fb86?source=rss-73f028f71fcb------2)
-- [The Singularity Theory](https://donpablonow.medium.com/2045-the-year-man-becomes-immortal-f21e6247be8f?source=rss-73f028f71fcb------2)
+- [We are the Masters of the Dark Side](https://medium.com/the-dark-side/we-are-the-masters-of-the-dark-side-c24657898d7c?source=rss-73f028f71fcb------2)
+- [Luke Skywalker — The Devastatingly Powerful Art of Seduction](https://medium.com/the-dark-side/luke-skywalker-the-devastatingly-powerful-art-of-seduction-ca87a7d11772?source=rss-73f028f71fcb------2)
+- [Darth Maul— How to Take Back Your Power](https://medium.com/the-dark-side/darth-maul-how-to-take-back-your-power-8d47efc569f7?source=rss-73f028f71fcb------2)
+- [Darth Vader — The Secrets to rock solid, unshakeable Power](https://medium.com/the-dark-side/darth-vader-the-secrets-to-rock-solid-unshakeable-power-203504d5eddc?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
