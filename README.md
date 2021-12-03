@@ -229,7 +229,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [MX Linux —Fight Against Ugliness said Vignelli](https://donpablonow.medium.com/mx-linux-fight-against-ugliness-said-vignelli-5760587ca178?source=rss-73f028f71fcb------2)
+- [MX Linux —Fight Against Ugliness said Vignelli](https://systemweakness.com/mx-linux-fight-against-ugliness-said-vignelli-5760587ca178?source=rss-73f028f71fcb------2)
 - [The Grand Inquisitor— Anticipation, the Ancient Art of Mind Reading](https://medium.com/the-dark-side/the-grand-inquisitor-anticipation-the-ancient-art-of-mind-reading-2a6b7867f5cf?source=rss-73f028f71fcb------2)
 - [Yoda — The Hidden Key To Instant And Lasting Transformation](https://medium.com/the-dark-side/yoda-the-hidden-key-to-instant-and-lasting-transformation-d7b49edb0291?source=rss-73f028f71fcb------2)
 - [Darth Malak — Deflected Shadow Strike Offensive](https://medium.com/the-dark-side/darth-malak-deflected-shadow-strike-offensive-fd3a541b2366?source=rss-73f028f71fcb------2)
