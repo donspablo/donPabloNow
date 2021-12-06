@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Hogwarts Online School — Linux Online School of Witchcraft and Wizardry](https://medium.com/hogwarts-online/hogwarts-online-school-linux-online-school-of-witchcraft-and-wizardry-e1ee08c8951e?source=rss-73f028f71fcb------2)
 - [Make an Informed Decision — Relational SQL Databases and NoSQL None Relational Databases Explained](https://donpablonow.medium.com/make-an-informed-decision-relational-sql-databases-and-nosql-none-relational-databases-explained-1d6f59dc9b5a?source=rss-73f028f71fcb------2)
 - [No/Low-Code  Apps &lpar;LCAPs&rpar; — Everythng you need to Know in Under 5 Minutes!](https://systemweakness.com/no-low-code-apps-lcaps-everythng-you-need-to-know-in-under-5-minutes-f1e926f7da37?source=rss-73f028f71fcb------2)
 - [MX Linux —Fight Against Ugliness said Vignelli](https://medium.com/hogwarts-online/mx-linux-fight-against-ugliness-said-vignelli-5760587ca178?source=rss-73f028f71fcb------2)
-- [The Grand Inquisitor— Anticipation, the Ancient Art of Mind Reading](https://medium.com/the-dark-side/the-grand-inquisitor-anticipation-the-ancient-art-of-mind-reading-2a6b7867f5cf?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
