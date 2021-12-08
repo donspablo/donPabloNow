@@ -230,9 +230,9 @@ Bling. Certifications and Education</br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Houses of Hogwarts — Online School of Linux, Witchcraft and Wizardry](https://medium.com/hogwarts-online/houses-of-hogwarts-online-school-of-linux-witchcraft-and-wizardry-6b7c0b7c5d5c?source=rss-73f028f71fcb------2)
-- [History of Hogwarts — Online School of Linux, Witchcraft and Wizardry](https://medium.com/hogwarts-online/history-of-hogwarts-online-school-of-linux-witchcraft-and-wizardry-c0d6fecab740?source=rss-73f028f71fcb------2)
 - [Student Years of Hogwarts — Online School of Linux, Witchcraft and Wizardry](https://medium.com/hogwarts-online/student-years-of-hogwarts-online-school-of-linux-witchcraft-and-wizardry-b638ffdafdff?source=rss-73f028f71fcb------2)
 - [History of Hogwarts Online — Online School of Linux, Witchcraft and Wizardry](https://medium.com/hogwarts-online/history-of-hogwarts-online-online-school-of-linux-witchcraft-and-wizardry-75bc9788da68?source=rss-73f028f71fcb------2)
+- [Clear Linux — The Most Powerful Cloud OS 2022](https://systemweakness.com/clear-linux-the-most-powerful-cloud-os-2022-d2bd56832370?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
