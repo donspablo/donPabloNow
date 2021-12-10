@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Pacman House Slytherin — Hogwarts Linux Online](https://donpablonow.medium.com/pacman-house-slytherin-hogwarts-linux-online-75e382bfdb88?source=rss-73f028f71fcb------2)
 - [Red Hat House Ravenclaw — Hogwarts Linux Online](https://medium.com/hogwarts-online/red-hat-house-ravenclaw-hogwarts-linux-online-2ee0f623d1f9?source=rss-73f028f71fcb------2)
 - [Portage House Hufflepuff — Hogwarts Linux Online](https://medium.com/hogwarts-online/portage-house-hufflepuff-hogwarts-linux-online-7ea19bd5b8d1?source=rss-73f028f71fcb------2)
 - [Houses of Hogwarts — Online School of Linux, Witchcraft and Wizardry](https://medium.com/hogwarts-online/houses-of-hogwarts-online-school-of-linux-witchcraft-and-wizardry-6b7c0b7c5d5c?source=rss-73f028f71fcb------2)
-- [Student Years of Hogwarts — Online School of Linux, Witchcraft and Wizardry](https://medium.com/hogwarts-online/student-years-of-hogwarts-online-school-of-linux-witchcraft-and-wizardry-b638ffdafdff?source=rss-73f028f71fcb------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
