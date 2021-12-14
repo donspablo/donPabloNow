@@ -229,7 +229,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence that God Exists is Indisputable — by an Atheist Scientist](https://donpablonow.medium.com/evidence-that-god-exists-is-indisputable-by-an-atheist-scientist-45bf86b9ce67?source=rss-73f028f71fcb------2)
+- [Evidence that God Exists is Indisputable — by an Atheist Scientist](https://medium.com/god-exists/evidence-that-god-exists-is-indisputable-by-an-atheist-scientist-45bf86b9ce67?source=rss-73f028f71fcb------2)
 - [Debian House Gryffindor — Hogwarts Linux Online](https://donpablonow.medium.com/debian-house-gryffindor-hogwarts-linux-online-a208d58d7484?source=rss-73f028f71fcb------2)
 - [Pacman House Slytherin — Hogwarts Linux Online](https://donpablonow.medium.com/pacman-house-slytherin-hogwarts-linux-online-75e382bfdb88?source=rss-73f028f71fcb------2)
 - [Red Hat House Ravenclaw — Hogwarts Linux Online](https://medium.com/hogwarts-online/red-hat-house-ravenclaw-hogwarts-linux-online-2ee0f623d1f9?source=rss-73f028f71fcb------2)
