@@ -229,10 +229,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Quidditch Cup Top 100 by Rank — Hogwarts Linux Online](https://medium.com/hogwarts-online/linux-quidditch-cup-top-100-by-rank-hogwarts-linux-online-9bf3d5219e8c?source=rss-73f028f71fcb------2)
-- [Evidence that God Exists is Indisputable — by an Atheist Scientist](https://medium.com/god-exists/evidence-that-god-exists-is-indisputable-by-an-atheist-scientist-45bf86b9ce67?source=rss-73f028f71fcb------2)
-- [Debian House Gryffindor — Hogwarts Linux Online](https://medium.com/hogwarts-online/debian-house-gryffindor-hogwarts-linux-online-a208d58d7484?source=rss-73f028f71fcb------2)
-- [Pacman House Slytherin — Hogwarts Linux Online](https://medium.com/hogwarts-online/pacman-house-slytherin-hogwarts-linux-online-75e382bfdb88?source=rss-73f028f71fcb------2)
+- [A Digital Nomads Guide from Africa and the World](https://medium.com/@donpablonow/a-digital-nomads-guide-to-africas-next-boom-21525afa9e70?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
