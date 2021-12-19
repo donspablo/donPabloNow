@@ -229,7 +229,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [A Digital Nomads Guide from Africa and the World](https://medium.com/@donpablonow/a-digital-nomads-guide-to-africas-next-boom-21525afa9e70?source=rss-c32e489968d1------2)
+- [A Digital Nomads Guide from Africa and the World](https://medium.com/technerd/a-digital-nomads-guide-to-africas-next-boom-21525afa9e70?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
