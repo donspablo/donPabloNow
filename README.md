@@ -229,6 +229,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 15 Google Chrome Extensions 2022](https://medium.com/top15/top-15-google-chrome-extensions-2022-ffe327fcdd8d?source=rss-c32e489968d1------2)
 - [Engineering Our Own Divinity 2022](https://medium.com/god-exists/engineering-our-own-divinity-2022-c18b240f7239?source=rss-c32e489968d1------2)
 - [A Digital Nomads Guide from Africa and the World](https://medium.com/technerd/a-digital-nomads-guide-to-africas-next-boom-21525afa9e70?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
