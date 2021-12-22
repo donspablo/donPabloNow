@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [7. SMITE®](https://medium.com/top15/7-smite-52d4456c55?source=rss-c32e489968d1------2)
 - [10. World of Warships](https://medium.com/top15/10-world-of-warships-904e2571d063?source=rss-c32e489968d1------2)
 - [9. War Thunder](https://medium.com/top15/9-war-thunder-86a3fa9f2b19?source=rss-c32e489968d1------2)
 - [8. Conqueror’s Blade](https://medium.com/top15/8-conquerors-blade-de725197dd5a?source=rss-c32e489968d1------2)
-- [6. Warframe](https://medium.com/top15/6-warframe-8bb6b8c36782?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
