@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Clear Linux is the Turbo Linux Needs— Clearly the Most Powerful OS 2022](https://medium.com/technerd/clear-linux-is-the-turbo-linux-needs-clearly-the-most-powerful-os-2022-1be97caac435?source=rss-c32e489968d1------2)
 - [Artificial Intelligence Limited by Biology](https://medium.com/technerd/artificial-intelligence-limited-biology-6ea585df9322?source=rss-c32e489968d1------2)
 - [№7 SMITE Best Free-to-Play Games in the Word](https://medium.com/top15/7-smite-52d4456c55?source=rss-c32e489968d1------2)
 - [№10 World of Warships Best Free-to-Play Games in the Word](https://medium.com/top15/10-world-of-warships-904e2571d063?source=rss-c32e489968d1------2)
-- [№9 War Thunder Best Free-to-Play Games in the Word](https://medium.com/top15/9-war-thunder-86a3fa9f2b19?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
