@@ -229,7 +229,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence Limited Biology](https://medium.com/technerd/artificial-intelligence-limited-biology-6ea585df9322?source=rss-c32e489968d1------2)
+- [Artificial Intelligence Limited by Biology](https://medium.com/technerd/artificial-intelligence-limited-biology-6ea585df9322?source=rss-c32e489968d1------2)
 - [№7 SMITE Best Free-to-Play Games in the Word](https://medium.com/top15/7-smite-52d4456c55?source=rss-c32e489968d1------2)
 - [№10 World of Warships Best Free-to-Play Games in the Word](https://medium.com/top15/10-world-of-warships-904e2571d063?source=rss-c32e489968d1------2)
 - [№9 War Thunder Best Free-to-Play Games in the Word](https://medium.com/top15/9-war-thunder-86a3fa9f2b19?source=rss-c32e489968d1------2)
