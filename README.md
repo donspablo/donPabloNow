@@ -229,10 +229,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Everyday Survival Guide](https://medium.com/healthfreak/your-everyday-survival-guide-176c04c8d9c8?source=rss-c32e489968d1------2)
 - [MYTH BUSTED: Stress Could Save Your Life — Scientific Studies Prove that Stress is Good](https://medium.com/healthfreak/myth-busted-stress-could-save-your-life-scientific-studies-prove-that-stress-is-good-155c1976a98e?source=rss-c32e489968d1------2)
 - [Does our Creator have the Right to Exist until Proven Not to Exist— Presumptions of an Atheist…](https://medium.com/god-exists/does-our-creator-have-the-right-to-exist-until-proven-not-to-exist-presumptions-of-an-atheist-2a463415fe9c?source=rss-c32e489968d1------2)
 - [Clear Linux Performance Review — Most Powerful Cloud &amp; Desktop OS 2022](https://medium.com/technerd/clear-linux-performance-review-most-powerful-cloud-desktop-os-2022-437bd1d25ff0?source=rss-c32e489968d1------2)
-- [Clear Linux is the Turbo Linux Needs— Clearly the Most Powerful OS 2022](https://medium.com/technerd/clear-linux-is-the-turbo-linux-needs-clearly-the-most-powerful-os-2022-1be97caac435?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
