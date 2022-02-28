@@ -1,31 +1,41 @@
 <span align="center" bgcolor="#0d1117">
 <img title="title" alt="title" align="right" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
-<br/>
+<br/><br/>
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" />
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.gif" />
-<br/>
-<br/>
-<br/>
+<br /><br />
+<p align="center">
+    <h3>PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h3>
+ </p>
 
-<p align="center"><img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img  width="60%"  width="100%" height="1" align="center" src="./assets/bar.gif" /></p>
-
-<p align="center"><h1>Hows it? Welcome to the profile of don Pablo!</h1></p>
+██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
+██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
+██████████████████████████╔╝███████║██████╦╝██║░░░░░██║░░██║<br/>
+█▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
+██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
+▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
 <br />
-
+    
+<p align="center"> 
+    <img width="90%" src="./assets/references.svg" />
+    <img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" />
+ </p>
 <a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
 <a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
-
 <a href="https://www.instagram.com/donPablonow"><img  title="Instagram Followers" alt="Instagram Followers" align="right" width="100" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
 <a href="https://www.twitter.com/donPablonow"><img title="Twitter Followers" alt="Twitter Followers" align="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
-<br /><br />
+<br />
+
+<br />
 <img title="Github Contobutions" alt="Github Contobutions" align="right" width="100" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
 <img title="Github Yearly commits" alt="Github Yearly commits" align="left" width="100" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
 <img title="Gihub Member" alt="Gihub Member" align="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" />
 <img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />
-<br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
 
-<img height="120" title="The Index" alt="The Index" src="./assets/the-index.png" /><br/><br/><br/>
+
+
+<br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
 
 <img title="No. 1" alt="No. 1" height="35" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="75" src="./assets/whats-poppin-index.png" /></a><br/>
 Hows it? Introduction & Content Index</br>
@@ -62,21 +72,6 @@ Friends. Acknowledgements and Contributors</br>
 Bling. Certifications and Education</br>
 ᴰʳᶦᵖ ᵘˢᵉᵈ ᵃˢ ˢˡᵃⁿᵍ ᵐᵉᵃⁿˢ ˢᵗʸˡᵉ ᵖᵃʳᵗᶦᶜᵘˡᵃʳˡʸ ᶠᵃˢʰᶦᵒⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᵉˣʸ ˢᵗʸˡᵉ ᴵᵗ ᶜᵃⁿ ᵉˢᵖᵉᶜᶦᵃˡˡʸ<br/> ʳᵉᶠᵉʳ ᵗᵒ ᵗʰᶦⁿᵍˢ ˡᶦᵏᵉ ᶦᶜᵉ
 ʷʰᶦᶜʰ ᶦˢ ᵉˣᵖᵉⁿˢᶦᵛᵉ ʲᵉʷᵉˡʳʸ ᵒᶠᵗᵉⁿ<br/><br/>
-<br/>
-<h3>A passionate Software Nomad and Digital Engineer.</h3>
-
-██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
-██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
-██████████████████████████╔╝███████║██████╦╝██║░░░░░██║░░██║<br/>
-█▄─▄▄▀█─▄▄─█▄─▀█▄─▄███╔═══╝░██╔══██║██╔══██╗██║░░░░░██║░░██║<br/>
-██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
-▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
-<br />
-<img width="90%" src="./assets/references.svg">
-
-
-
-<br />
 
 
 <img align="right" width="15%" src="./assets/pablo-42.gif" /><img align="left" width="15%" title="Leaders" alt="Leaders" src="./assets/pablo-33.gif"/><img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpablonow&theme=dracula" />
