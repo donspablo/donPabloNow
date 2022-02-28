@@ -20,17 +20,16 @@
 
 
     
-<p align="center"><img width="90%" src="./assets/references.svg" /><img title="title" alt="title" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" /><img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /></p>
+<p align="center"><img width="90%" src="./assets/references.svg" /><img title="title" alt="title" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" /><img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><a href="https://profile.codersrank.io/user/donpablonow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a></p>
+<img align="right" width="35" src="./assets/pablo-28.gif" />
     
 
     
 <p align="center"><img title="Github Contobutions" alt="Github Contobutions" align="right" width="100" src="https://img.shields.io/badge/Contobutions-3.4k-green" />  <img title="Github Yearly commits" alt="Github Yearly commits" align="left" width="100" src="https://badges.pufler.dev/commits/yearly/donpablonow" /> <img title="Gihub Member" alt="Gihub Member" align="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" /> <img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />  </p>
 
-<p align="center"><a href="https://profile.codersrank.io/user/donpablonow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a><a href="https://www.instagram.com/donPablonow"><img  title="Instagram Followers" alt="Instagram Followers" align="right" width="100" src="https://img.shields.io/badge/Instagram-50k-white" /></a><a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a><a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a><a href="https://www.twitter.com/donPablonow"> <a href="https://instagram.com/donpablonow/"><img title="Twitter Followers" alt="Twitter Followers" align="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a></p>
+<p align="center"><a href="https://www.instagram.com/donPablonow"><img  title="Instagram Followers" alt="Instagram Followers" align="right" width="100" src="https://img.shields.io/badge/Instagram-50k-white" /></a><a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a><a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a><a href="https://www.twitter.com/donPablonow"> <a href="https://instagram.com/donpablonow/"><img title="Twitter Followers" alt="Twitter Followers" align="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /><br/>
     
-<img align="right" width="35" src="./assets/pablo-28.gif" />
-
-<img title="No. 1" alt="No. 1" height="35" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="75" src="./assets/whats-poppin-index.png" /></a><br/>
+<br/><img title="No. 1" alt="No. 1" height="35" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="75" src="./assets/whats-poppin-index.png" /></a><br/>
 Hows it? Introduction & Content Index</br>
 ᵀʰᵉ ᵗᵉʳᵐ ᵂʰᵃᵗˢ ᴾᵒᵖᵖᶦⁿ ᶦˢ ᵃ ᵍʳᵉᵉᵗᶦⁿᵍ ᵐᵉᵃⁿᶦⁿᵍ ᵂʰᵃᵗˢ ᴳᵒᶦⁿᵍ ᵒⁿ<br/><br/>
 <img title="No. 2" alt="No. 2" height="35" src="./assets/2.png"/><a href="#db"><img title="The 411" alt="The 411" height="75" src="./assets/the-411-index.png" /></a><br/>
