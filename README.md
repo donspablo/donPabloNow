@@ -9,8 +9,8 @@
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" />
 
 
-<img title="element" alt="element" width="75px" align="right" src="./assets/pablo-101.gif"/>
-<img title="element" alt="element" width="75px" align="left" src="./assets/pablo-101.gif"/>
+<img title="element" alt="element" width="45px" align="right" src="./assets/101.gif"/>
+<img title="element" alt="element" width="45px" align="left" src="./assets/102.gif"/>
 
 
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
