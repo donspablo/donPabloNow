@@ -1,8 +1,9 @@
 <span align="center" bgcolor="#0d1117">
+    
 <img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.gif" /><br />
 <img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" /><br />
+    
 <p align="center">
-    <img title="title" alt="title" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
     <h3>PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h3>
  </p>
 
@@ -17,26 +18,17 @@
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
 
+
     
-<p align="center"> 
-    <img width="90%" src="./assets/references.svg" />
-    <img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" />
- </p>
-<a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a>
-<a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a>
-<a href="https://www.instagram.com/donPablonow"><img  title="Instagram Followers" alt="Instagram Followers" align="right" width="100" src="https://img.shields.io/badge/Instagram-50k-white" /></a>
-<a href="https://www.twitter.com/donPablonow"><img title="Twitter Followers" alt="Twitter Followers" align="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a>
-<br />
+<p align="center"><img width="90%" src="./assets/references.svg" /><img title="title" alt="title" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" /><img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /></p>
+    
 
-<br />
-<img title="Github Contobutions" alt="Github Contobutions" align="right" width="100" src="https://img.shields.io/badge/Contobutions-3.4k-green" />
-<img title="Github Yearly commits" alt="Github Yearly commits" align="left" width="100" src="https://badges.pufler.dev/commits/yearly/donpablonow" />
-<img title="Gihub Member" alt="Gihub Member" align="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" />
-<img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />
+    
+<p align="center"><img title="Github Contobutions" alt="Github Contobutions" align="right" width="100" src="https://img.shields.io/badge/Contobutions-3.4k-green" />  <img title="Github Yearly commits" alt="Github Yearly commits" align="left" width="100" src="https://badges.pufler.dev/commits/yearly/donpablonow" /> <img title="Gihub Member" alt="Gihub Member" align="right" width="45" src="https://badges.pufler.dev/years/donPabloNow" /> <img title="Repos" alt="Repos" align="left" width="45" src="https://badges.pufler.dev/repos/donPabloNow" />  </p>
 
-
-
-<br/><br/><img align="right" width="35" src="./assets/pablo-28.gif" />
+<p align="center"><a href="https://profile.codersrank.io/user/donpablonow/"><img src="https://user-images.githubusercontent.com/6468571/156066116-f93d94c9-830a-4ddf-95c0-bb23ab10d4ed.png" /></a><a href="https://www.instagram.com/donPablonow"><img  title="Instagram Followers" alt="Instagram Followers" align="right" width="100" src="https://img.shields.io/badge/Instagram-50k-white" /></a><a href="https://www.youtube.com/c/donPablonow"><img title="Youtube Subscribers" alt="Youtube Subscribers" align="left" width="100" src="https://img.shields.io/badge/subscribers-5k-red?logo=youtube&style=social" /></a><a href="https://www.github.com/donPablonow"><img title="Github Followers" alt="Github Followers" align="right" width="115" src="https://img.shields.io/badge/Follow-1.5k-blue?logo=github&style=social" /></a><a href="https://www.twitter.com/donPablonow"> <a href="https://instagram.com/donpablonow/"><img title="Twitter Followers" alt="Twitter Followers" align="left" width="100" src="https://img.shields.io/badge/Follow-150-lightgrey?logo=twitter&style=social" /></a></p>
+    
+<img align="right" width="35" src="./assets/pablo-28.gif" />
 
 <img title="No. 1" alt="No. 1" height="35" src="./assets/1.png"/><a href="#"><img title="Whats Poppin" alt="Whats Poppin" height="75" src="./assets/whats-poppin-index.png" /></a><br/>
 Hows it? Introduction & Content Index</br>
