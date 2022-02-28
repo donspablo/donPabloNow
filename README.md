@@ -1,12 +1,17 @@
 <span align="center" bgcolor="#0d1117">
-<img title="title" alt="title" align="right" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
-<br/><br/>
-<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" />
-<img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.gif" />
-<br /><br />
 <p align="center">
+    <img title="title" alt="title" width="100" src="https://profile-counter.glitch.me/donPabloNow/count.svg" />
     <h3>PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h3>
  </p>
+ 
+
+<img title="element" alt="element" align="right" width="30" src="./assets/pablo-30.gif" />
+<img title="element" alt="element" align="left" width="50" src="./assets/pablo-34.gif" />
+
+
+<img title="element" alt="element" width="75px" align="right" src="./assets/pablo-101.gif"/>
+<img title="element" alt="element" width="75px" align="left" src="./assets/pablo-101.gif"/>
+
 
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
@@ -15,7 +20,7 @@
 ██─██─█─██─██─█▄▀─████║░░░░░██║░░██║██████╦╝███████╗╚█████╔╝<br/>
 ▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀╚═╝░░░░░╚═╝░░╚═╝╚═════╝░╚══════╝░╚════╝░<br/>
 
-<br />
+
     
 <p align="center"> 
     <img width="90%" src="./assets/references.svg" />
