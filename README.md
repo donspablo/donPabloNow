@@ -6,8 +6,8 @@
     <h3>PASSIONATE SOFTWARE NOMAD AND DIGITAL EXPLORER</h3>
  </p>
 
-<img title="element" alt="element" width="45px" align="right" src="./assets/101.gif"/>
-<img title="element" alt="element" width="45px" align="left" src="./assets/102.gif"/>
+<img title="element" alt="element" width="50px" height="125px" align="right" src="./assets/101.gif"/>
+<img title="element" alt="element" width="50px" height="125px" align="left" src="./assets/102.gif"/>
 
 ██████████████████████████╗░░█████╗░██████╗░██╗░░░░░░█████╗░<br/>
 ██████████████████████╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔══██╗<br/>
