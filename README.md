@@ -242,10 +242,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP caching that is 450 times faster than Redis, Memcache, and APC](https://medium.com/@donpablonow/php-caching-that-is-450-times-faster-than-redis-memcache-and-apc-dfdf00d82ed7?source=rss-c32e489968d1------2)
 - [№2 The Base Rate Fallacy — Defense Against the Deceptive Art of Flawed Reasoning](https://medium.com/logical-fallacies/2-the-base-rate-fallacy-defense-against-the-deceptive-art-of-flawed-reasoning-4cdcd38cae8?source=rss-c32e489968d1------2)
 - [№1 The Argument From Fallacy — Defense Against the Deceptive Art of Flawed Reasoning](https://medium.com/logical-fallacies/1-the-argument-from-fallacy-defense-against-the-deceptive-art-of-flawed-reasoning-18b0fc232a18?source=rss-c32e489968d1------2)
 - [Logical Fallacies — Defense Against the Deceptive Art of False Reasoning](https://medium.com/logical-fallacies/logical-fallacies-defense-against-the-deceptive-art-of-false-reasoning-bba51b84f26f?source=rss-c32e489968d1------2)
-- [Your Everyday Survival Guide](https://medium.com/healthfreak/your-everyday-survival-guide-176c04c8d9c8?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
