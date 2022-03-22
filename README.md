@@ -242,10 +242,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlassian Complete Suite Dockered](https://medium.com/homelab/atlassian-complete-suite-dockered-b0cf6a0a4268?source=rss-c32e489968d1------2)
-- [Freelance Revolution: 400+ Freelancer Marketplaces, Remote Jobs &amp; Portals — The Ultimate Home…](https://medium.com/top15/freelance-revolution-400-freelancer-marketplaces-remote-jobs-portals-the-ultimate-home-d458de8a09e?source=rss-c32e489968d1------2)
-- [.yxorP Open SAAS Project — Multi-tenant/threaded Augmentation &lpar;10k+&rpar; Proxy with  Cache Drivers Incl.](https://medium.com/technerd/yxorp-open-saas-project-multi-tenant-threaded-augmentation-10k-proxy-with-cache-drivers-incl-8535c9464d8f?source=rss-c32e489968d1------2)
-- [Homelab Ultimate Guide — Setup like a Boss with this Pro Home-lab Guide](https://medium.com/homelab/homelab-ultimate-guide-setup-like-a-boss-with-this-pro-home-lab-guide-92387943a38d?source=rss-c32e489968d1------2)
+- [Fast Simple Python &lpar;Sub&rpar;Directory File to MySQL DB Email Extractor](https://homelab.xn--dn-8bb.com/fast-simple-python-sub-directory-file-to-mysql-db-email-extractor-716150ea37ee?source=rss-c32e489968d1------2)
+- [Atlassian Complete Suite Dockered](https://homelab.xn--dn-8bb.com/atlassian-complete-suite-dockered-b0cf6a0a4268?source=rss-c32e489968d1------2)
+- [Freelance Revolution: 400+ Freelancer Marketplaces, Remote Jobs &amp; Portals — The Ultimate Home…](https://top5.xn--dn-8bb.com/freelance-revolution-400-freelancer-marketplaces-remote-jobs-portals-the-ultimate-home-d458de8a09e?source=rss-c32e489968d1------2)
+- [.yxorP Open SAAS Project — Multi-tenant/threaded Augmentation &lpar;10k+&rpar; Proxy with  Cache Drivers Incl.](https://tech.xn--dn-8bb.com/yxorp-open-saas-project-multi-tenant-threaded-augmentation-10k-proxy-with-cache-drivers-incl-8535c9464d8f?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
