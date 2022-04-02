@@ -242,10 +242,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [AAX: №1 The Worst “Free” Signup Bonus Ever](https://tech.xn--dn-8bb.com/aax-1-the-worst-free-signup-bonus-ever-e38f2adc5911?source=rss-c32e489968d1------2)
 - [Acne Treatment for Stubborn Pimples That Works!](https://health.xn--dn-8bb.com/acne-treatment-for-stubborn-pimples-that-works-252a81fd3f4f?source=rss-c32e489968d1------2)
 - [400+ Writing Marketplaces — Freelance Content Writing Platforms](https://top5.xn--dn-8bb.com/400-writing-marketplaces-freelance-content-writing-platforms-a6b05b7b14f8?source=rss-c32e489968d1------2)
 - [Earn $100pm From Your Website — Recurring Income in 5min No Skills Required](https://how-to.xn--dn-8bb.com/earn-100pm-from-your-website-recurring-income-in-5min-no-skills-required-1c46b6a9182d?source=rss-c32e489968d1------2)
-- [The Game confirmed, Time to Gamify our Lives? — Gamification](https://god.xn--dn-8bb.com/the-game-confirmed-time-to-gamify-our-lives-gamification-6f3db57908b0?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
