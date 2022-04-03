@@ -242,10 +242,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Σarn° &lpar;$1000x1000²&rpar; ≡ Millioπaire’s Guide to Freelance. Writing. Freedom.](https://how-to.xn--dn-8bb.com/%CF%83arn-1000x1000%C2%B2-millio%CF%80aires-guide-to-freelance-writing-freedom-6594ba022679?source=rss-c32e489968d1------2)
 - [Why ProxyCrawl + Free XXL Account — Get Double for Free&lpar;Exclusive&rpar;](https://how-to.xn--dn-8bb.com/why-proxycrawl-free-xxl-account-get-double-for-free-exclusive-aa1de57f1f50?source=rss-c32e489968d1------2)
 - [AAX: №1 The Worst “Free” Signup Bonus Ever](https://tech.xn--dn-8bb.com/aax-1-the-worst-free-signup-bonus-ever-e38f2adc5911?source=rss-c32e489968d1------2)
 - [Acne Treatment for Stubborn Pimples That Works!](https://health.xn--dn-8bb.com/acne-treatment-for-stubborn-pimples-that-works-252a81fd3f4f?source=rss-c32e489968d1------2)
-- [400+ Writing Marketplaces — Freelance Content Writing Platforms](https://top5.xn--dn-8bb.com/400-writing-marketplaces-freelance-content-writing-platforms-a6b05b7b14f8?source=rss-c32e489968d1------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
