@@ -21,6 +21,7 @@
 
 
 <p  align="center">
+    <img align="center" src="http://haka.wh0a.com/badge/svg/4c9183f2-2ab7-42bb-bb3c-6461fdfe19d9" /><br /><br /><br />
     <img width="90%" src="./assets/references.svg" /><br /><br /><br />
     <img align="center" title="Whats Poppin" alt="Whats Poppin" width="60%" src="./assets/whats-poppin-title.png" />
     <img width="80%" align="center" height="1" src="./assets/bar.gif" />
