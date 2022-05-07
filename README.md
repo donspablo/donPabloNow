@@ -243,7 +243,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Next Year Pure Diamond Storage with a Capacity of 25,000,000 TB — Future Technology](https://medium.com/techverge/pure-diamonds-have-a-storage-capacity-of-25-000-000-tb-e435a5729b4c?source=rss-c4c44819bad7------2)
+- [Pure Diamond 25,000,000 TB Storage Capacity Commercially Available Next Year](https://medium.com/techverge/pure-diamonds-have-a-storage-capacity-of-25-000-000-tb-e435a5729b4c?source=rss-c4c44819bad7------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
