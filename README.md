@@ -243,10 +243,7 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [The ‘Disney Vault’ secret — Earning Money Online](https://how-to.xn--dn-8bb.com/the-disney-vault-secret-earning-money-online-eedfe406d896?source=rss-c32e489968d1------2)
-- [A Dark Side Exclusive: Introduction](https://darkside.xn--dn-8bb.com/a-dark-side-exclusive-introduction-e6fbfb0a3287?source=rss-c32e489968d1------2)
-- [Millionaire’s Freelance to Freedom Handbook:How-to &lpar;Earn $1000&rpar;x&lpar;1000 Different Ways&rpar;](https://how-to.xn--dn-8bb.com/%CF%83arn-1000x1000%C2%B2-millio%CF%80aires-guide-to-freelance-writing-freedom-6594ba022679?source=rss-c32e489968d1------2)
-- [Why ProxyCrawl + Free XXL Account — Get Double for Free&lpar;Exclusive&rpar;](https://how-to.xn--dn-8bb.com/why-proxycrawl-free-xxl-account-get-double-for-free-exclusive-aa1de57f1f50?source=rss-c32e489968d1------2)
+- [Next Year Pure Diamond Storage with a Capacity of 25,000,000 TB — Future Technology](https://medium.com/techverge/pure-diamonds-have-a-storage-capacity-of-25-000-000-tb-e435a5729b4c?source=rss-c4c44819bad7------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
