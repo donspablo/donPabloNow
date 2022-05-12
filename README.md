@@ -243,10 +243,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Medium Income Accelerator — Immediately Double Your Freelance Writing Income](https://medium.com/techverge/medium-income-accelerator-immediately-double-your-freelance-writing-income-a882a0fe256c?source=rss-c4c44819bad7------2)
 - [The End of Consciousness](https://medium.com/techverge/the-end-of-consciousness-e9bdec68178c?source=rss-c4c44819bad7------2)
 - [Running the World: Privately Banks Hold $84.97](https://medium.com/techverge/running-the-world-privately-banks-hold-84-97-c9241c196453?source=rss-c4c44819bad7------2)
 - [The Truth About Money — A Hard Pill to Swallow](https://medium.com/techverge/the-truth-about-money-a-hard-pill-to-swallow-9ed8378cde16?source=rss-c4c44819bad7------2)
-- [The Last Great War — Ukraine may be the Last European War as China strives  toward World…](https://medium.com/techverge/the-last-great-war-ukraine-may-be-the-last-european-war-as-china-strives-toward-world-a6a7d0929830?source=rss-c4c44819bad7------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
