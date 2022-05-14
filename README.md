@@ -243,9 +243,9 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [The Greatest Digital Currency Heist in History — Never Reported](https://medium.com/@donpablonow/the-greatest-digital-currency-heist-in-history-never-reported-612a9520b536?source=rss-c4c44819bad7------2)
+- [The Greatest Digital Currency Heist in History — Never Reported](https://medium.com/techverge/the-greatest-digital-currency-heist-in-history-never-reported-612a9520b536?source=rss-c4c44819bad7------2)
 - [Medium Income Accelerator — Immediately Double Your Freelance Writing Income](https://medium.com/techverge/medium-income-accelerator-immediately-double-your-freelance-writing-income-a882a0fe256c?source=rss-c4c44819bad7------2)
-- [The End of Consciousness](https://medium.com/techverge/the-end-of-consciousness-e9bdec68178c?source=rss-c4c44819bad7------2)
+- [What is Consciousness](https://medium.com/techverge/the-end-of-consciousness-e9bdec68178c?source=rss-c4c44819bad7------2)
 - [Running the World: Privately Banks Hold $84.97](https://medium.com/techverge/running-the-world-privately-banks-hold-84-97-c9241c196453?source=rss-c4c44819bad7------2)
 <!-- BLOG-POST-LIST:END --> 
 
