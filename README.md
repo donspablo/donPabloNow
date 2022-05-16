@@ -243,10 +243,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien Fossils on Mars are Life-mimicking with Non-biological Origins — NASA](https://medium.com/techverge/alien-fossils-on-mars-are-life-mimicking-with-non-biological-origins-nasa-8e5b0816aac2?source=rss-c4c44819bad7------2)
 - [MEAN OS — A WEB 3 DISTRIBUTED OPERATING SYSTEM](https://medium.com/meanos/mean-os-a-web-3-distributed-operating-system-ed2205d23fd2?source=rss-c4c44819bad7------2)
 - [Rage, Rage Against the Dying of the Light — Do not go gentle into that good night](https://medium.com/techverge/rage-rage-against-the-dying-of-the-light-do-not-go-gentle-into-that-good-night-fa368d81e1c1?source=rss-c4c44819bad7------2)
 - [Blinded by Salary Increases &amp; Appreciating Assets — Hard Work is a One-way Road to Poverty](https://medium.com/techverge/blinded-by-salary-increases-appreciating-assets-hard-work-is-a-one-way-road-to-poverty-a9bc35c778d5?source=rss-c4c44819bad7------2)
-- [The Greatest Digital Currency Heist in History — Never Reported](https://medium.com/techverge/the-greatest-digital-currency-heist-in-history-never-reported-612a9520b536?source=rss-c4c44819bad7------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
