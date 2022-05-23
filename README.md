@@ -243,10 +243,10 @@ Bling. Certifications and Education</br>
 <img  align="right" width="150" src="./assets/pablo-37.gif" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk &amp; Bezos Collectively as Wealthy 3.9](https://medium.com/@donpablonow/musk-bezos-collectively-as-wealthy-3-9-a25eb1fb5623?source=rss-c4c44819bad7------2)
 - [The Writer’s Guide to the Galax — One Thousand Ways to Make a Million Dreams Come True](https://medium.com/techverge/the-writers-guide-to-the-galax-one-thousand-ways-to-make-a-million-dreams-come-true-9be95506bb49?source=rss-c4c44819bad7------2)
-- [Musk says $44 billion Twitter deal on hold over fake account data](https://medium.com/techverge/musk-says-44-billion-twitter-deal-on-hold-over-fake-account-data-2c7f84c5d732?source=rss-c4c44819bad7------2)
-- [Overwhelming Evidence a White U.S. Male Cannot Commit Sexual Assault](https://medium.com/techverge/overwhelming-evidence-a-white-u-s-male-cannot-commit-sexual-assault-764cdbf1398b?source=rss-c4c44819bad7------2)
+- [Alien Fossils on Mars are Life-mimicking with Non-biological Origins — NASA](https://medium.com/techverge/alien-fossils-on-mars-are-life-mimicking-with-non-biological-origins-nasa-8e5b0816aac2?source=rss-c4c44819bad7------2)
+- [MEAN OS — A WEB 3 DISTRIBUTED OPERATING SYSTEM](https://medium.com/meanos/mean-os-a-web-3-distributed-operating-system-ed2205d23fd2?source=rss-c4c44819bad7------2)
+- [Rage, Rage Against the Dying of the Light — Do not go gentle into that good night](https://medium.com/techverge/rage-rage-against-the-dying-of-the-light-do-not-go-gentle-into-that-good-night-fa368d81e1c1?source=rss-c4c44819bad7------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
